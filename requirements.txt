@@ -1,0 +1,9 @@
+streamlit
+requests
+beautifulsoup4
+pdfplumber          # better PDF text extraction
+pdf2image
+opencv-python-headless
+pytesseract
+Pillow
+numpy

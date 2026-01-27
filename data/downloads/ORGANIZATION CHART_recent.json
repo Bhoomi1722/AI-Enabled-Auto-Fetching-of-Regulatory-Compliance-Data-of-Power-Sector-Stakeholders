@@ -1,0 +1,13 @@
+{
+  "filename": "C:\\Users\\bhumi\\OneDrive\\Desktop\\AI_Regulatory_Compliance\\data\\downloads\\ORGANIZATION CHART_recent.pdf",
+  "source": "text",
+  "text_length": 800,
+  "text_preview": "CENTRAL ELECTRICITY REGULATORY COMMISSION (CERC)\nORGANISATION STRUCTURE\nAs on 31/03/2025\nMember Member Chairperson Member Chairperson, CEA\n(Finance) (Technical) (Legal) Member (EX-Officio)\nSecretary\nFinance Engg. Economic Legal RA Division Admin Accounts MIS Division\nDivision Division Division Division Division Division\nChief (Fin) Chief (Engg) Chief (Eco) Joint chief Chief (RA) Joint Chief (MIS)\n(Legal)\nD\n(A\ny.\nd\nC\nm\nh\nin\nie\n)\nf IFA\nJoint Chief (Fin) Joint Chief (Engg.)\nDy. Chief (Eco) Dy.Chief (Legal) Joint Chief (RA) Asstt. Sec. (P&A) Asstt.Chief (Acct) Dy. Chief (MIS)\nDy.Chief (Fin) Dy.Chief (Engg)\nDy.Chief (RA)\nAsstt. Chief (Eco) Asstt. Chief (Legal) Bench Officer Sr. Accounts PAO Asstt.Chief (MIS)\nOfficer\nAsstt. Chief (Fin)\nAsstt. Chief (Engg)\nAsstt. Chief (RA) Asstt. Secretary\n(FOR)",
+  "structured": {
+    "compliance_type": "Unknown",
+    "due_date": "N/A",
+    "entity": "Power Sector Stakeholders",
+    "reference": "C:\\Users\\bhumi\\OneDrive\\Desktop\\AI_Regulatory_Compliance\\data\\downloads\\ORGANIZATION CHART_recent.pdf",
+    "risk_level": "Low"
+  }
+}
