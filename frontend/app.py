@@ -1,51 +1,82 @@
-import sys
-from pathlib import Path
-
-# Add project root to Python path
-project_root = Path(__file__).resolve().parent.parent
-sys.path.insert(0, str(project_root))
+# ======================================
+# app.py  (Streamlit main)
+# ======================================
 import streamlit as st
+import pandas as pd
 from backend.fetcher import fetch_recent_pdfs, download_pdf
 from backend.pdf_processor import PDFProcessor
-from backend.utils import save_json
-import time
+from backend.utils import save_json, logger
+from backend.compliance_extractor import extract_compliance_obligations
 
 st.set_page_config(page_title="AI Regulatory Compliance Fetcher", layout="wide")
-st.title("AI-Enabled Regulatory Compliance Data Fetcher")
-st.markdown("**Power Sector – CEA & CERC** (20% Prototype)")
+st.title("AI-Enabled Auto Fetching of Regulatory Compliance – Power Sector")
+st.markdown("**CEA & CERC** • ~50% Prototype • Fetch + Extract + Structured Obligations")
 
-if st.button("Fetch Latest Regulatory PDFs (CEA & CERC)", type="primary"):
-    with st.spinner("Fetching & Processing..."):
+if st.button("Fetch & Process Latest PDFs (CEA + CERC)", type="primary"):
+    with st.spinner("Fetching recent PDFs and extracting obligations..."):
         processor = PDFProcessor()
-        results = []
-
-        for source in ["CEA", "CERC"]:
-            links = fetch_recent_pdfs(source)
-            for url in links[:2]:  # limit for demo
+        all_results = []
+        all_obligations = []
+        
+        for source in ["CERC", "CEA"]:
+            st.write(f"Processing {source}...")
+            urls = fetch_recent_pdfs(source)
+            
+            for url in urls[:4]:  # limit per source
                 path = download_pdf(url)
-                if path:
-                    data = processor.process_pdf(path)
-                    results.append(data)
-                    # Save extracted
-                    save_json(data, data["filename"].replace(".pdf", ""))
-
-        if results:
-            st.success(f"Processed {len(results)} documents")
-
-            tab1, tab2 = st.tabs(["📊 Compliance Overview", "📄 Raw Extracts"])
-
+                if not path:
+                    continue
+                
+                data = processor.process_pdf(path)
+                data["source_name"] = source
+                all_results.append(data)
+                
+                # Save per file
+                save_json(data, data["filename"].replace(".pdf", ""))
+                
+                all_obligations.extend([
+                    {**ob, "filename": data["filename"], "source": source}
+                    for ob in data["obligations"]
+                ])
+        
+        if all_results:
+            st.success(f"Processed {len(all_results)} documents • Found {len(all_obligations)} potential obligations")
+            
+            tab1, tab2, tab3 = st.tabs(["📊 Obligations Table", "📄 Document Previews", "🔧 Raw Data"])
+            
             with tab1:
-                st.subheader("Dummy Structured Compliance")
-                for r in results:
-                    with st.expander(r["filename"]):
-                        st.json(r["structured"])
-
+                if all_obligations:
+                    df = pd.DataFrame(all_obligations)
+                    st.subheader("Extracted Compliance Obligations")
+                    st.dataframe(
+                        df[["filename", "source", "section", "obligation", "keywords", "confidence"]],
+                        use_container_width=True,
+                        hide_index=True
+                    )
+                    
+                    csv = df.to_csv(index=False).encode('utf-8')
+                    st.download_button(
+                        label="Download All Obligations as CSV",
+                        data=csv,
+                        file_name="power_sector_compliance_obligations.csv",
+                        mime="text/csv"
+                    )
+                else:
+                    st.info("No obligations detected yet — patterns need tuning or LLM next.")
+            
             with tab2:
-                for r in results:
-                    with st.expander(f"{r['filename']} – {r['source'].upper()}"):
-                        st.write(f"**Preview (first 400 chars):**")
-                        st.code(r["text_preview"])
+                for res in all_results:
+                    with st.expander(f"{res['filename']}  ({res['source_name']}) – {res['obligations_count']} obligations"):
+                        st.write("**Text preview (first 500 chars):**")
+                        st.code(res["preview"])
+                        if res["obligations"]:
+                            st.write("**Detected obligations:**")
+                            for ob in res["obligations"]:
+                                st.markdown(f"**{ob['section']}** – {ob['obligation'][:150]}...")
+            
+            with tab3:
+                st.json(all_results)
         else:
-            st.warning("No PDFs found or download failed.")
+            st.warning("No PDFs could be fetched or processed. Check logs / network.")
 
-st.caption("20% complete • Fetch + Extract pipeline • Ready for LLM integration")
+st.caption("50% Milestone • Reliable fetch + sentence-level obligation detection + table + export • Ready for LLM/OCR polish")

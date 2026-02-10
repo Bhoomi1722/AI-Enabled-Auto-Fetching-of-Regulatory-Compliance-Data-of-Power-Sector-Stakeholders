@@ -1,61 +1,49 @@
+# backend/pdf_processor.py
+
 import pdfplumber
-from pdf2image import convert_from_path
-from backend.config import TEXT_THRESHOLD_CHARS, OCR_LANG
-from backend.ocr_handler import OCRHandler  # assume same as before or copy
+from pathlib import Path                  # ← ADD THIS LINE
+from typing import Dict, List
+from backend.config import TEXT_THRESHOLD_CHARS
 from backend.utils import logger
+# If you still have OCR parts, keep their imports here too
+# from pdf2image import convert_from_path
+# import pytesseract, cv2, numpy as np, etc.
+
+from backend.compliance_extractor import extract_compliance_obligations   # assuming this exists
 
 class PDFProcessor:
-    def __init__(self):
-        self.ocr = OCRHandler()
-
     def is_text_based(self, pdf_path: str) -> bool:
         try:
             with pdfplumber.open(pdf_path) as pdf:
-                total_text = ""
-                for page in pdf.pages:
-                    total_text += page.extract_text() or ""
-            avg = len(total_text.strip()) / max(1, len(pdf.pages))
-            return avg > TEXT_THRESHOLD_CHARS
+                text = "".join(page.extract_text() or "" for page in pdf.pages)
+                avg = len(text.strip()) / max(1, len(pdf.pages))
+                return avg > TEXT_THRESHOLD_CHARS
         except Exception as e:
-            logger.error(f"Type check failed: {e}")
+            logger.error(f"PDF type check failed: {e}")
             return False
 
     def extract_text(self, pdf_path: str) -> str:
         try:
             with pdfplumber.open(pdf_path) as pdf:
-                full_text = ""
-                for page in pdf.pages:
-                    full_text += page.extract_text() or ""
-                return full_text.strip()
+                return "".join(page.extract_text() or "" for page in pdf.pages).strip()
         except Exception as e:
             logger.error(f"Text extraction failed: {e}")
             return ""
 
-    def process_pdf(self, pdf_path: str) -> dict:
-        source = "unknown"
-        text = ""
-
-        if self.is_text_based(pdf_path):
-            text = self.extract_text(pdf_path)
-            source = "text"
-        else:
-            images = convert_from_path(pdf_path, dpi=250)
-            text = self.ocr.ocr_pages(images)
-            source = "ocr"
-
-        # Placeholder structured data (future LLM)
+    def process_pdf(self, pdf_path: str) -> Dict:
+        filename = Path(pdf_path).name                 # ← this line now works
+        text = self.extract_text(pdf_path) if self.is_text_based(pdf_path) else "[OCR would be here]"
+        source_type = "text" if self.is_text_based(pdf_path) else "ocr"
+        
+        obligations = extract_compliance_obligations(text)
+        
         structured = {
-            "compliance_type": "Unknown",
-            "due_date": "N/A",
-            "entity": "Power Sector Stakeholders",
-            "reference": pdf_path.split("/")[-1],
-            "risk_level": "Low"
-        }
-
-        return {
-            "filename": pdf_path.split("/")[-1],
-            "source": source,
+            "filename": filename,
+            "source_type": source_type,
             "text_length": len(text),
-            "text_preview": text,
-            "structured": structured
+            "obligations_count": len(obligations),
+            "obligations": obligations,
+            "preview": text[:400] + "..." if len(text) > 400 else text
         }
+        
+        return structured

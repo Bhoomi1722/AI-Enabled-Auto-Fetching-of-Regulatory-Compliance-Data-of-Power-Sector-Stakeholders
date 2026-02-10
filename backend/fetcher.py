@@ -1,76 +1,78 @@
+# backend/fetcher.py
+
 import requests
 from bs4 import BeautifulSoup
 from urllib.parse import urljoin
 from requests.adapters import HTTPAdapter
 from requests.packages.urllib3.util.retry import Retry
-from backend.config import SOURCES, DOWNLOAD_DIR
-from backend.utils import logger
 
-def fetch_recent_pdfs(source_name: str = "CEA") -> list:
+# ────────────────────────────────────────────────
+# Fixed: removed logger from config import
+from backend.config import SOURCES, DOWNLOAD_DIR
+from backend.utils import logger          # ← logger comes from here
+# ────────────────────────────────────────────────
+
+def fetch_recent_pdfs(source_name: str = "CERC") -> list[str]:
     if source_name not in SOURCES:
         raise ValueError("Unknown source")
-
+    
     config = SOURCES[source_name]
-    url = config["url"]
-    selector = config["news_selector"]
-
-    # Improved session with retries + better headers
+    base_url = config["base_url"]
+    pdf_links = []
+    
     session = requests.Session()
     retries = Retry(total=3, backoff_factor=1, status_forcelist=[429, 500, 502, 503, 504])
-    session.mount('http://', HTTPAdapter(max_retries=retries))
     session.mount('https://', HTTPAdapter(max_retries=retries))
+    headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120 Safari/537.36"}
+    
+    # Try known prefix patterns first
+    for prefix in config.get("pdf_prefixes", []):
+        try:
+            list_url = urljoin(base_url, prefix)
+            resp = session.get(list_url, headers=headers, timeout=15)
+            if resp.status_code != 200:
+                continue
+            soup = BeautifulSoup(resp.text, "html.parser")
+            for a in soup.find_all("a", href=True):
+                href = a["href"]
+                if href.lower().endswith(".pdf"):
+                    full = urljoin(list_url, href)
+                    pdf_links.append(full)
+        except Exception as e:
+            logger.warning(f"Failed to scrape {prefix}: {e}")
+    
+    # Fallback to hardcoded recent ones if nothing found
+    if not pdf_links:
+        pdf_links = config.get("fallback_pdfs", [])[:config["limit"]]
+        logger.info(f"Using fallback PDFs for {source_name}")
+    else:
+        pdf_links = pdf_links[:config["limit"]]
+    
+    logger.info(f"{source_name}: Collected {len(pdf_links)} PDF URLs")
+    return pdf_links
 
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                      "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
-        "Accept-Language": "en-US,en;q=0.5",
-        "Referer": "https://www.google.com/",
-        "Connection": "keep-alive",
-    }
 
-    try:
-        resp = session.get(url, headers=headers, timeout=20)
-        resp.raise_for_status()
-        soup = BeautifulSoup(resp.text, "html.parser")
-
-        pdf_links = []
-        for a in soup.select(selector)[:config["limit"]]:
-            href = a.get("href")
-            if href and href.lower().endswith(".pdf"):
-                full_url = urljoin(url, href)
-                pdf_links.append(full_url)
-
-        logger.info(f"{source_name}: Found {len(pdf_links)} PDF links")
-        return pdf_links
-    except requests.exceptions.RequestException as e:
-        logger.error(f"Fetch failed for {source_name}: {e}")
-        return []
-
-def download_pdf(url: str) -> str:
+def download_pdf(url: str) -> str | None:
     try:
         filename = url.split("/")[-1]
         path = DOWNLOAD_DIR / filename
         if path.exists():
-            logger.info(f"Already exists: {filename}")
+            logger.info(f"Already downloaded: {filename}")
             return str(path)
-
+        
         session = requests.Session()
         retries = Retry(total=3, backoff_factor=1)
         session.mount('https://', HTTPAdapter(max_retries=retries))
-
-        headers = {
-            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
-                          "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36",
-        }
-
+        headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120 Safari/537.36"}
+        
         resp = session.get(url, headers=headers, timeout=30, stream=True)
         resp.raise_for_status()
+        
         with open(path, "wb") as f:
-            for chunk in resp.iter_content(chunk_size=8192):
+            for chunk in resp.iter_content(8192):
                 f.write(chunk)
         logger.info(f"Downloaded: {filename}")
         return str(path)
-    except requests.exceptions.RequestException as e:
+    except Exception as e:
         logger.error(f"Download failed {url}: {e}")
-        return ""
+        return None

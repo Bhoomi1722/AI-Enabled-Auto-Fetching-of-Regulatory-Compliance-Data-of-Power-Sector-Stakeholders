@@ -1,24 +1,29 @@
+# backend/utils.py
+
 import logging
-import os
 from pathlib import Path
-from typing import Dict
+import json
 
-logging.basicConfig(level=logging.INFO)
+# ────────────────────────────────────────────────
+logging.basicConfig(
+    level=logging.INFO,
+    format='%(asctime)s - %(name)s - %(levelname)s - %(message)s'
+)
+
 logger = logging.getLogger(__name__)
+# ────────────────────────────────────────────────
 
-class ProcessingError(Exception):
-    pass
+JSON_DIR = Path(__file__).parent.parent / "data" / "extracted"
 
-def cleanup_file(filepath: str):
-    try:
-        os.remove(filepath)
-        logger.info(f"Cleaned: {filepath}")
-    except Exception:
-        pass
-
-def save_json(data: Dict, filename: str):
-    path = Path(__file__).parent.parent / "data" / "extracted" / f"{filename}.json"
-    import json
+def save_json(data: dict, filename: str):
+    path = JSON_DIR / f"{filename}.json"
     with open(path, "w", encoding="utf-8") as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     logger.info(f"Saved JSON: {path}")
+
+def cleanup_file(filepath: str):
+    try:
+        Path(filepath).unlink()
+        logger.info(f"Cleaned up: {filepath}")
+    except Exception:
+        pass
