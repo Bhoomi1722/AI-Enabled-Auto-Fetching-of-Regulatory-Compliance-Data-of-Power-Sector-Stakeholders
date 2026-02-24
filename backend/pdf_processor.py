@@ -1,15 +1,14 @@
-# backend/pdf_processor.py
-
 import pdfplumber
-from pathlib import Path                  # ← ADD THIS LINE
-from typing import Dict, List
+from pathlib import Path
+from typing import Dict
+
 from backend.config import TEXT_THRESHOLD_CHARS
 from backend.utils import logger
-# If you still have OCR parts, keep their imports here too
-# from pdf2image import convert_from_path
-# import pytesseract, cv2, numpy as np, etc.
+from backend.compliance_extractor import extract_compliance_obligations
 
-from backend.compliance_extractor import extract_compliance_obligations   # assuming this exists
+# OCR dependencies – uncomment when ready
+# from pdf2image import convert_from_path
+# from backend.ocr_handler import OCRHandler
 
 class PDFProcessor:
     def is_text_based(self, pdf_path: str) -> bool:
@@ -31,19 +30,31 @@ class PDFProcessor:
             return ""
 
     def process_pdf(self, pdf_path: str) -> Dict:
-        filename = Path(pdf_path).name                 # ← this line now works
-        text = self.extract_text(pdf_path) if self.is_text_based(pdf_path) else "[OCR would be here]"
-        source_type = "text" if self.is_text_based(pdf_path) else "ocr"
-        
+        filename = Path(pdf_path).name
+        text = ""
+        source_type = "unknown"
+
+        if self.is_text_based(pdf_path):
+            text = self.extract_text(pdf_path)
+            source_type = "text"
+        else:
+            # OCR path – currently placeholder (uncomment when pdf2image + poppler ready)
+            text = "[OCR not active in this version – install pdf2image & poppler]"
+            source_type = "ocr-placeholder"
+            # Example OCR activation (commented):
+            # images = convert_from_path(pdf_path, dpi=250)
+            # ocr_handler = OCRHandler()
+            # pages = ocr_handler.ocr_pdf_pages(images)
+            # text = "\n\n".join([f"Page {pg}: {txt}" for pg, txt in pages if txt.strip()])
+
         obligations = extract_compliance_obligations(text)
-        
+
         structured = {
             "filename": filename,
             "source_type": source_type,
             "text_length": len(text),
             "obligations_count": len(obligations),
             "obligations": obligations,
-            "preview": text[:400] + "..." if len(text) > 400 else text
+            "preview": text[:600] + "..." if len(text) > 600 else text
         }
-        
         return structured

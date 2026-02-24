@@ -1,6 +1,3 @@
-# ======================================
-# backend/config.py
-# ======================================
 from pathlib import Path
 
 BASE_DIR = Path(__file__).parent.parent
@@ -14,7 +11,12 @@ JSON_DIR.mkdir(exist_ok=True)
 SOURCES = {
     "CERC": {
         "base_url": "https://cercind.gov.in/",
-        "pdf_prefixes": ["/2026/Orders/", "/2026/hearing_schedule/", "/2026/technical_validation/"],
+        "pdf_prefixes": [
+            "/2026/Orders/",
+            "/2026/hearing_schedule/",
+            "/2026/technical_validation/",
+            "/2025/Orders/",
+        ],
         "fallback_pdfs": [
             "https://cercind.gov.in/2026/Orders/78-MP-2023.pdf",
             "https://cercind.gov.in/2026/Orders/211-TT-2024.pdf",
@@ -25,7 +27,11 @@ SOURCES = {
     },
     "CEA": {
         "base_url": "https://cea.nic.in/",
-        "pdf_prefixes": ["/wp-content/uploads/notification/2026/", "/wp-content/uploads/notification/2025/"],
+        "pdf_prefixes": [
+            "/wp-content/uploads/notification/2026/",
+            "/wp-content/uploads/notification/2025/",
+            "/wp-content/uploads/psp___a_ii/",
+        ],
         "fallback_pdfs": [
             "https://cea.nic.in/wp-content/uploads/notification/2026/01/Final_Type_Test_Guidelines_2026.pdf",
             "https://cea.nic.in/wp-content/uploads/notification/2026/01/CEA_letter_dated_24.02.2026_to_Utilities_for_specifying_Std_rating_of_Tx.pdf",

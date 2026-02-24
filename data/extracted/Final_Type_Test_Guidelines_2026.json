@@ -1,0 +1,190 @@
+{
+  "filename": "Final_Type_Test_Guidelines_2026.pdf",
+  "source_type": "text",
+  "text_length": 29031,
+  "obligations_count": 20,
+  "obligations": [
+    {
+      "obligation": "The equipment/ product must successfully pass the relevant tests (as\nspecified in the applicable standards), in an accredited laboratory such as the one accredited by\nNational Accreditation Board for Testing and Calibration Laboratories (NABL) before the\ncommercialization of the product/ equipment/m...",
+      "section": "N/A",
+      "keywords": [
+        "must"
+      ],
+      "confidence": "high",
+      "source_text_length": 308
+    },
+    {
+      "obligation": "Type test is a design and quality validation\ntest, and the purchaser must satisfy itself by following an agreed quality assurance plan and special\ntests, if any, agreed between the buyer and the supplier/manufacturer.",
+      "section": "N/A",
+      "keywords": [
+        "must"
+      ],
+      "confidence": "high",
+      "source_text_length": 217
+    },
+    {
+      "obligation": "The utility shall not reject the product/ equipment for supply against the contract on technical ground,\nif the subject product/ equipment has successfully passed the type test as per relevant Standards.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "source_text_length": 203
+    },
+    {
+      "obligation": "Broad Guidelines\na) The type tests on equipment, for which testing facility is available in India, shall preferably be\nconducted in India in any independent laboratory approved by the Government or the laboratories\naccredited by the National Accreditation Body of the Country.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "source_text_length": 276
+    },
+    {
+      "obligation": "b) The type tests on indigenous equipment, for which testing facility is not available in India, shall be\nconducted in a laboratory of a foreign Country accredited by the National Accreditation Body of that\nCountry.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "source_text_length": 215
+    },
+    {
+      "obligation": "c) The type tests on imported equipment shall be conducted in an Indian laboratory or foreign\nlaboratory accredited by the National Accreditation Body of the Country where the type test has\nbeen conducted.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "source_text_length": 205
+    },
+    {
+      "obligation": "Guidelines for the Type Tests for Major Equipment in Power Sector Page| 3/16d) The type tests conducted in-house by a manufacturer shall also be acceptable provided the\nlaboratory is accredited by the National Accreditation Body of the Country and the test has been\nconducted in the presence of a rep...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "source_text_length": 398
+    },
+    {
+      "obligation": "Such type test report shall record the details of such witness\nincluding the signature/ authentication in the type test report.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "source_text_length": 127
+    },
+    {
+      "obligation": "e) The result of all type tests shall be recorded properly in the Type Test Reports (TTRs) containing\nsufficient information like ratings, relevant drawings, model number, test circuit, calculations\n(if any), photographs and compliance to the relevant standards.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "source_text_length": 262
+    },
+    {
+      "obligation": "f) The date of the type test report shall be reckoned from the date of issuance of the complete type\ntest report.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "source_text_length": 113
+    },
+    {
+      "obligation": "The type test report should be issued by the laboratory within 15 days from the date of\ncompletion of the last test of the series of tests under the type test of that equipment as per the\nrelevant standards.",
+      "section": "N/A",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "source_text_length": 207
+    },
+    {
+      "obligation": "In case type test report including the provisional ‘type test’ report is not issued\nwithin 15 days, type test report shall be reckoned from the 15th day of completion of the last test of\nthe series of test under the type test.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "source_text_length": 226
+    },
+    {
+      "obligation": "The periodicity of type test\nconducted on the equipment i.e., the period for which Type Test Reports (TTRs) shall be acceptable\nby the user/ utility, and shall be as per given Annexures [Annexure-I (Transmission), Annexure-II\n(Distribution), Annexure-III (Thermal), Annexure-IV (Hydro)].",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "source_text_length": 287
+    },
+    {
+      "obligation": "h) For the purpose of deciding the acceptability of the type test reports, the date of issue of the type\ntest report shall be reckoned with reference to the date of the submission of the bid by the bidder.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "source_text_length": 205
+    },
+    {
+      "obligation": "Guidelines for the Type Tests for Major Equipment in Power Sector Page| 4/16That is the type test report in respect of the concerned equipment shall not be older than the period\nspecified in these Guidelines as on the date of submission of the bid by the bidder.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "source_text_length": 262
+    },
+    {
+      "obligation": "i) Type test report of 220 kV voltage class equipment shall be valid for 230 kV voltage class equipment\nand vice versa as the highest system voltage is same in both the cases provided the Basic Insulation\nLevel (BIL) is same.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "source_text_length": 225
+    },
+    {
+      "obligation": "j) All the testing equipment used for type testing shall be duly calibrated and the valid calibration\nreports shall form part of the Type Test Reports.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "source_text_length": 151
+    },
+    {
+      "obligation": "k) The equipment shall be supplied from the same manufacturing works, where from the sample unit\nwas manufactured and successfully type tested as per relevant standard or at the works of Parent\norganization in case of technology transfer/ Joint Venture (JV) for the initial period of 03 years from\nth...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "source_text_length": 347
+    },
+    {
+      "obligation": "In case of own manufacturing plant at different location within India, the type test of the original\nmanufacturing works shall also be acceptable for the equipment manufactured and supplied from\nthe different location subject to the following conditions:\n(i) the relevant standard does not bar the sa...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "source_text_length": 997
+    },
+    {
+      "obligation": "In case failure(s) of the equipment manufactured & supplied from that location is reported to the\nAuthority, the Authority shall direct the concerned manufacturer to conduct Type Test for that\nequipment manufactured & supplied from that location.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "source_text_length": 246
+    }
+  ],
+  "preview": "सत्यमेव जयते\nGuidelines for the Type Tests for Major Equipment of Power Sector\nभारत सरकार\nGOVERNMENT OF INDIA\nविद्युत मंत्रालय\nMINISTRY OF POWER\nके न्द्रीय विद्युत प्राविकरण\nCENTRAL ELECTRICITY AUTHORITY\nJanuary 2026Guidelines for the Type Tests for Major Equipment in Power Sector\n1. Background\nPrior to commercialization of the equipment/ product, the equipment/ product passes through the\nproduct development stages. The equipment/ product must successfully pass the relevant tests (as\nspecified in the applicable standards), in an accredited laboratory such as the one accredited by\nNational Accr...",
+  "source_name": "CEA"
+}

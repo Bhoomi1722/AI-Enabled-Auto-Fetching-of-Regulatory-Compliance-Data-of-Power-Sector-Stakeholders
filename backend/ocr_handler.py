@@ -3,6 +3,7 @@ import numpy as np
 import pytesseract
 from PIL import Image
 from typing import List, Tuple
+
 from backend.config import OCR_LANG, OCR_PREPROCESS_DENOISE_KERNEL
 from backend.utils import logger
 
@@ -10,7 +11,6 @@ class OCRHandler:
     def preprocess_image(self, pil_image) -> np.ndarray:
         img = np.array(pil_image)
         gray = cv2.cvtColor(img, cv2.COLOR_RGB2GRAY)
-        # Advanced preprocessing pipeline
         gray = cv2.threshold(gray, 0, 255, cv2.THRESH_BINARY + cv2.THRESH_OTSU)[1]
         gray = cv2.medianBlur(gray, OCR_PREPROCESS_DENOISE_KERNEL)
         gray = cv2.resize(gray, None, fx=1.5, fy=1.5, interpolation=cv2.INTER_CUBIC)

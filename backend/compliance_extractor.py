@@ -1,13 +1,9 @@
-# ======================================
-# backend/compliance_extractor.py   ← NEW
-# ======================================
 import re
 from typing import List, Dict
 
 def extract_compliance_obligations(full_text: str) -> List[Dict]:
     obligations = []
     
-    # Simple but better sentence splitter
     sentences = re.split(r'(?<!\w\.\w.)(?<![A-Z][a-z]\.)(?<=\.|\?)\s+', full_text)
     
     obligation_patterns = [
@@ -38,4 +34,4 @@ def extract_compliance_obligations(full_text: str) -> List[Dict]:
                 "source_text_length": len(sent)
             })
     
-    return obligations[:20]  # limit per doc for prototype
+    return obligations[:20]  # limit per document in prototype
