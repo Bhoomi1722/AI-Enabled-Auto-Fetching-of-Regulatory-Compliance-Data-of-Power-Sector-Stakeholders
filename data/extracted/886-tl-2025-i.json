@@ -1,0 +1,420 @@
+{
+  "filename": "886-tl-2025-i.pdf",
+  "source_type": "text",
+  "text_length": 37598,
+  "obligations_count": 30,
+  "obligations": [
+    {
+      "obligation": "Establishment of 765 kV Prayagraj 24 months All elements of\nS/s near Prayagraj (Uttar Pradesh) (16.10.2027) the scheme are\nalong with 2x330 MVAr 765 kV required to be\nBus reactors.",
+      "section": "N/A",
+      "keywords": [
+        "required"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 180,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The Petitioner has submitted that in accordance with the “Guidelines for\nEncouraging Competition in Development of Transmission Projects” and “Tariff\nBased Competitive Bidding Guidelines for Transmission Service” (hereinafter\nreferred to as “the Guidelines”) issued by the Ministry of Power, Governme...",
+      "section": "Section 63",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 488,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "As per Clause 3.5.1 of the RfP document, initial offers shall be ranked on the\nbasis of ascending order for the determination of the qualified bidders.",
+      "section": "Clause 3.5.1",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 151,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "The bidders\nholding the first fifty per cent of the ranks (with any fraction rounded off to a higher\nOrder in Petition No. 886/TL/2025\nPage 10integer) or four Bidders, whichever is higher, shall be considered to be qualified for\nparticipating in the electronic reverse auction stage and submitting th...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 316,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "BEC, vide its certificate dated 9.9.2025,\nhas certified that the entire bid process has been carried out in accordance with the\nGuidelines issued by the Ministry of Power under Section 63 of the Act.",
+      "section": "Section 63",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 199,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Under\nthe terms of RfP and the Letter of Intent, the successful bidder is obligated to\naccomplish the following tasks:\nOrder in Petition No. 886/TL/2025\nPage 11a) Provide Contract Performance Guarantee in favour of Central Transmission\nUtility of India Limited (CTUIL);\nb) Execute Share Purchase Agre...",
+      "section": "Section 63",
+      "keywords": [
+        "required"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 703,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Section 14 of the Act provides that the Appropriate Commission may, on an\napplication made under Section 15 of the Act, grant a licence to any person to\ntransmit electricity as a transmission licensee in any area as may be specified in the\nlicence.",
+      "section": "Section 14",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 248,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The word “person” has been defined in Section 2 (49) of the Act to\ninclude any company or body corporate or association or body of individuals,\nwhether incorporated or not, or artificial juridical person.",
+      "section": "Section 2",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "High",
+      "source_text_length": 204,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Section 15 (1) of the Act provides that every application under Section 14\nof the Act shall be made in such manner and in such form as may be specified by\nthe Appropriate Commission and shall be accompanied by such fees as may be\nprescribed by the Central Government.",
+      "section": "Section 15",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 267,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "Regulation 4 (1) of the Transmission Licence\nRegulations provides that eligibility for the grant of a licence for inter-State\ntransmission of electricity is contingent upon the entity being selected either through\nthe competitive bidding process under Section 63 of the Electricity Act, 2003 or by\nth...",
+      "section": "Regulation 4",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 406,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Regulation 10 (1) of the Transmission Licence\nRegulations provided that, in case the licensee has been selected for implementation\nof the project in accordance with the competitive bidding guidelines, the transmission\ntariff in terms of the Transmission Service Agreement shall be adopted by the\nComm...",
+      "section": "Regulation 10",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 335,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "Regulation 5 of the Transmission Licence Regulations, 2024 provides for the\nprocedure for granting of a transmission licence as under:\nOrder in Petition No. 886/TL/2025\nPage 13“(1) The application for the grant of licence shall be made to the Commission\nin Form-I appended to these regulations and sh...",
+      "section": "Regulation 5",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 443,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "(2) The application shall be supported with an affidavit in accordance with\nRegulation 17 of the Central Electricity Regulatory Commission (Conduct of\nBusiness) Regulations, 2023.",
+      "section": "Regulation 17",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 179,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "(3) The applicant shall submit the original application in electronic form along\nwith enclosures on the e-filing portal of the Commission and electronically\nserve a copy of such application on all the concerned DICs of the project and\nthe Central Transmission Utility.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 268,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The application shall be served through e-\nmail on the concerned DICs of the project who are not registered on the e-\nfiling portal of the Commission.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 150,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "(4) The applicant shall also upload the complete application along with\nannexures on its website, in English.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 109,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The applicant shall also upload on its\nwebsite, the details as per Form-I and Form-II appended to these regulations\nin the Indian language of the State or the Union Territory where an element\nof the project or concerned transmission line is situated or proposed to be\nsituated.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 277,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The application shall be kept posted on the website of the applicant\ntill such time the application is disposed of by the Commission.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 133,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "(5) The applicant shall, within 3 working days of filing the application, publish\na notice of its application in Form-II appended to these regulations in at least\ntwo leading daily digital newspapers, one in English language and another in\nthe Indian language of the State or Union Territory where an...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 437,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The notice shall also be kept\nposted on the website of the applicant.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 69,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "(6) The Registry of the Commission shall carry out a preliminary scrutiny of\nthe application and convey the defects, if any, as far as possible within 7\ndays of receipt of the application.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "High",
+      "source_text_length": 188,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The defects shall be rectified by the\napplicant within a period of 7 days from the date of such intimation from the\nRegistry of the Commission.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 143,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "(7) In the notice published in the digital newspapers and on the applicant’s\nwebsite under this Regulation, it shall be indicated that the suggestions and\nobjections to the application, if any, may be filed by any person within 15\ndays of publication of the notice to The Secretary, Central Electrici...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 428,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Any suggestion or\nobjection received in response to the public notice shall be shared with the\napplicant and the respondents by the Registry of the Commission.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 159,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "(8) The applicant shall within 3 working days from the date of publication of\nthe notice in terms of Clause (5) of this Regulation submit to the Commission\nOrder in Petition No. 886/TL/2025\nPage 14on affidavit the details of the notice published, names of the digital\nnewspapers in which the notice h...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 423,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "(9) The CTUIL shall send its recommendations, if any, to the Commission on\nthe proposal for grant of licence made in the application as far as practicable\nwithin a period of 10 (ten) days from the date of receipt of the application\nwith a copy to the applicant: Provided that if CTUIL is unable to su...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 827,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Explanation: The recommendations of the Central Transmission Utility\nshall not be binding on the Commission.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 108,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "(12) Before granting a licence, the Commission shall publish a notice of its\nproposal on the Commission’s website and in two daily digital newspapers,\nhaving wide circulation, as the Commission may consider appropriate,\nstating the name and address of the person to whom it proposes to grant the\nlice...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 597,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "(14) The Commission shall before granting licence or rejecting the\napplication under the provisions of this Regulation provide an opportunity of\nOrder in Petition No. 886/TL/2025\nPage 15hearing to the applicant, CTUIL, the concerned DICs, or the person who has\nfiled suggestions and objections, or an...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 326,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "(15) The Commission shall, within 7 days of making the order to grant the\nlicence to an applicant send a copy of the licence to the Central Government,\nthe Central Electricity Authority, the Central Transmission Utility, the\napplicant and the concerned DIC(s).”\n18.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "High",
+      "source_text_length": 265,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    }
+  ],
+  "preview": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No. 886/TL/2025\nCoram:\nShri Jishnu Barua, Chairperson\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nShri Ravinder Singh Dhillon, Member\nDate of Order: 31st January, 2026\nIn the matter of\nApplication under Sections 14 & 15 of the Electricity Act, 2003 read with the Central\nElectricity Regulatory Commission (Procedure, Terms and Conditions for Grant of\nTransmission Licence and other related matters) Regulations, 2024 with respect to\nTransmission Licence to Vindhyachal Varanasi Transmission Limited.\nAnd\nIn the matter of\nVindhyachal Varanasi Transmission Limited,\n(A 100% wholly owned subsidiary of Power Grid Corporation of India Limited)\nRegistered office:\nB-9, Qutab Institutional Area,\nKatwaria Sarai, New Delhi – 110016.\nAd...",
+  "source_name": "CERC"
+}

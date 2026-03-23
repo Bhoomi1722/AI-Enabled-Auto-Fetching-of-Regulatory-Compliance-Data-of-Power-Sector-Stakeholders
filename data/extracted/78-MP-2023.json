@@ -1,15 +1,20 @@
 {
-  "filename": "78-MP-2023.pdf",
+  "filename": "78-mp-2023.pdf",
   "source_type": "text",
   "text_length": 74998,
-  "obligations_count": 20,
+  "obligations_count": 30,
   "obligations": [
     {
       "obligation": "नई दिल्ली\nNEW DELHI\nयाचिका संख्या./ Petition No. 78/MP/2023\nकोरम/ Coram:\nश्री जिश्न ु बरुआ, अध्यक्ष/Shri Jishnu Barua, Chairperson\nश्री रमेश बाब ू वी., सिस्य/Shri Ramesh Babu V., Member\nश्री हरीश ििु ानी, सिस्य/Shri Harish Dudani, Member\nश्री रवविं र ससहं दिल्लों, सिस्य/Shri Ravinder Singh Dhillon, ...",
       "section": "Section 79",
       "keywords": [],
       "confidence": "medium",
-      "source_text_length": 634
+      "risk_level": "Medium",
+      "source_text_length": 634,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
     },
     {
       "obligation": "c) Since the notifications dated 30.09.2021 in regard to GST Laws were notified prior to\nChange in Law Rules (notified on 22.10.2021), these events shall be ‘dealt in accordance\nwith the prevalent dispensation/ rule position at the time of occurrence of the event’ and\nnot as per the Change in Law Ru...",
@@ -18,7 +23,12 @@
         "shall"
       ],
       "confidence": "high",
-      "source_text_length": 309
+      "risk_level": "Medium",
+      "source_text_length": 309,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM not responding – check LM Studio server"
     },
     {
       "obligation": "Re. Requirement to furnish relevant documents and thereby establish one to one\ncorrelation\ni) The Petitioner is required to establish a one to one correlation between the project, the\nsupply of goods against which change in law is claimed, the invoices and other relevant\ndocuments for proof of the p...",
@@ -27,7 +37,12 @@
         "required"
       ],
       "confidence": "medium",
-      "source_text_length": 353
+      "risk_level": "Medium",
+      "source_text_length": 353,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
     },
     {
       "obligation": "Re. Cut-off date for payment of claim amount on account of GST\nk) In the event of occurrence of any of events as provided under Article 12.1.1 or Article\n12.1.3 which results in any increase/ decrease in the Project Cost, subject to the condition\nthat such Change in Law is recognised by the Appropri...",
@@ -36,7 +51,12 @@
         "shall"
       ],
       "confidence": "high",
-      "source_text_length": 432
+      "risk_level": "Medium (High if not complied with within the stipulated time frame)",
+      "source_text_length": 432,
+      "compliance_type": "Reporting",
+      "due_date": "N/A",
+      "affected_entity": "DISCOM, Licensee, General",
+      "short_summary": "Compensation for changes in project cost due to legal amendments must be determined as per PPA Article 12.2.3."
     },
     {
       "obligation": "o) As per Article 12.1.3 of the PPA, the quantum of payment in respect of the evaluated\nchange in law claims of the Petitioner, inter-alia, on account of change in rates of GST\nafter 22.06.2020 shall be provided as per Article 12.2.3 of the PPA subject to fulfilment\nof conditions prescribed in Artic...",
@@ -45,7 +65,12 @@
         "shall"
       ],
       "confidence": "high",
-      "source_text_length": 514
+      "risk_level": "Medium (payment mechanism to be considered for Change in Law events if admissible)",
+      "source_text_length": 514,
+      "compliance_type": "Tariff",
+      "due_date": "N/A (no specific date provided)",
+      "affected_entity": "GENCO, Licensee",
+      "short_summary": "Payment adjustments due to GST rate changes post-2020 under PPA conditions"
     },
     {
       "obligation": "u) It is settled principle that in the matters of restitution, the courts should adopt pragmatic\nview and grant relief in a manner as may be reasonable, fair and practicable.",
@@ -54,7 +79,12 @@
         "should"
       ],
       "confidence": "medium",
-      "source_text_length": 174
+      "risk_level": "Medium",
+      "source_text_length": 174,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
     },
     {
       "obligation": "It has been\nOrder in Petition No. 78/MP/2023 Page 10 of 31held that the Court should not be oblivious of any unmerited hardship to be suffered by\nthe party against whom action by way of restitution is taken.",
@@ -63,7 +93,12 @@
         "should"
       ],
       "confidence": "medium",
-      "source_text_length": 207
+      "risk_level": "Medium",
+      "source_text_length": 207,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
     },
     {
       "obligation": "v) The Petitioner should be required to establish to the satisfaction of the Commission that\nit has made prudent and bona-fide effort to minimise the interest cost.",
@@ -73,7 +108,12 @@
         "should"
       ],
       "confidence": "medium",
-      "source_text_length": 164
+      "risk_level": "Medium",
+      "source_text_length": 164,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
     },
     {
       "obligation": "b) Article 12.1.3 of the PPA dated 20.08.2021 signed between the Petitioner and SECI\nsquarely provides that change in rates of safeguard duty, GST and basic customs duty\nafter 22.06.2020 shall be treated as change in law “subject to the provision that\nAppropriate Commission recognizes such provision...",
@@ -82,7 +122,12 @@
         "shall"
       ],
       "confidence": "high",
-      "source_text_length": 485
+      "risk_level": "Medium (depends on the decision of Appropriate Commission regarding tariff adoption and its impacts) ",
+      "source_text_length": 485,
+      "compliance_type": "Tariff",
+      "due_date": "N/A (as it is a provision within an existing PPA)",
+      "affected_entity": "DISCOM, GENCO, Licensee, RE Developer, General",
+      "short_summary": "Change in duty rates after a certain date to be recognized by commission affecting SPD/Order"
     },
     {
       "obligation": "c) However, the Commission vide order dated 08.03.2022 had not made such a recognition,\nrelying upon the Electricity (Timely Recovery of Costs due to Change in Law) Rules 2021\n(CIL Rules, 2021), notified by the Ministry of Power (MoP) on 22.10.2021, wherein on\noccurrence of a Change in Law, the affe...",
@@ -91,7 +136,12 @@
         "required"
       ],
       "confidence": "medium",
-      "source_text_length": 490
+      "risk_level": "Medium",
+      "source_text_length": 490,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
     },
     {
       "obligation": "m) As regards the rate of interest, SECI has contended that Carrying Cost is to be restricted\nto the cost of financing of a prudent utility and that the Commission should adopt a\npragmatic view.",
@@ -100,14 +150,24 @@
         "should"
       ],
       "confidence": "medium",
-      "source_text_length": 194
+      "risk_level": "Medium",
+      "source_text_length": 194,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
     },
     {
       "obligation": "9 and 10;\n(b) Approve Trading Margin of Rs.0.07/kWh as agreed to by the Distribution\nCompanies in the signed PSAs in terms of Regulation 8 (1) (d) of the Trading\nLicense Regulations, 2020; and\n(c) Recognize, in terms of Article 12.2 of the PPAs and Article 8.2 of the PSAs,\nthat the change in rates o...",
       "section": "Regulation 8",
       "keywords": [],
       "confidence": "medium",
-      "source_text_length": 476
+      "risk_level": "Medium",
+      "source_text_length": 476,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
     },
     {
       "obligation": "However, the recognition of Basic Custom Duty on Solar\nModules and Cells as a Change in Law event shall be subject to issuance of\nappropriate notification by Ministry of Finance, Government of India.",
@@ -116,21 +176,36 @@
         "shall"
       ],
       "confidence": "high",
-      "source_text_length": 199
+      "risk_level": "Medium (subject to change upon notification)",
+      "source_text_length": 199,
+      "compliance_type": "Reporting",
+      "due_date": "N/A",
+      "affected_entity": "DISCOM or Licensee",
+      "short_summary": "Recognition of Basic Custom Duty on Solar Modules and Cells as a Change in Law requires Ministry of Finance's notice."
     },
     {
       "obligation": "(h) During the pendency of the above Petition, the Central Government, in\nexercise of powers under Section 176 of the Act, has on 22.10.2021 notified\nthe Electricity (Timely Recovery of Costs due to Change in Law) Rules, 2021\n(hereinafter referred to as “the Change in Law Rules”).",
       "section": "Section 176",
       "keywords": [],
       "confidence": "medium",
-      "source_text_length": 281
+      "risk_level": "Medium",
+      "source_text_length": 281,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
     },
     {
       "obligation": "The Respondent No. 4, ERBPL vide its written submissions dated 4.2.2022 has\nadditionally submitted as under:\n…\n(f) While it has been admitted by the Petitioner that the Change in Law Rules\nprovide for adjustment in tariff on occurrence of Change in Law and specifically\nentitle the affected party to ...",
       "section": "Clause 5.7",
       "keywords": [],
       "confidence": "medium",
-      "source_text_length": 482
+      "risk_level": "Medium",
+      "source_text_length": 482,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
     },
     {
       "obligation": "As per sub-rule (2) of Rule 1, these Rules shall come into\nforce on the date of their publication in the Official Gazette.",
@@ -139,7 +214,12 @@
         "shall"
       ],
       "confidence": "high",
-      "source_text_length": 122
+      "risk_level": "Low (as it is a general statement about the enforcement of rules)",
+      "source_text_length": 122,
+      "compliance_type": "Reporting",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Rules become effective upon publication in Official Gazette."
     },
     {
       "obligation": "The change in law events occurred prior to the notification of\nthese Rules shall be dealt in accordance with the prevalent dispensation /rule\nposition at the time of occurrence of the event.",
@@ -148,7 +228,12 @@
         "shall"
       ],
       "confidence": "high",
-      "source_text_length": 190
+      "risk_level": "Medium",
+      "source_text_length": 190,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
     },
     {
       "obligation": "The proceedings in the petitions, related to change in law matters, pending\nbefore the Appropriate Commissions, shall be dealt in accordance with\nstipulations made in para (ii) above.",
@@ -157,23 +242,177 @@
         "shall"
       ],
       "confidence": "high",
-      "source_text_length": 183
+      "risk_level": "Medium",
+      "source_text_length": 183,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
     },
     {
       "obligation": "For the foregoing reasons, we find the impugned orders of the Central\nCommission applying the CIL Rules to matters pending before it for adjudication\nunder Section 79(1)(f) of Electricity Act on the date of coming into force of said rules\nwholly erroneous, improper and bad in law.",
       "section": "Section 79",
       "keywords": [],
       "confidence": "medium",
-      "source_text_length": 281
+      "risk_level": "Medium",
+      "source_text_length": 281,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
     },
     {
       "obligation": "The\nCentral Commission is duty-bound to consider each of them on the merits of the\nclaims and adjudicate in accordance with law on the dispute(s) in proper exercise of\nits jurisdiction under Section 79 of the Electricity Act.",
       "section": "Section 79",
       "keywords": [],
       "confidence": "medium",
-      "source_text_length": 225
+      "risk_level": "Medium",
+      "source_text_length": 225,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "We observe that on 21.02.2022, MoP provided clarification on the CIL Rules, 2021,\nstating that changes in law events occurring prior to the notification of the CIL Rules, 2021,\nshall be dealt with in accordance with the prevailing dispensation/ rule position at the time of\nthe event's occurrence.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 297,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "Also, APTEL vide its judgment dated 05.04.2022 has held that applying\nthe CIL Rules, 2021 to matters pending for adjudication under Section 79(1)(f) of the\nElectricity Act on the date of coming into force of said rules is bad in law.",
+      "section": "Section 79",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 233,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "Per contra, SECI has\nsubmitted that since the notifications dated 30.09.2021 in regard to GST Laws were notified\nprior to Change in Law Rules (notified on 22.10.2021), accordingly, these events shall be ‘dealt\nin accordance with the prevalent dispensation/rule position at the time of occurrence of t...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 354,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "However, the Petitioner is required to\nestablish a one-to-one correlation between the project, the supply of goods, the invoices, and\nother relevant documents to prove the payment of the claimed amount due to the change in\nlaw.",
+      "section": "N/A",
+      "keywords": [
+        "required"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 227,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "We observe that the relevant Articles of the PPA dated 20.08.2021 stipulate as under:\n“Law” shall mean in relation to this Agreement all laws in force in India including\nElectricity Laws of India and any statute, ordinance, regulation, notification or code,\nrule, or any interpretation of any of them...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 1589,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "However, Change in Law shall not include (i) any change in taxes on corporate\nincome or (ii) any change in any withholding tax on income or dividends\ndistributed to the shareholders of the SPD.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 193,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "12.1.3 However, in case of change in rates of safeguard duty, GST and basic customs\nduty after 22.06.2020 and resulting in change in Project Cost, then such\nchange will be treated as ‘Change in Law’ and the quantum of compensation\npayment on account of change in rates of such duties and shall be pro...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 590,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "12.2 Relief for Change in Law\n12.2.1 Save and except as provided under Article 12.1.3, the aggrieved Party shall be\nrequired to approach the Hon’ble CERC for seeking approval of Change in\nLaw.",
+      "section": "N/A",
+      "keywords": [
+        "shall",
+        "required"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 192,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "12.2.2 The decision of the Hon’ble CERC to acknowledge a Change in Law and the\ndate from which it will become effective, provide relief for the same, shall be\nfinal and governing on SPD and Buying Entity.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 204,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "12.2.3 In case of Change in Law as approved by the Appropriate Commission pursuant\nto Article 12.2.1 or as provided under Article 12.1.3, the SPD/ SECI/ Buying\nEntities (as the case may be) shall be entitled for relief as follows:\nEvery net increase/decrease of Rs. l lakh per MW in the Project Cost ...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "High",
+      "source_text_length": 872,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
     }
   ],
-  "preview": "नई दिल्ली\nNEW DELHI\nयाचिका संख्या./ Petition No. 78/MP/2023\nकोरम/ Coram:\nश्री जिश्न ु बरुआ, अध्यक्ष/Shri Jishnu Barua, Chairperson\nश्री रमेश बाब ू वी., सिस्य/Shri Ramesh Babu V., Member\nश्री हरीश ििु ानी, सिस्य/Shri Harish Dudani, Member\nश्री रवविं र ससहं दिल्लों, सिस्य/Shri Ravinder Singh Dhillon, Member\nआिेश दिनांक/ Date of Order: 14th of January, 2026\nIN THE MATTER OF:\nPetition under Section 79 of the Electricity Act, 2003 and Article 12 read with Article 16.3.1\nof the Power Purchase Agreement dated 20.08.2021 executed by the Petitioner and Solar\nEnergy Corporation of India, seeking relief ...",
+  "preview": "नई दिल्ली\nNEW DELHI\nयाचिका संख्या./ Petition No. 78/MP/2023\nकोरम/ Coram:\nश्री जिश्न ु बरुआ, अध्यक्ष/Shri Jishnu Barua, Chairperson\nश्री रमेश बाब ू वी., सिस्य/Shri Ramesh Babu V., Member\nश्री हरीश ििु ानी, सिस्य/Shri Harish Dudani, Member\nश्री रवविं र ससहं दिल्लों, सिस्य/Shri Ravinder Singh Dhillon, Member\nआिेश दिनांक/ Date of Order: 14th of January, 2026\nIN THE MATTER OF:\nPetition under Section 79 of the Electricity Act, 2003 and Article 12 read with Article 16.3.1\nof the Power Purchase Agreement dated 20.08.2021 executed by the Petitioner and Solar\nEnergy Corporation of India, seeking relief on account of a Change in Law viz. increase in the\nrate of Goods and Services Tax.\nAND IN THE MATTER OF:\nThar Surya 1 Private Limited (TS1PL)\n14th Floor, Tower B, Vatika Towers,\nDLF Golf Course Road, ...",
   "source_name": "CERC"
 }

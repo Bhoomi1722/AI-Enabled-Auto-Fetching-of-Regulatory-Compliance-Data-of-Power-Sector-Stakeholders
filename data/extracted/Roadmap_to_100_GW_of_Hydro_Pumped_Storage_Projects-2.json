@@ -1,0 +1,431 @@
+{
+  "filename": "Roadmap_to_100_GW_of_Hydro_Pumped_Storage_Projects-2.pdf",
+  "source_type": "text",
+  "text_length": 142415,
+  "obligations_count": 30,
+  "obligations": [
+    {
+      "obligation": "If off-\nstream reservoir is located on any non-perennial stream/ nallah, then\n(i) Suitable provision shall be made for diversion of non-perennial\nstream/ nallah to its downstream and/or release of water of\nthe non-perennial stream/ nallah to its downstream through\nbody of dam/ barrage/ embankment et...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 302,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "(ii) The water of rainfall yield of self-catchment of the reservoir\nshall be released to downstream through body of dam/\nbarrage/ embankment etc.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 145,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "(iii) The water for filling of reservoir/ recoupment of evaporation\nand re-circulation losses shall be met from a source other than\nthe rainfall yield of catchment of non-perennial stream/ nallah\nFig.2- Off-stream open loop pumped storage scheme\n(c) Off-stream closed loop pumped storage scheme- None...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 379,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "If any reservoir is located on a non-perennial stream/ nallah, then\n(i) Suitable provision shall be made for diversion of non-perennial\nstream/ nallah to its downstream and/or release of water of\n9the non-perennial stream/ nallah to its downstream through\nbody of dam/ barrage/ embankment etc.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 293,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "(ii) The water of rainfall yield of self-catchment of the reservoir\nshall be released to downstream through body of dam/\nbarrage/ embankment etc.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 145,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "(iii) The water for filling of reservoir/ recoupment of evaporation\nand re-circulation losses shall be met from a source other than\nthe rainfall yield of catchment of non-perennial stream/ nallah\nFig.3-Off-stream closed loop pumped storage scheme\nEfforts are being made to identify off-stream PSPs lo...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 378,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "Further, each Distribution Utility is\nrequired to carry out a Long-Term Distribution Licensee Resource Adequacy\nPlan (LT-DRAP) with a 10-year planning horizon, to reliably meet its peak\nelectricity demand and electrical energy requirements.",
+      "section": "N/A",
+      "keywords": [
+        "required"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 240,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The LT-DRAP shall be\nprepared by the Distribution Licensees on an annual rolling basis, factoring\nin the already contracted capacity and optimising the requirement for\nadditional capacity.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 188,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Section 3(4) of Electricity Act, 2003 stipulates that, the Central Electricity\nAuthority (CEA) shall prepare a National Electricity Plan in accordance with\nthe National Electricity Policy and notify such plan once in five years.",
+      "section": "Section 3",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 228,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "ar -1)\nloop)\nTotal\n9580\n4.4 Pumped Storage Projects under examination in CEA\nThe Indira Sagar PSP (640 MW) in Madhya Pradesh is proposed as a on-\nstream project utilizing the existing Indira Sagar Dam reservoir as the upper\nreservoir and Omkareshwar Dam as the lower reservoir and is presently under\n...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 375,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "As more of these projects start moving\nforward, the need for turbines and generators shall increase multi-fold.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 111,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Developers shall begin construction within a period of 2 years from the\ndate of allotment of the project, failing which, allotment of the project\nsite shall be cancelled by the State;\niii.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 188,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "In order to improve the viability of\nProject, it is suggested that 80% of energy in “Turbine Mode” shall be made\navailable @ 75% of MCP (Market Clearing Price) for the financial year to Home\nState.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 197,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Wavier shall be\napplicable for a period of 25 years from date of commissioning.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 79,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "• Eligible bidders must demonstrate relevant technical experience in\ninfrastructure development and meet financial requirements, including\na minimum net worth or Assets Under Management equivalent to 20%\nof the estimated project cost.",
+      "section": "N/A",
+      "keywords": [
+        "must"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 234,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Projects must specify installed capacity\n(MW), storage/energy capacity (MWh), and daily charging/discharging\ncycles, while ensuring compliance with applicable technical standards\n39and project milestones.",
+      "section": "N/A",
+      "keywords": [
+        "must"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 204,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "All\ntransactions are required to comply with relevant legal, environmental,\nand regulatory provisions, and foreign developers must comply with\napplicable FDI norms.",
+      "section": "N/A",
+      "keywords": [
+        "must",
+        "required"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 164,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "MoP vide order dated 01.08.2025 published following notification regarding\nEnhancement of the threshold limit for concurrence of the Central Electricity\nAuthority (CEA):\n(1) Schemes for setting up of hydro generating stations, involving an estimated\ncapital expenditure exceeding rupees three thousan...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 695,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "(2) The developer referred to in paragraph (1) shall ensure adherence to the\nprovisions of the National Dam Safety Act, 2021.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 125,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Hydraulic design must address\nvariable heads and cavitation risks, while adequate desilting and debris\ncontrol arrangements are essential to protect turbines.",
+      "section": "N/A",
+      "keywords": [
+        "must"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 158,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "After signing MoA/MoU with State Government or approval of TOR from\nMOEF&CC, developer shall carry out topographical survey & geological\nsurface mapping of the project and submit the proposed layout of the\nproject and detailed investigation plans to CEA for appraisal and\nfinalization.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 285,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "CEA along with CWC, GSI and CSMRS shall hold 1st\nconsultation meeting with developer to finalize different alternatives of\n41the project layout.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 144,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "After completion of the first phase investigations,\ndeveloper shall submit the results to CEA.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 94,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "CEA along with CWC, GSI\nand CSMRS shall hold 2nd consultation meeting with the developer for\nfinalization of project layout and final phase-II investigations to be\ncarried out by the developer.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 193,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Prior to submission of DPR to the\nAuthority for its Concurrence/ Appraisal, the Generating Company/\nProject Developer shall get approval from respective appraising groups\non 11 aspects/chapters.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 194,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "However, the Developer is required to submit a\ncertificate from the host State confirming that the water required for\none- time filling and for replenishment of losses (including evaporation\nlosses and water conductor system losses) will be provided from the\nhost State’s allocated share of water.",
+      "section": "N/A",
+      "keywords": [
+        "required"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 297,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Time period for preparation of D.P.R needs to be curtailed to 18 months\nfor faster development of PSPs.\n426.10 Guidelines for Examination and Concurrence of DPRs of\nPSPs\nAs per Section 8(1) of the Electricity Act, 2003, any generating company\nintending to set up a hydro generating station shall prep...",
+      "section": "Section 8",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 503,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Generating Company / Project Developer shall upload DPR on DPR approval\nProcess Monitoring System for Hydro projects section of NSWS portal and\nsubmit 8 copies of DPR including pre-DPR chapters approved by respective\nappraising groups along with six soft copies on compact disks/ pen drives to\nHPA di...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 312,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "In order to commission the transmission system in line with the\nimplementation of PSPs, transmission planning is required to be done much\nin advance.",
+      "section": "N/A",
+      "keywords": [
+        "required"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 149,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Accordingly, PSP developers\nshall approach CTUIL/STUs for connectivity.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 71,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    }
+  ],
+  "preview": "Roadmap to 100 GW of Hydro Pumped Storage Projects\n(PSPs) by 2035-36\nContents\nChapter 1 ........................................................................................................................... 3\nIntroduction ...................................................................................................................... 3\n1.1 Background ........................................................................................................ 3\n1.2 Perspectives ....................................................................................................... 4\nChapter 2 ........................................................................................................................... 7\nPumped Storage Projects ..................................................",
+  "source_name": "CEA"
+}

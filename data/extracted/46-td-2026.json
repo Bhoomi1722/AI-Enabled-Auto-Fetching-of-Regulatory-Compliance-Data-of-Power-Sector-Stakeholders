@@ -1,0 +1,165 @@
+{
+  "filename": "46-TD-2026.pdf",
+  "source_type": "text",
+  "text_length": 9244,
+  "obligations_count": 12,
+  "obligations": [
+    {
+      "obligation": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No. 46/TD/2026\nCoram:\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nShri Ravinder Singh Dhillon, Member\nDate of Order: 27th February, 2026\nIn the matter of\nPetition under Section 14 of the Electricity Act 2003 read with Regulation...",
+      "section": "Section 14",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 480,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "…Petitioner\nParties present:\nShri Hemant Singh, Advocate, GTPL\nShri Lakshyajit Singh, Advocate, GTPL\nORDER\nThe Petitioner, Greennsure Trading Private Limited (hereinafter referred to as\n‘the Petitioner’), incorporated under the Companies Act, 2013, read with Regulation 6\nof the Central Electricity R...",
+      "section": "Regulation 6",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 659,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "In accordance with sub-Section (2) of Section 15 of the Act read with Clause\n(4) of Regulation 6 of the Trading Licence Regulations, notices were published by the\nPetitioner on 27.12.2025 in the ‘Indian Express’ (Lucknow, Kolkata, Jaipur, Delhi and\nChandigarh and throughout all the States in North-e...",
+      "section": "Section 15",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 755,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "In accordance with Regulation 3(3) of the Trading Licence Regulations, a\nperson applying for a Category 'V' trading licence should have a net worth of Rs. Two\ncrores and should have maintained a minimum current ratio and liquidity ratio of 1:1\nas on the date of the Audited Special Balance Sheet acco...",
+      "section": "Regulation 3",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 325,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "In accordance with Clause (2) of Regulation 3 of the Trading Licence\nRegulations, the Petitioner should have at least one full-time professional\npossessing qualifications and experience in power system operation and the\ncommercial aspects of power transfer, including finance, commerce and\naccounts.",
+      "section": "Regulation 3",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 299,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Accordingly, as per the information submitted by the Petitioner,\nit fulfils the requirements of Clause (2) of Regulation 3 of the Trading Licence\nRegulations.",
+      "section": "Regulation 3",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 158,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "In line with the above-mentioned order dated 17.2.2026, notice under Clause\n(a) of sub-Section (5) of Section 15 of the Act was published in all editions of the Indian\nExpress (English) and Hindustan (Hindi) on 19.2.2026.",
+      "section": "Section 15",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 221,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "During the course of the\nhearing, the learned counsel for the Petitioner submitted that no objection had been\nreceived in response to the public notice published by the Commission under sub-\nSection (5) of Section 15 of the Act.",
+      "section": "Section 15",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 228,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Clause (9) of Regulation 6 of the Trading Licence Regulations provides as under:\nOrder in Petition No. 46/TD/2026\nPage 3 of 6“(9) On consideration of further objections or suggestions received and the reply\nof the applicant thereto, if any, the Commission may grant the licence or reject\nthe applicat...",
+      "section": "Regulation 6",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "High",
+      "source_text_length": 612,
+      "compliance_type": "Regulatory Licensing",
+      "due_date": "N/A",
+      "affected_entity": "Applicant for Trading License",
+      "short_summary": "Application review and potential licence grant or rejection based on objections, suggestions, legal compliance."
+    },
+    {
+      "obligation": "The grant of the trading licence to the Petitioner (hereinafter referred to as “the\nlicensee”) is subject to the fulfilment of the following conditions throughout the period\nof subsistence of the licence:\n(a) The licensee shall comply with the provisions of the Act, the Rules, and the\nRegulations, p...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "High due to strict regulatory adherence requirements and financial stability maintenance obligations.",
+      "source_text_length": 1060,
+      "compliance_type": "Trading License Compliance",
+      "due_date": "within N/A days or months of licensing period end (25 years)",
+      "affected_entity": "Petitioner's Trading Entity Name",
+      "short_summary": "Licensee must comply with Act, Rules, Regulations; avoid electricity transmission business post-license expiry."
+    },
+    {
+      "obligation": "(f) The licensee shall continue to be governed by the qualifications and\ndisqualifications specified in Chapter 2 of the Trading Licence Regulations\nduring the subsistence of the licence;\n(g) The licensee shall continue to abide by the terms and conditions of the licence\nspecified in Chapter V of th...",
+      "section": "N/A",
+      "keywords": [
+        "shall",
+        "required"
+      ],
+      "confidence": "high",
+      "risk_level": "High due to potential revocation consequences",
+      "source_text_length": 1267,
+      "compliance_type": "Licensee Obligations",
+      "due_date": "annually, within one year or N/A for ongoing compliance",
+      "affected_entity": "Petitioner's Trading License Holder",
+      "short_summary": "Licensee must adhere strictly to regulatory requirements or face license cancellation."
+    },
+    {
+      "obligation": "An extract of a copy of this order be sent to the Central Government (the\nMinistry of Power) and the Central Electricity Authority in terms of sub-Section (7) of\nSection 15 of the Act for their information and record.",
+      "section": "Section 15",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 217,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    }
+  ],
+  "preview": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No. 46/TD/2026\nCoram:\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nShri Ravinder Singh Dhillon, Member\nDate of Order: 27th February, 2026\nIn the matter of\nPetition under Section 14 of the Electricity Act 2003 read with Regulation 6 of the\nCERC (Procedure, Terms and Conditions for grant of trading licence and other related\nmatters) Regulations, 2020 for the grant of a Category V Inter-State Trading Licence.\nAnd\nIn the matter of\nGreennsure Trading Private Limited,\nNo. 5/2, Kay Arr Trumph Tower,\n102, 1st Floor, Eagles Street, Langford Town,\nBangalore– 560025, Karnataka.\n…Petitioner\nParties present:\nShri Hemant Singh, Advocate, GTPL\nShri Lakshyajit Singh, Advocate, GTPL\nORDER\nThe Petitioner, Greennsure Trading Private Limit...",
+  "source_name": "CERC"
+}

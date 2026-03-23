@@ -1,0 +1,400 @@
+{
+  "filename": "451-mp-2025.pdf",
+  "source_type": "text",
+  "text_length": 41444,
+  "obligations_count": 30,
+  "obligations": [
+    {
+      "obligation": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No. 451/MP/2025 along with IA 36/2025\nCoram:\nShri Jishnu Barua, Chairperson\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nShri Ravinder Singh Dhillon, Member\nDate of Order: 14.02.2026\nIn the matter of:\nPetition under Section 79, i...",
+      "section": "Section 79",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 430,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "2.The Petitioner has made the following prayers in the main Petition:\n(a) Permit the Petitioner to withdraw/ cancel its relinquishment letter dated 22.01.2025\n(communicated via email dated 11.02.2025) of its 700 MW of GNA/ Connectivity, and allow\ncontinuation of the GNA granted to the Petitioner vid...",
+      "section": "Regulation 22.2",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 709,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "(m) In the present case, as the Petitioner seeks continuation of its GNA/ Connectivity from\nthe same date, as was mentioned in the grant letter dated 24.10.2024 issued by CTUIL,\nit is apparent that no stranded transmission capacity would be available, which could\nburden the other DICs. The CONN-BGs ...",
+      "section": "Regulation 41",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 719,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The case should be\ntreated as a continuation of the previously granted GNA, not a fresh grant following\nrelinquishment.",
+      "section": "N/A",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 119,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "In the present case, as the Petitioner seeks\ncontinuation of its GNA/ Connectivity from the same date, as was mentioned in the\ngrant letter dated 24.10.2024 issued by CTUIL, it is apparent that no stranded\ntransmission capacity would be available, which could burden the other DICs.\n(a) Since GNA Reg...",
+      "section": "Section 79",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 769,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "In the present case, a sectoral issue has been raised whereby a bulk consumer, who\nwishes to get its GNA restored/continued, ought not to be burdened with\nrelinquishment charges, nor should it be asked to furnish fresh CONN-BGs.\n(b) The Petitioner/ Applicant is filing the present application before ...",
+      "section": "N/A",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 605,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The Commission further directed that:\n“(c) The status-quo in regard to the Bank Guarantees submitted by the Petitioners shall\ncontinue till the next date of hearing.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "N/A",
+      "source_text_length": 165,
+      "compliance_type": "status quo maintenance",
+      "due_date": "next date of hearing or N/A",
+      "affected_entity": "Petitioners' Bank Guarantees",
+      "short_summary": "Bank guarantees status-quo maintained until next hearing"
+    },
+    {
+      "obligation": "Respondent-CTUIL vide affidavit dated 23.05.2025 has made the following submissions:\n(a) GNA in the present case was granted to the Petitioner under Regulation 17.1(iii) of\nthe GNA Regulations, 2022.",
+      "section": "Regulation 17.1",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 199,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The corresponding relinquishment is dealt under the\nproviso to Regulation 25.1 of the GNA Regulations, 2022.",
+      "section": "Regulation 25.1",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 108,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "While Regulation 18 of the Connectivity\nRegulations, 2009 was specifically related to payment of relinquishment charges\nwith respect to stranded capacity, there is no such intention, express or otherwise,\nprescribed in the proviso to Regulation 25.1 of the GNA Regulations, 2022.",
+      "section": "Regulation 18",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 279,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The\ncomparison in this regard of Regulation 18.1 of the Connectivity Regulations, 2009,\nto Regulation 25.1 of the GNA Regulations, 2022 is as under:\nRegulation 18.1 of the Regulation 25.1 of the GNA Regulations,\nConnectivity Regulations, 2009 2022\n(1) A long-term customer may Provided further that f...",
+      "section": "Regulation 18.1",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "High",
+      "source_text_length": 861,
+      "compliance_type": "Regulation Comparison",
+      "due_date": "N/A",
+      "affected_entity": "Long-term Customer and GNA Regulations, Connectivity Regulations",
+      "short_summary": "Comparative analysis of stranded capacity concept between two regulations"
+    },
+    {
+      "obligation": "The Petitioner, while\ninterpreting the proviso to Regulation 25.1 of the GNA Regulations, 2022, to include\nthe concept of stranded capacity into it, is adding words to the Regulation that are\nimpermissible and contrary to the settled principle of interpretation.",
+      "section": "Regulation 25.1",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 262,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "(a) The reliance placed by the Petitioner on Para 16.2.1 of the Statement of Reasons in\nrelation to the first Amendment to Regulation 25 of the GNA Regulation, 2022 is not\napplicable in the present case.",
+      "section": "Para 16.2.1",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 203,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Therefore,\nthe basic premise of the Petitioner’s plea that the loss required to be suffered or\nproved is baseless.",
+      "section": "N/A",
+      "keywords": [
+        "required"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 114,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "It is submitted\nthat, if the Petitioner seeks to re-establish such connectivity, it is required to submit\na fresh application in accordance with the applicable regulatory framework.",
+      "section": "N/A",
+      "keywords": [
+        "required"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 181,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "In such\nOrder in Petition No. 451/MP/2025 along with IA 36/2025 Page 9a scenario, the Petitioner will also be required to furnish fresh Bank Guarantees\nunder Regulation 8 of the GNA Regulations, 2022.",
+      "section": "Regulation 8",
+      "keywords": [
+        "required"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 200,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Accordingly, the relief\nsought by the Petitioner for the continuation of the cumulative 700 MW may be\nrequired to be adjudicated in terms of the aforesaid developments.",
+      "section": "N/A",
+      "keywords": [
+        "required"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 168,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "In this regard, CTUIL’s\nactions shall be guided by the provisions under the Regulations notified by this\nCommission or Orders of this Commission.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 145,
+      "compliance_type": "Regulatory Compliance",
+      "due_date": "N/A",
+      "affected_entity": "CTUIL (Council for Technological Innovation and Leadership)",
+      "short_summary": "Adherence to Commission-notified regulations is mandatory."
+    },
+    {
+      "obligation": "(b) Section 38(2)(c) of the Act mandates that the CTUIL has to develop an efficient,\ncoordinated and economical system of inter-state transmission lines.",
+      "section": "Section 38",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 153,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The use of\nthe word ‘economical’ is to ensure that the cost of availing open access by the\nDICs is commensurate with the transmission capacity/ services availed of by\nDICs. In other words, the use of open access by the DICs should not become\nonerous, which may include scenarios where the cost of an ...",
+      "section": "Section\n38",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 609,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Accordingly, it is not a question of whether the GNA has already\nbecome effective or not; this principle is the underlying intent while levying\nrelinquishment charges under Regulation 25.",
+      "section": "Regulation 25.",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 187,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "(d) Petitioner intends to continue its 700 MW of GNA by availing the same proposed\naugmented transmission system and accordingly bear the consequent\ntransmission charges in terms of Regulation 40 of the GNA Regulations, 2022.",
+      "section": "Regulation 40",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 225,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "(f) The SOR captures the intent of Section 38(2)(c) that the ISTS should be built in\nan economical manner so that relinquishment of capacity by a GNA grantee\nshould not impact the cost of availing open access by the other DICs. CTUIL’s\ncontention that reliance on Para 16.2.1 of the SOR is inapplicab...",
+      "section": "Section 38",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 442,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "However, the reference to\nthe SOR is made with respect to the principle that relinquishment of GNA\nquantum should not lead to an increase in the share of charges for other DICs,\nwhich is the underlying intent while levying relinquishment charges under\nRegulation 25.",
+      "section": "Regulation 25.",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 266,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "(g)The concept of stranded capacity and losses flows from Section 38(2)(c), which\nis also captured under SOR to Regulation 25.1 of the GNA Regulations, 2022.",
+      "section": "Section 38",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 157,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Accordingly, the principles contained in para 151 and 152 of this Commission’s\njudgement dated 08.03.2019, passed in Petition No. 92/MP/2015, are applicable,\nwhich provides that in the event of relinquishment of open access, if another\nentity steps into the shoes of the relinquishing entity, then in...",
+      "section": "para 151",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 351,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Written Submissions by the Petitioner:\n12.The Petitioner vide written submissions dated 24.11.2025 has reiterated submissions\nalready made, the Petitioner has submitted as under:\na) SPPL withdrew its request for relinquishment of its GNA/ Connectivity vide its\nletters dated 04.04.2025 (to CTUIL) and...",
+      "section": "Regulation 25.",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 589,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Petitioner prays that it should be allowed to\ncontinue with a cumulative 700MW GNA grant without any additional financial\nimplication.",
+      "section": "N/A",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 134,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "17.Petitioner has submitted that, as it intends to continue 700 MW GNA on the same\naugmentation of the transmission system, this should not be considered as a first\ncase of relinquishment and then a fresh grant of GNA.",
+      "section": "N/A",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 218,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Petitioners are thus seeking a\nOrder in Petition No. 451/MP/2025 along with IA 36/2025 Page 14regulatory prescription that is not available under the GNA Regulations, and\nCTUIL’s actions shall be guided by the provisions under the Regulations notified\nby this Commission or Orders of this Commission.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "High",
+      "source_text_length": 300,
+      "compliance_type": "Regulatory Prescription",
+      "due_date": "N/A",
+      "affected_entity": "Petitioners and CTUIL",
+      "short_summary": "Seeking regulatory prescription not covered by GNA Regulations"
+    }
+  ],
+  "preview": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No. 451/MP/2025 along with IA 36/2025\nCoram:\nShri Jishnu Barua, Chairperson\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nShri Ravinder Singh Dhillon, Member\nDate of Order: 14.02.2026\nIn the matter of:\nPetition under Section 79, including 79 (1)(c), 79 (1)(f) and 79 (1)(k) of the Electricity\nAct, 2003, seeking continuation of its GNA/ Connectivity of 700 MW. The Petitioner is\nalso seeking consequent directions upon the Respondent/ CTUIL to consider\nConnectivity Bank Guarantees already furnished by the Petitioner with respect to its\nGNA applications dated 30.05.2024 to 22.06.2024 as sufficient for the purpose of such\ncontinuation, with no requirement to submit fresh Connectivity Bank Guarantees.\nAnd\nIn the matter of:\nSupp...",
+  "source_name": "CERC"
+}

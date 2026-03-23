@@ -1,0 +1,76 @@
+{
+  "filename": "310-rc-2024.pdf",
+  "source_type": "text",
+  "text_length": 4705,
+  "obligations_count": 5,
+  "obligations": [
+    {
+      "obligation": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No. 310/RC/2024\nCoram:\nShri Jishnu Barua, Chairperson\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nDate of Order: 13.2.2026\nIn the matter of:\nPetition under Section 27(1) of the Central Electricity Regulatory Commission (Terms an...",
+      "section": "Section 27",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 610,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "…Respondents\nFor Petitioner : Shri Raj Kumar Mehta, Advocate, OPTCL\nMs. Himanshi Andley, Advocate, OPTCL\nFor Respondents : Ms. Kavya Bhardwaj, CTUIL\nORDER\nThe Petitioner, Orissa Power Transmission Corporation Limited (OPTCL) has filed the\ninstant Petition under Section 27(1) of the Central Electrici...",
+      "section": "Section 27",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 706,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "After hearing the learned\ncounsel for the Petitioner, the Commission observed that the reconductoring work is generally\nclaimed and treated as additional capitalisation and accordingly, the Petitioner should have\napproached the Commission through an appropriate tariff Petition after obtaining necess...",
+      "section": "N/A",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 314,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "We,\nhowever, direct the Petitioner that before filing the tariff Petition, it shall ensure that the tariff\nPetition is filed along with the Investment Approval and the Administrative Sanction from the\nCompetent Authority for the conversion of the ACSR Zebra Conductor to HTLS in the existing\n220 kV R...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "High",
+      "source_text_length": 343,
+      "compliance_type": "Tariff Petition",
+      "due_date": "N/A",
+      "affected_entity": "ACSR Zebra Conductor in Rourkela (PGCIL) - Tarkera (OPTCL) D/C Line",
+      "short_summary": "Ensure filing of tariff petition with necessary approvals for HTLS conversion"
+    },
+    {
+      "obligation": "The filing fees paid in respect of this\nPetition shall be adjusted against the tariff Petition to be filed in future, in terms of the liberty\ngranted above.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 156,
+      "compliance_type": "Tariff Adjustment",
+      "due_date": "N/A",
+      "affected_entity": "Petitioner's Account",
+      "short_summary": "Filing fees are credited against future tariff petitions."
+    }
+  ],
+  "preview": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No. 310/RC/2024\nCoram:\nShri Jishnu Barua, Chairperson\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nDate of Order: 13.2.2026\nIn the matter of:\nPetition under Section 27(1) of the Central Electricity Regulatory Commission (Terms and\nConditions of Tariff) Regulations, 2024, for the approval of the Investment Proposal of OPTCL\ntaken up in FYs 2023-24 and 2024-25, for the conversion of ACSR Zebra Conductor to High\nTemperature Low Sag (HTLS) in the existing 220 kV Rourkela (PGCIL) - Tarkera (OPTCL)\nD/C Line (line length -15.34 km approx.).\nAnd in the matter of:\nOdisha Power Transmission Corporation Limited,\nJanpath, Bhubaneswar-751022 (Odisha). …Petitioner\nVersus\n1. Power Grid Corporation of India Limited,\nSAUDAMINI, Plot No....",
+  "source_name": "CERC"
+}

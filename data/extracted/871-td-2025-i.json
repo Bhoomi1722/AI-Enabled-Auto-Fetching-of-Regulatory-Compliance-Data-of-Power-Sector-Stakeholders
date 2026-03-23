@@ -1,0 +1,372 @@
+{
+  "filename": "871-td-2025-i.pdf",
+  "source_type": "text",
+  "text_length": 19559,
+  "obligations_count": 28,
+  "obligations": [
+    {
+      "obligation": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No. 871/TD/2025\nCoram:\nShri Jishnu Barua, Chairperson\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nShri Ravinder Singh Dhillon, Member\nDate of Order: 15th January, 2026\nIn the matter of\nApplication under Section 14 of the Electri...",
+      "section": "Section 14",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 541,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "……Petitioner\nParties present:\nShri Aditya K Singh, Advocate, KPIGEL\nShri Vineet Gupta, Advocate, KPIGEL\nShri Divyansh Singh, Advocate, KPIGEL\nORDER\nThe Petitioner, KPI Green Energy Limited (hereinafter referred to as ‘the\nPetitioner’), incorporated under the Companies Act, 2013, read with Regulation...",
+      "section": "Regulation 6",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 744,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "The\nPetitioner, vide Record of Proceedings (hereinafter referred to as “RoP’) for the\nhearing dated 20.11.2025, was directed to submit the following information on an\naffidavit:\n(i) Audited special balance sheet in place of provisional or unaudited\nstatement (within 30 days preceding the date of fil...",
+      "section": "N/A",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 428,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "(iv) Compliance affidavit in terms of Regulation 6(4) of the Trading Licence\nRegulations.",
+      "section": "Regulation 6",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 89,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "(v) Declaration stating that the Petitioner does not hold any transmission\nlicence and that it shall not carry out the business of transmission of electricity\nduring the subsistence of the inter-State trading licence, if granted by the\nOrder in Petition No. 871/TD/2025\nPage 2 of 11Commission.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Low (assuming no penalty is mentioned)",
+      "source_text_length": 293,
+      "compliance_type": "Reporting",
+      "due_date": "N/A",
+      "affected_entity": "Petitioner, Licensee",
+      "short_summary": "The Petitioner must declare non-transmission business during the subsistence of its inter-State trading licence."
+    },
+    {
+      "obligation": "(vi) Clarify whether the profile of professionals submitted in the\nPetition is full-time in the Petitioner company as per the requirement of\nTechnical Qualifications under Regulation 3 of the Trading Licence\nRegulations, 2020.",
+      "section": "Regulation 3",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 226,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "With regard to (vi) and (vii) above, the Petitioner has\nsubmitted as under:\n(a) The professionals furnished in the instant Application are in compliance\nwith Regulation 3 of the Trading Regulations, and the personnel engaged are\nfull-time employees of the Applicant company.",
+      "section": "Regulation 3",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 274,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "(b) In response to the provisions under which two applications have been\nmade for the grant of inter-State trading licences by two companies of the same\ngroup having common shareholders, each application has been filed under\nSection 14 of the Act, read with the Trading Licence Regulations.",
+      "section": "Section 14",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 290,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "Vide RoP dated 23.12.2025, the Commission observed that, in terms of\nRegulation 6(3) of the Trading Licence Regulations, the Petitioner was required to\npublish notices of its application within 7 days of filing, in two daily newspapers\nhaving circulation in each of the five regions, in addition to p...",
+      "section": "Regulation 6",
+      "keywords": [
+        "required"
+      ],
+      "confidence": "medium",
+      "risk_level": "High",
+      "source_text_length": 353,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "Regulation 6 of the\nTrading Licence Regulations provides for the procedure for the grant of a trading\nlicence as under:\n“6.",
+      "section": "Regulation 6",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 123,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "Procedure for grant of licence\n(1) Any person desirous of undertaking inter-State trading in electricity shall\nmake an application to the Commission for grant of licence in the manner\nspecified in Form-I appended to these regulations and such application shall\nbe accompanied by-\n(a) Such application...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 561,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM not responding – check LM Studio server"
+    },
+    {
+      "obligation": "(b) Copies of the annual reports in case of the persons incorporated\nunder the Companies Act, 1956 or Companies Act, 2013 including\naudited accounts along with the Directors' Report, Auditors' Report, the\nSchedules and notes to accounts for one Year immediately preceding\nthe Year in which the applic...",
+      "section": "N/A",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "High",
+      "source_text_length": 453,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "(2) The Applicant shall post complete application along with annexures and\nenclosures on its website so as to facilitate access to the application by any\nperson through internet and shall keep them on the website till the disposal of\nthe application.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Low (No immediate penalty or urgency mentioned)",
+      "source_text_length": 250,
+      "compliance_type": "Reporting",
+      "due_date": "N/A",
+      "affected_entity": "Applicant, General",
+      "short_summary": "Online posting of application and annexures required for public accessibility."
+    },
+    {
+      "obligation": "Order in Petition No. 871/TD/2025\nPage 5 of 11(3) The Applicant shall within 7 days after making such application, publish a\nnotice of its application, in two daily newspapers in Form II, with the following\nparticulars, namely:\n************\n(4) The Applicant shall within 7 days from the date of publ...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium/Low (depends on the consequences of non-compliance which are not explicitly stated in this context)",
+      "source_text_length": 512,
+      "compliance_type": "Reporting",
+      "due_date": "7 days from publication date or 'within X days' (exact day not specified)",
+      "affected_entity": "Applicant, Commission on Affidavit",
+      "short_summary": "Notice publication and affidavit submission within a week after notice issue."
+    },
+    {
+      "obligation": "(5) The Applicant shall allow a period of 30 days to the public to file objections\nor suggestions to the notice of application published in the newspapers.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Low (unless objections lead to significant delays)",
+      "source_text_length": 155,
+      "compliance_type": "Reporting",
+      "due_date": "within 30 days from publication date or 'N/A' if not applicable",
+      "affected_entity": "GENCO, Licensee, RE Developer, General Public",
+      "short_summary": "Public consultation period for application filing"
+    },
+    {
+      "obligation": "(6) The Applicant shall file its reply before the Commission within 30 days\nfrom the last date of receipt of objections or suggestions from the public.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 151,
+      "compliance_type": "Filing",
+      "due_date": "within 30 days",
+      "affected_entity": "Applicant (GENCO/DISCOM)",
+      "short_summary": "Reply filing deadline for objections or public suggestions"
+    },
+    {
+      "obligation": "(8) When the Commission proposes to grant licence, it shall publish a notice\nof its proposal in two daily newspapers, as the Commission may consider\nappropriate, stating the name and address of the person to whom it proposes\nto issue the licence and with such other details as the Commission consider...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 379,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "The Petitioner has uploaded the application for the grant of a trading licence\non its website in terms of Clause (3) of Regulation 6 of the Trading Licence\nRegulations and further placed on record the relevant copies of the newspapers in\noriginal in which notice of its application has been published...",
+      "section": "Regulation 6",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 301,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "As per Regulation 6(3)\nof the Trading Licence Regulations, the Petitioner was required to publish notices of\nits application within 7 days of filing, in two daily newspapers having circulation in\neach of the five regions, in addition to publications from Delhi, including one\neconomic daily.",
+      "section": "Regulation 6",
+      "keywords": [
+        "required"
+      ],
+      "confidence": "medium",
+      "risk_level": "High",
+      "source_text_length": 291,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "The Petitioner, vide its affidavit dated 16.12.2025, has submitted that notices under\nsub-section (2) of Section 15 of the Act read with Clause (4) of Regulation 6 of the\nTrading Licence Regulations have been published by the Petitioner company on\n6.12.2025 in the ‘Business Standard’ (Chandigarh, Ah...",
+      "section": "Section 15",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 563,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "It is noted that the notices were\nrequired to be published within seven days after making the application.",
+      "section": "N/A",
+      "keywords": [
+        "required"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 106,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "Clause 3 of the Memorandum of Association provides that the\nPetitioner is authorised to undertake trading in electricity.",
+      "section": "Clause 3",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 121,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "In view of the above, it has been submitted by the Petitioner that it fulfils the\nrequirements specified in Clause (1) of Regulation 3 of the Trading Licence\nRegulations.",
+      "section": "Regulation 3",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 170,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "In accordance with Clause (3) of Regulation 3 of the Trading Licence\nRegulations, a person applying for a Category 'IV' trading licence should have a net\nworth of Rs. Ten crores and should have maintained a minimum current ratio and\nliquidity ratio of 1:1 as on the date of the Audited Special Balanc...",
+      "section": "Regulation 3",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 337,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "In accordance with Clause (2) of Regulation 3 of the Trading Licence\nRegulations, the Petitioner should have at least one full-time professional,\npossessing qualifications and experience in power system operation and the\ncommercial aspects of power transfer, including finance, commerce and accounts.",
+      "section": "Regulation 3",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 300,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "Accordingly, as per the information submitted by the Petitioner, it fulfils the\nrequirements of Clause (2) of Regulation 3 of the Trading Licence Regulations.",
+      "section": "Regulation 3",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 158,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "We\ndirect that a notice under Clause (a) of Sub-section (5) of Section 15 of the Act be\nissued inviting further suggestions or objections to the proposal of the Commission.",
+      "section": "Section 15",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 172,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "The Petition shall be listed for a final hearing on 5.2.2026.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 61,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    }
+  ],
+  "preview": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No. 871/TD/2025\nCoram:\nShri Jishnu Barua, Chairperson\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nShri Ravinder Singh Dhillon, Member\nDate of Order: 15th January, 2026\nIn the matter of\nApplication under Section 14 of the Electricity Act, 2003, read with Regulation 6\nof the Central Electricity Regulatory Commission (Procedure, Terms and\nConditions for grant of trading license and other related matters), Regulations,\n2020, for grant of an inter-State trading licence.\nAnd\nIn the matter of\nKPI Green Energy Limited,\nKP House, Near KP Circle, Opp.,\nIshwar Farm Junction BRTS,\nCanal Road, Bhatar,\nSurat - 395017, Gujarat.\n……Petitioner\nParties present:\nShri Aditya K Singh, Advocate, KPIGEL\nShri Vineet Gupta, Advocate, KPIGEL\nShr...",
+  "source_name": "CERC"
+}

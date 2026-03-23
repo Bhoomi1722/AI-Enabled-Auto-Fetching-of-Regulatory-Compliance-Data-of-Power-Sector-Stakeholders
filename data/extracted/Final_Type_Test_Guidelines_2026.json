@@ -2,7 +2,7 @@
   "filename": "Final_Type_Test_Guidelines_2026.pdf",
   "source_type": "text",
   "text_length": 29031,
-  "obligations_count": 20,
+  "obligations_count": 30,
   "obligations": [
     {
       "obligation": "The equipment/ product must successfully pass the relevant tests (as\nspecified in the applicable standards), in an accredited laboratory such as the one accredited by\nNational Accreditation Board for Testing and Calibration Laboratories (NABL) before the\ncommercialization of the product/ equipment/m...",
@@ -11,7 +11,12 @@
         "must"
       ],
       "confidence": "high",
-      "source_text_length": 308
+      "risk_level": "High",
+      "source_text_length": 308,
+      "compliance_type": "Test Certification",
+      "due_date": "within N days after production completion or within X months from approval date, whichever is earlier",
+      "affected_entity": "Product Manufacturer/Equipment Supplier",
+      "short_summary": "Ensure product passes relevant tests in NABL-accredited lab before commercialization."
     },
     {
       "obligation": "Type test is a design and quality validation\ntest, and the purchaser must satisfy itself by following an agreed quality assurance plan and special\ntests, if any, agreed between the buyer and the supplier/manufacturer.",
@@ -20,7 +25,12 @@
         "must"
       ],
       "confidence": "high",
-      "source_text_length": 217
+      "risk_level": "Medium",
+      "source_text_length": 217,
+      "compliance_type": "Design Validation",
+      "due_date": "N/A",
+      "affected_entity": "Buyer & Supplier Relationship",
+      "short_summary": "Ensure product meets agreed specifications through quality assurance plan and special tests."
     },
     {
       "obligation": "The utility shall not reject the product/ equipment for supply against the contract on technical ground,\nif the subject product/ equipment has successfully passed the type test as per relevant Standards.",
@@ -29,7 +39,12 @@
         "shall"
       ],
       "confidence": "high",
-      "source_text_length": 203
+      "risk_level": "Medium",
+      "source_text_length": 203,
+      "compliance_type": "Technical Compliance",
+      "due_date": "N/A",
+      "affected_entity": "Supplier and Buyer of Product/Equipment",
+      "short_summary": "Product acceptance conditional on passing type test"
     },
     {
       "obligation": "Broad Guidelines\na) The type tests on equipment, for which testing facility is available in India, shall preferably be\nconducted in India in any independent laboratory approved by the Government or the laboratories\naccredited by the National Accreditation Body of the Country.",
@@ -38,7 +53,12 @@
         "shall"
       ],
       "confidence": "high",
-      "source_text_length": 276
+      "risk_level": "High",
+      "source_text_length": 276,
+      "compliance_type": "Equipment Testing",
+      "due_date": "within six months from procurement date",
+      "affected_entity": "Indian manufacturers and importers",
+      "short_summary": "Mandatory testing of equipment in India to ensure compliance with national standards."
     },
     {
       "obligation": "b) The type tests on indigenous equipment, for which testing facility is not available in India, shall be\nconducted in a laboratory of a foreign Country accredited by the National Accreditation Body of that\nCountry.",
@@ -47,7 +67,12 @@
         "shall"
       ],
       "confidence": "high",
-      "source_text_length": 215
+      "risk_level": "High",
+      "source_text_length": 215,
+      "compliance_type": "Equipment Testing",
+      "due_date": "N/A",
+      "affected_entity": "Indigenous Equipment Manufacturers in India",
+      "short_summary": "Test indigenous equipment abroad due to lack of local facilities"
     },
     {
       "obligation": "c) The type tests on imported equipment shall be conducted in an Indian laboratory or foreign\nlaboratory accredited by the National Accreditation Body of the Country where the type test has\nbeen conducted.",
@@ -56,7 +81,12 @@
         "shall"
       ],
       "confidence": "high",
-      "source_text_length": 205
+      "risk_level": "High",
+      "source_text_length": 205,
+      "compliance_type": "Equipment Testing",
+      "due_date": "N/A",
+      "affected_entity": "Imported Equipment Manufacturers and Importers",
+      "short_summary": "Mandatory type testing of imported equipment in accredited laboratories."
     },
     {
       "obligation": "Guidelines for the Type Tests for Major Equipment in Power Sector Page| 3/16d) The type tests conducted in-house by a manufacturer shall also be acceptable provided the\nlaboratory is accredited by the National Accreditation Body of the Country and the test has been\nconducted in the presence of a rep...",
@@ -65,7 +95,12 @@
         "shall"
       ],
       "confidence": "high",
-      "source_text_length": 398
+      "risk_level": "Medium",
+      "source_text_length": 398,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
     },
     {
       "obligation": "Such type test report shall record the details of such witness\nincluding the signature/ authentication in the type test report.",
@@ -74,7 +109,12 @@
         "shall"
       ],
       "confidence": "high",
-      "source_text_length": 127
+      "risk_level": "Medium",
+      "source_text_length": 127,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
     },
     {
       "obligation": "e) The result of all type tests shall be recorded properly in the Type Test Reports (TTRs) containing\nsufficient information like ratings, relevant drawings, model number, test circuit, calculations\n(if any), photographs and compliance to the relevant standards.",
@@ -83,7 +123,12 @@
         "shall"
       ],
       "confidence": "high",
-      "source_text_length": 262
+      "risk_level": "Medium",
+      "source_text_length": 262,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
     },
     {
       "obligation": "f) The date of the type test report shall be reckoned from the date of issuance of the complete type\ntest report.",
@@ -92,7 +137,12 @@
         "shall"
       ],
       "confidence": "high",
-      "source_text_length": 113
+      "risk_level": "Medium",
+      "source_text_length": 113,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
     },
     {
       "obligation": "The type test report should be issued by the laboratory within 15 days from the date of\ncompletion of the last test of the series of tests under the type test of that equipment as per the\nrelevant standards.",
@@ -101,7 +151,12 @@
         "should"
       ],
       "confidence": "medium",
-      "source_text_length": 207
+      "risk_level": "Medium",
+      "source_text_length": 207,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
     },
     {
       "obligation": "In case type test report including the provisional ‘type test’ report is not issued\nwithin 15 days, type test report shall be reckoned from the 15th day of completion of the last test of\nthe series of test under the type test.",
@@ -110,7 +165,12 @@
         "shall"
       ],
       "confidence": "high",
-      "source_text_length": 226
+      "risk_level": "Medium",
+      "source_text_length": 226,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
     },
     {
       "obligation": "The periodicity of type test\nconducted on the equipment i.e., the period for which Type Test Reports (TTRs) shall be acceptable\nby the user/ utility, and shall be as per given Annexures [Annexure-I (Transmission), Annexure-II\n(Distribution), Annexure-III (Thermal), Annexure-IV (Hydro)].",
@@ -119,7 +179,12 @@
         "shall"
       ],
       "confidence": "high",
-      "source_text_length": 287
+      "risk_level": "Medium",
+      "source_text_length": 287,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
     },
     {
       "obligation": "h) For the purpose of deciding the acceptability of the type test reports, the date of issue of the type\ntest report shall be reckoned with reference to the date of the submission of the bid by the bidder.",
@@ -128,7 +193,12 @@
         "shall"
       ],
       "confidence": "high",
-      "source_text_length": 205
+      "risk_level": "Medium",
+      "source_text_length": 205,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
     },
     {
       "obligation": "Guidelines for the Type Tests for Major Equipment in Power Sector Page| 4/16That is the type test report in respect of the concerned equipment shall not be older than the period\nspecified in these Guidelines as on the date of submission of the bid by the bidder.",
@@ -137,7 +207,12 @@
         "shall"
       ],
       "confidence": "high",
-      "source_text_length": 262
+      "risk_level": "Medium",
+      "source_text_length": 262,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
     },
     {
       "obligation": "i) Type test report of 220 kV voltage class equipment shall be valid for 230 kV voltage class equipment\nand vice versa as the highest system voltage is same in both the cases provided the Basic Insulation\nLevel (BIL) is same.",
@@ -146,7 +221,12 @@
         "shall"
       ],
       "confidence": "high",
-      "source_text_length": 225
+      "risk_level": "Medium",
+      "source_text_length": 225,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
     },
     {
       "obligation": "j) All the testing equipment used for type testing shall be duly calibrated and the valid calibration\nreports shall form part of the Type Test Reports.",
@@ -155,7 +235,12 @@
         "shall"
       ],
       "confidence": "high",
-      "source_text_length": 151
+      "risk_level": "Medium",
+      "source_text_length": 151,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
     },
     {
       "obligation": "k) The equipment shall be supplied from the same manufacturing works, where from the sample unit\nwas manufactured and successfully type tested as per relevant standard or at the works of Parent\norganization in case of technology transfer/ Joint Venture (JV) for the initial period of 03 years from\nth...",
@@ -164,7 +249,12 @@
         "shall"
       ],
       "confidence": "high",
-      "source_text_length": 347
+      "risk_level": "Medium",
+      "source_text_length": 347,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
     },
     {
       "obligation": "In case of own manufacturing plant at different location within India, the type test of the original\nmanufacturing works shall also be acceptable for the equipment manufactured and supplied from\nthe different location subject to the following conditions:\n(i) the relevant standard does not bar the sa...",
@@ -173,7 +263,12 @@
         "shall"
       ],
       "confidence": "high",
-      "source_text_length": 997
+      "risk_level": "Medium",
+      "source_text_length": 997,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
     },
     {
       "obligation": "In case failure(s) of the equipment manufactured & supplied from that location is reported to the\nAuthority, the Authority shall direct the concerned manufacturer to conduct Type Test for that\nequipment manufactured & supplied from that location.",
@@ -182,9 +277,154 @@
         "shall"
       ],
       "confidence": "high",
-      "source_text_length": 246
+      "risk_level": "Medium",
+      "source_text_length": 246,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Till the time Type Test is conducted\nsuccessfully, the manufacturer shall not manufacture & supply such equipment from that location.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 133,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "m) The type tests shall be repeated if there is change in technology or basic design or material or\nmanufacturing process or combination of any of the above or the type testing criteria in the\nrespective Standards have undergone a change/ amendment/ revision.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 259,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The\nOEM/ manufacturer shall submit an undertaking to this effect.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 65,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "However, fresh type testing shall be limited to only those tests for which test procedure/\nmethod, any technical requirement or parameters to be tested have been changed in the revised\nStandards.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 195,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "In such cases, enough time as mutually agreed between the user and manufacturer, shall\nbe given to manufacturer to comply with the revised provision in the Standards.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 166,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "o) The utilities shall co-relate the need of repeating type test(s) to changes in design/ technology and\nmay emphasize/ insist for stage inspection/quality check and hold points to ensure quality of the\ncomponent/ material used in the manufacturing of the equipment.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 266,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "p) The change in the make of component(s) of the equipment shall not be the criteria for repetition of\ntype tests for the equipment provided that the component of new make has been successfully type\ntested and its use shall not affect the functionality, performance and reliability of the equipment.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 299,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The type test reports of the component of new make shall be submitted.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 70,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "However, the utilities should\nrefrain from making it as a regular practice.",
+      "section": "N/A",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 75,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The utility shall clearly specify which type tests shall be\nrepeated in the event of award of the contract and quotation for such tests shall be invited\nseparately in the price bid.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 181,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
     }
   ],
-  "preview": "सत्यमेव जयते\nGuidelines for the Type Tests for Major Equipment of Power Sector\nभारत सरकार\nGOVERNMENT OF INDIA\nविद्युत मंत्रालय\nMINISTRY OF POWER\nके न्द्रीय विद्युत प्राविकरण\nCENTRAL ELECTRICITY AUTHORITY\nJanuary 2026Guidelines for the Type Tests for Major Equipment in Power Sector\n1. Background\nPrior to commercialization of the equipment/ product, the equipment/ product passes through the\nproduct development stages. The equipment/ product must successfully pass the relevant tests (as\nspecified in the applicable standards), in an accredited laboratory such as the one accredited by\nNational Accr...",
+  "preview": "सत्यमेव जयते\nGuidelines for the Type Tests for Major Equipment of Power Sector\nभारत सरकार\nGOVERNMENT OF INDIA\nविद्युत मंत्रालय\nMINISTRY OF POWER\nके न्द्रीय विद्युत प्राविकरण\nCENTRAL ELECTRICITY AUTHORITY\nJanuary 2026Guidelines for the Type Tests for Major Equipment in Power Sector\n1. Background\nPrior to commercialization of the equipment/ product, the equipment/ product passes through the\nproduct development stages. The equipment/ product must successfully pass the relevant tests (as\nspecified in the applicable standards), in an accredited laboratory such as the one accredited by\nNational Accreditation Board for Testing and Calibration Laboratories (NABL) before the\ncommercialization of the product/ equipment/material. One of such tests is a “type test” which is\ngenerally performed on any ...",
   "source_name": "CEA"
 }

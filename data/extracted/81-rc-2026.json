@@ -1,0 +1,62 @@
+{
+  "filename": "81-rc-2026.pdf",
+  "source_type": "text",
+  "text_length": 6706,
+  "obligations_count": 4,
+  "obligations": [
+    {
+      "obligation": "The Petitioner has submitted that an application under Section 14(1) of the\nCompanies Act, 2013 read with rule 41 of the Companies (Incorporation) Rules, 2014\nwas filed before the Regional Director (WR), Ministry of Corporate Affairs, Mumbai,\nseeking approval for the conversion of the company into a...",
+      "section": "Section 14",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 401,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "It is further stipulated\nthat Maheshwaram Transmission Private Limited shall remain unequivocally bound by\nthe terms and conditions of the inter-State transmission licence originally granted to\nMaheshwaram Transmission Limited, provisions of the Transmission Service\nAgreement, Transmission Licence R...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 336,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "Except for the name, there shall be no\nchange in the terms and conditions of the licence.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 89,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "Let an extract copy of this order be sent to the Central Government (the Ministry\nof Power), the Central Electricity Authority and the Central Transmission Utility of India\nLimited in terms of sub-section (7) of Section 15 of the Electricity Act, 2003, for their\ninformation and record.",
+      "section": "Section 15",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 286,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    }
+  ],
+  "preview": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No. 81/RC/2026\nCoram:\nShri Jishnu Barua, Chairperson\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nShri Ravinder Singh Dhillon, Member\nDate of Order: 12th March, 2026\nIn the matter of\nRegulatory Compliance Application on account of change in name of the transmission\nlicensee from ‘Maheshwaram Transmission Limited’ to ‘Maheshwaram Transmission\nPrivate Limited’.\nAnd\nIn the matter of\nMaheshwaram Transmission Limited,\nWindsor, 1st Floor, Unit No. 101,\nKalina, Santacruz East-400 098,\nMumbai, Maharashtra …Petitioner\nVERSUS\n1. Tamil Nadu Generation and Distribution Corporation Limited & Ors.,\nNpkrr Maaligai, 144 Anna Salai,\nChennai- 600002, Tamil Nadu\n2. Kerala State Electricity Board Limited,\nTariff Regulatory and Affairs Cell...",
+  "source_name": "CERC"
+}

@@ -9,9 +9,14 @@
       "section": "N/A",
       "keywords": [],
       "confidence": "medium",
-      "source_text_length": 217
+      "risk_level": "Medium",
+      "source_text_length": 217,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
     }
   ],
-  "preview": "CEA-PL-19-13/1/2024-Energy Storage System Division I/59969/2026\nभा(cid:2)रत सरका(cid:2)र / Government of India\nवि(cid:8)द्यु(cid:10)त मं(cid:12)त्रा(cid:2)लय / Ministry of Power\nका(cid:16)द्री(cid:18)य वि(cid:8)द्यु(cid:10)त प्रा(cid:2)धि(cid:21)कारण / Central Electricity Authority\nऊर्जा(cid:2) (cid:25)भाडा(cid:12) (cid:2)रण प्राण(cid:2)ल(cid:27) प्राभा(cid:2)ग / Energy Storage System Division\n*******\nवि(cid:8)षय: भा(cid:2)रत मं(cid:16) धि(cid:31)डा फॉ!धिमंग\" (GFM) इन(cid:8)र्ट(cid:25)र का& वि(cid:8)धिनमं(cid:2)ण(cid:25) क्षमंत(cid:2) - का( सम्बन्(cid:21) मं(cid:16)।\nSub: Manufacturing Capacit...",
+  "preview": "CEA-PL-19-13/1/2024-Energy Storage System Division I/59969/2026\nभा(cid:2)रत सरका(cid:2)र / Government of India\nवि(cid:8)द्यु(cid:10)त मं(cid:12)त्रा(cid:2)लय / Ministry of Power\nका(cid:16)द्री(cid:18)य वि(cid:8)द्यु(cid:10)त प्रा(cid:2)धि(cid:21)कारण / Central Electricity Authority\nऊर्जा(cid:2) (cid:25)भाडा(cid:12) (cid:2)रण प्राण(cid:2)ल(cid:27) प्राभा(cid:2)ग / Energy Storage System Division\n*******\nवि(cid:8)षय: भा(cid:2)रत मं(cid:16) धि(cid:31)डा फॉ!धिमंग\" (GFM) इन(cid:8)र्ट(cid:25)र का& वि(cid:8)धिनमं(cid:2)ण(cid:25) क्षमंत(cid:2) - का( सम्बन्(cid:21) मं(cid:16)।\nSub: Manufacturing Capacity of Grid Forming Inverters in India - reg.\nDear GFM Inverter Manufacturers,\nAs you are aware that the increasing share of Renewable Energy, such as\nSolar and Wind, necessitate the installation of Gri...",
   "source_name": "CEA"
 }

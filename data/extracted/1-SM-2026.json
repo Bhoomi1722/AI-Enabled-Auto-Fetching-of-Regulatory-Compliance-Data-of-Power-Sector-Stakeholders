@@ -1,0 +1,418 @@
+{
+  "filename": "1-SM-2026.pdf",
+  "source_type": "text",
+  "text_length": 30823,
+  "obligations_count": 30,
+  "obligations": [
+    {
+      "obligation": "Regulation 5 of the\nCongestion Charge Regulations provides that the Commission may, from time to time,\nby Order, specify the rate of congestion charge applicable to the whole or a part of the\nregion.",
+      "section": "Regulation 5",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 199,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Rate of Congestion Charge the Commission may, from time to time, by order\nspecify the rate of congestion charge applicable to whole or a part of the region.”\nThe Commission, vide its order dated 22.4.2013, approved the Detailed Procedure for\nrelieving congestion in real-time operation under Regulati...",
+      "section": "Regulation 4",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 345,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Under Regulation 5 of the Congestion Charge Regulations, vide Order dated\n17.03.2010 in 1/SM/2010, the rate of congestion charges was notified as under:\n“22.",
+      "section": "Regulation 5",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 157,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The levy of\ncongestion charge shall come into force with immediate effect and shall remain in force\ntill further order of the Commission.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "High",
+      "source_text_length": 137,
+      "compliance_type": "Regulatory",
+      "due_date": "Immediate Effect, TBD by Commission",
+      "affected_entity": "All Vehicles within Zone A",
+      "short_summary": "Congestion charge implementation with immediate effect"
+    },
+    {
+      "obligation": "(d) No congestion charge shall be levied for congestion in a transmission corridor, if\nthe power flow on the corridor is as per the schedule, but the congestion has been\ncaused by forced outages of a line in the corridor, which occurs after the drawal\nschedule has been fixed.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 276,
+      "compliance_type": "Congestion Charge Exemption",
+      "due_date": "N/A",
+      "affected_entity": "Transmission Corridor Operator",
+      "short_summary": "Exempt from congestion charge due to forced outages post schedule fix."
+    },
+    {
+      "obligation": "In order to address the situation, the charge for energy\ndrawn from the grid at normal frequency at or just below 50 Hz. Through a congested\ntransmission corridor should be fixed high enough to discourage over drawl from the\ngrid.",
+      "section": "N/A",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 230,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Prima facie we are of the view that the rate of congestion charge should be kept a\nlittle higher than the difference between the maximum Unscheduled interchange (UI)\ncharge (which also denotes the max.",
+      "section": "N/A",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 201,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Accordingly, the Commission proposes that the congestion charge shall be equal to\ndifference of Maximum UI charges and UI charges at 50 Hz as per prevailing CERC\n(Unscheduled Interchange charges and related matters) Regulations.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 228,
+      "compliance_type": "Regulatory Adjustment",
+      "due_date": "2023-12-31 or within six months from proposal date",
+      "affected_entity": "Electricity Distribution Companies (Discoms)",
+      "short_summary": "Adjustment of congestion charge based on UI charges discrepancy"
+    },
+    {
+      "obligation": "Hence congestion charge should\nnot be applied for under-drawal on the utilities of NER as under-drawal is beyond the\ncontrol of these utilities.",
+      "section": "N/A",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 144,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "ASEB, TSECL and Electricity Departments of Government of Manipur and Mizoram\nreferring to the provisions of Regulation 4(3) of the Congestion charge regulations have\nargued that congestion charge should not be applied on upstream entities for under-\ndrawal.",
+      "section": "Regulation 4",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 257,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Regulation 4(3) of the Congestion charge regulations is extracted as under:\n“(3) The congestion charge shall be payable by the overdrawing regional entity in addition\nto the Unscheduled Interchange charges which would be payable as per Central Electricity\nRegulatory Commission (Unscheduled Interchan...",
+      "section": "Regulation 4",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "High",
+      "source_text_length": 381,
+      "compliance_type": "Congestion Charge",
+      "due_date": "N/A",
+      "affected_entity": "Overdrawing Regional Entity",
+      "short_summary": "Payment of congestion charge in addition to Unscheduled Interchange charges"
+    },
+    {
+      "obligation": "The purpose of the Regulation 4(3) as quoted above is to ensure that the overdrawing\nentity is made to pay the UI charges as well as charges for congestion, since in the normal\nshortage scenario, the frequency is mostly below 50 Hz. and it would mostly be the\noverdrawing entity on the downstream sid...",
+      "section": "Regulation 4",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 326,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Since congestion charge would be applied to Unscheduled\nOrder in Petition No. 1/SM//2026 Page 3Interchange (UI) charges only, utilities in NER should take steps to sell the power they are\nunable to draw in order to avoid UI charges and therefore, congestion charges in the\nseason when congestion is l...",
+      "section": "N/A",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 315,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "However, NLDC’s\nstand that it should be applied to both sides in the frequency range 49.2 Hz. to 50.3 Hz\nwould be penalizing the non-guilty.",
+      "section": "N/A",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 140,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "In such a case, the imposition of congestion charge should not be guided by\nthe above mentioned philosophy and congestion charge may be applied only on the\nentities of the smaller area.",
+      "section": "N/A",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 185,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "As\nstated above, the prevalent frequency would decide which side is responsible for the\ncongestion and congestion charge shall be applied accordingly.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 150,
+      "compliance_type": "Traffic Management",
+      "due_date": "2023-12-31 or within six months from enactment date, N/A",
+      "affected_entity": "City Traffic Authority",
+      "short_summary": "Implement dynamic congestion pricing based on traffic frequency."
+    },
+    {
+      "obligation": "However\nwe are in agreement that congestion charge should not be levied for congestion in a\ntransmission corridor, if the power flow on the corridor is as per the schedule, but the\ncongestion is caused by forced outage of a line in the corridor, which occurs after the\ndrawal schedule has been fixed.",
+      "section": "N/A",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 300,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Charges are applicable as per Regulation 4 of the Congestion Charge Regulations\nquoted as under:\n“4.",
+      "section": "Regulation 4",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 100,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "(1) To relieve congestion in the real time, a congestion charge shall be applied as\na commercial measure.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 105,
+      "compliance_type": "Commercial Measure",
+      "due_date": "2023-07-15 or within six months from enactment date",
+      "affected_entity": "Public Transportation Users",
+      "short_summary": "Implementing a congestion charge to reduce traffic during peak hours."
+    },
+    {
+      "obligation": "(3) The congestion charge shall be applicable to the overdrawing/ underdrawing/ over-\ninjecting/ under-injecting regional entity in addition to the Unscheduled Interchange\ncharges which would be payable/receivable as per Central Electricity Regulatory\nCommission (Unscheduled Interchange charges and ...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 365,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Unlike conventional\ngeneration, RE generation which is “Must Run” is inherently variable and dependent\non real-time weather conditions, making accurate forecasting and scheduling\nchallenging.",
+      "section": "N/A",
+      "keywords": [
+        "must"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 191,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Since congestion charges are levied for transmission congestion, it is logical and\nequitable that RE generators should also be exempted from these charges.”\nAs per the above, ASSOCHAM has also requested a review of the applicability of\ncongestion charges for RE generators and exempting them from suc...",
+      "section": "N/A",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 334,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "We are of the view that\ncongestion is an issue of grid security, and all entities must act to reduce it.",
+      "section": "N/A",
+      "keywords": [
+        "must"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 104,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "We are of the view that\nthe congestion charge rate should be kept higher than the DSM rates.",
+      "section": "N/A",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 92,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "In view of the above discussions, the Commission proposes to revise the rate of\ncongestion charge and its applicability as under:\n(a) The rate of congestion charge shall be 1.5 times the ‘Reference Charge\nRate’ (RR), ‘Contract rate’ or ‘Normal Rate of Charges for Deviation’ (NR), as\napplicable for s...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 557,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "(b) No congestion charge shall be levied for congestion in a transmission\ncorridor if the power flow on the corridor is as per the schedule, but the\ncongestion has been caused by forced outages of a line in the corridor, which\noccurs after the drawal schedule has been fixed.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 275,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "No. 182/2026\nOrder in Petition No. 1/SM//2026 Page 9Annexure-I\nIllustration of the proposal at Para 12 of the Order for each type of DSM rate viz Contract rate,\nNormal Rate and Reference Rate as per DSM Regulations\n(a) Congestion charge rate in respect of the WS Seller for a particular time block:\nD...",
+      "section": "Para 12",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 1485,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Unit rate of Rs. 3)\nNote: Congestion charges shall be payable/ receivable based on the corridor in which the\ncongestion has been notified by the system operator and the corresponding location of the seller\nand the deviation by such seller (over-injection/ under-injection)\nOrder in Petition No. 1/SM/...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 1214,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Unit rate of Rs. 3)\nNote: Congestion charges shall be payable/ receivable based on the corridor in which the\ncongestion has been notified by the system operator and the corresponding location of the seller\nand the deviation by such seller (over-injection/ under-injection)\nOrder in Petition No. 1/SM/...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 1173,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Per Unit\nrate of Rs. 3)\nNote: Congestion charges shall be payable/ receivable based on the corridor in which the congestion\nhas been notified by the system operator and the corresponding location of the buyer and the deviation\nby such seller (over-drawal/ under-drawal)\nNote: All the above examples a...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 357,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    }
+  ],
+  "preview": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No. 1/SM/2026\nCoram:\nShri Jishnu Barua, Chairperson\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nShri Ravinder Singh Dhillon, Member\nDate of Order: 13.03.2026\nIn the Matter of:\nRate of Congestion charge in real-time operation in inter-state transmission of\nelectricity.\nORDER\nThe Commission has notified the Central Electricity Regulatory Commission\n(Measures to relieve congestion in real time operation) Regulations, 2009 (hereinafter\n“Congestion Charge Regulations”) on 22.12.2009, which came into effect from\n24.12.2009. The rationale behind applying a congestion charge is to ensure stability\nand security of the transmission system and the overall Grid. Regulation 5 of the\nCongestion Charge Regulations provides that the C...",
+  "source_name": "CERC"
+}

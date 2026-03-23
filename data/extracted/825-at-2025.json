@@ -1,0 +1,420 @@
+{
+  "filename": "825-at-2025.pdf",
+  "source_type": "text",
+  "text_length": 31228,
+  "obligations_count": 30,
+  "obligations": [
+    {
+      "obligation": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No. 825/AT/2025\nCoram:\nShri Jishnu Barua, Chairperson\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nShri Ravinder Singh Dhillon, Member\nDate of Order: 7th March, 2026\nIn the matter of\nPetition under Section 63 of the Electricity A...",
+      "section": "Section 63",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium (Pending adoption of tariff)",
+      "source_text_length": 514,
+      "compliance_type": "Tariff",
+      "due_date": "N/A",
+      "affected_entity": "Transmission Service Provider, Inter State transmission systems",
+      "short_summary": "Order issued for adopting competitive bidded tariffs in Transmission Services and inter-State lines."
+    },
+    {
+      "obligation": "…Respondents\nParties Present:\nShri Siddharth Patnaik, Advocate, ASTL\nShri Ankit Konwar, Advocate, ASTL\nMs. Aafreen Khan, Advocate, ASTL\nShri Akshayvat Kislay, CTUIL\nORDER\nThe Petitioner, Angul Sundargarh Transmission Limited, has filed the present\nPetition under Section 63 of the Electricity Act, 20...",
+      "section": "Section 63",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium (High if penalty)",
+      "source_text_length": 583,
+      "compliance_type": "Tariff",
+      "due_date": "N/A",
+      "affected_entity": "DISCOM, GENCO, Licensee, RE Developer, General",
+      "short_summary": "Angul Sundargarh Transmission Limited seeks adoption of transmission charges for ERGS-I on BOOT Basis."
+    },
+    {
+      "obligation": "Section 63 of the Act provides as under:\n“Section 63: Determination of tariff by bidding process: Notwithstanding\nanything contained in section 62, the Appropriate Commission shall adopt the\ntariff if such tariff has been determined through transparent process of bidding\nin accordance with the guide...",
+      "section": "Section 63",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium (depends on the timeliness of adopting tariffs)",
+      "source_text_length": 343,
+      "compliance_type": "Tariff",
+      "due_date": "N/A",
+      "affected_entity": "GENCO, DISCOM, Licensee",
+      "short_summary": "Tariff determination via bidding process as per Central Government guidelines."
+    },
+    {
+      "obligation": "The Ministry of Power, Government of India, has notified the “Tariff based\nCompetitive bidding Guidelines for Transmission Service” and “Guidelines for\nEncouraging Competition in Development of Transmission Projects‟ (hereinafter\nreferred to as “the Guidelines‟) under Section 63 of the Act vide Reso...",
+      "section": "Section 63",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 373,
+      "compliance_type": "Tariff",
+      "due_date": "N/A",
+      "affected_entity": "GENCOs (Generation Companies)",
+      "short_summary": "Implementation of Tariff based Competitive bidding Guidelines for Transmission Service"
+    },
+    {
+      "obligation": "(b) For procurement of the transmission services required for any inter-\nState transmission Project, the Central Government shall notify the CTUIL or\nany Central Government Organization/ Central Public Sector Undertaking or\nits wholly owned subsidiary (Special Purpose Vehicle) to be the Bid Process\n...",
+      "section": "N/A",
+      "keywords": [
+        "shall",
+        "required"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 381,
+      "compliance_type": "Procurement",
+      "due_date": "N/A",
+      "affected_entity": "GENCO, DISCOM, Licensee, RE Developer, Central Government Organization/Central Public Sector Undertaking or its wholly owned subsidiary (Special Purpose Vehicle)",
+      "short_summary": "Notification of BPC for coordinating bid process in inter-State transmission projects."
+    },
+    {
+      "obligation": "(c) The BPC shall prepare the bid documents in accordance with the\nGuidelines and obtain approval of the Appropriate Government, or\nalternatively, the BPC can use the Standard Bid Documents notified by the\nMinistry of Power.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium (depends on timely approval)",
+      "source_text_length": 224,
+      "compliance_type": "Reporting",
+      "due_date": "N/A",
+      "affected_entity": "Bidders, Appropriate Government",
+      "short_summary": "Preparation and submission of bid documents as per guidelines or approved standard forms."
+    },
+    {
+      "obligation": "Any material deviation from the Standard Bidding\nDocuments shall be made only with the prior approval of the Appropriate\nGovernment.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium (Non-approval of bidding documents can lead to delays or disqualification)",
+      "source_text_length": 132,
+      "compliance_type": "Reporting",
+      "due_date": "N/A",
+      "affected_entity": "DISCOM, GENCO, Licensee, RE Developer, General",
+      "short_summary": "Material deviation from Standard Bidding Documents requires prior government approval."
+    },
+    {
+      "obligation": "Intimation about initiation of the bidding process shall be sent by\nthe BPC to the Appropriate Commission.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium (High if not followed within the stipulated time)",
+      "source_text_length": 106,
+      "compliance_type": "Reporting",
+      "due_date": "N/A",
+      "affected_entity": "GENCO, Licensee, RE Developer",
+      "short_summary": "Notification to Commission for bidding initiation by BPC."
+    },
+    {
+      "obligation": "(d) For the procurement of the transmission services under the guidelines,\nBPC shall adopt a single stage two envelope tender process featuring\nRequest for Proposal (RfP).",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 171,
+      "compliance_type": "Tariff",
+      "due_date": "N/A",
+      "affected_entity": "BPC, Licensee",
+      "short_summary": "Procurement of transmission services through a single-stage two envelope RfP tender process."
+    },
+    {
+      "obligation": "The entire bidding process shall be conducted\nonline through electronic medium under e-reverse bidding framework.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium (if not conducted online as per regulation)",
+      "source_text_length": 113,
+      "compliance_type": "Reporting",
+      "due_date": "N/A",
+      "affected_entity": "Licensee, General",
+      "short_summary": "Electronic bidding process mandated for compliance."
+    },
+    {
+      "obligation": "(e) RfP notice should be published in at least two national newspapers,\nwebsite of the BPC and preferably in trade magazines also, so as to accord it\nwide publicity.",
+      "section": "N/A",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Low to Medium",
+      "source_text_length": 165,
+      "compliance_type": "Reporting",
+      "due_date": "N/A",
+      "affected_entity": "GENCO (Generating Company)",
+      "short_summary": "RfP notice must be published in multiple media outlets for public awareness."
+    },
+    {
+      "obligation": "The bidding shall necessarily be by way of International\nOrder in Petition No. 825/AT/2025\nPage 6Competitive Bidding (ICB).",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium (High if penalty)",
+      "source_text_length": 123,
+      "compliance_type": "Reporting",
+      "due_date": "N/A",
+      "affected_entity": "GENCO, Licensee, RE Developer, General",
+      "short_summary": "Competitive Bidding process for International Order in Petition No. 825/AT/2025"
+    },
+    {
+      "obligation": "For the purpose of issue of RfP, minimum\nconditions to be met by the bidder shall be specified in the RfP.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium (specifying minimum conditions in RfP is a standard procedure)",
+      "source_text_length": 106,
+      "compliance_type": "Reporting",
+      "due_date": "N/A",
+      "affected_entity": "Licensee, General",
+      "short_summary": "Bidders must meet specified criteria for issuing Requests For Proposals."
+    },
+    {
+      "obligation": "(f) Standard documentation to be provided in the RfP shall include\ndefinitions of requirements including brief description of the Project,\ncommissioning milestones to be achieved by the bidders, qualification\nrequirements to be met by the bidders including, minimum net worth, etc.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium (High if documentation is incomplete)",
+      "source_text_length": 281,
+      "compliance_type": "Reporting",
+      "due_date": "N/A",
+      "affected_entity": "Licensee or RE Developer",
+      "short_summary": "Provision of standard project requirements and qualifications in the Request for Proposal."
+    },
+    {
+      "obligation": "with\nnecessary proof of the same, as outlined in the bid documents, Specified\ntarget dates/months for commissioning and commercial operations, Standard\nTransmission Service Agreement (TSA), agreement(s) under the Central\nElectricity Regulatory Commission (Sharing of Inter State Transmission\nCharges ...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "High - due to the requirement of obtaining a transmission license from an Appropriate Commission which is critical for project approval.",
+      "source_text_length": 955,
+      "compliance_type": "Reporting",
+      "due_date": "specified in bid documents, within X days after submission or N/A if not specified",
+      "affected_entity": "Licensee and RE Developer (if applicable)",
+      "short_summary": "Bidders must submit necessary proof as per bid documents, specify commissioning and commercial operation dates in TSA agreements, comply with inter-state regulations, provide details on offer validity period, amendments to the proposed agreement, evaluation methodology by BPC, bid bond specifications including performance guarantee requirements, propose an indemnification agreement between SPV/TSP and Nodal Agency, detail liquidated damages for service delays, meet technical criteria set forth by regulatory bodies."
+    },
+    {
+      "obligation": "(h) To ensure competitiveness, the minimum number of qualified bidders\nshall be two.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 84,
+      "compliance_type": "Reporting",
+      "due_date": "N/A",
+      "affected_entity": "Licensee or DISCOM (depending on the context)",
+      "short_summary": "Ensure at least two qualified bidders for competitiveness."
+    },
+    {
+      "obligation": "For inter-State transmission system, bids shall be opened in the\nOrder in Petition No. 825/AT/2025\nPage 7office of the CEA by a bid committee comprising of at least one member from\nCEA and one member from BPC.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium (High if bid is not opened in time)",
+      "source_text_length": 209,
+      "compliance_type": "Reporting",
+      "due_date": "N/A",
+      "affected_entity": "GENCO, Licensee, RE Developer",
+      "short_summary": "Inter-State transmission system bids to be reviewed by a CEA and BPC member committee."
+    },
+    {
+      "obligation": "For inter-State transmission system, CEA\nshall constitute a committee for evaluation of the bids with at least one\nrepresentative from the CEA and not less than two representatives from the\nconcerned Regional Power Committees and one independent member.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Low (as it is a procedural requirement)",
+      "source_text_length": 253,
+      "compliance_type": "Reporting",
+      "due_date": "N/A",
+      "affected_entity": "GENCO, DISCOM, Licensee, RE Developer, General",
+      "short_summary": "Establishment of an evaluation committee for inter-State transmission bids."
+    },
+    {
+      "obligation": "Further, in case project is inter-regional, there shall be at least one\nrepresentative from every concerned RPC.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium to High depending on the project's complexity and regulatory requirements across regions involved.",
+      "source_text_length": 112,
+      "compliance_type": "Reporting",
+      "due_date": "N/A",
+      "affected_entity": "GENCO or RE Developer (if inter-regional)",
+      "short_summary": "Ensure representation from all concerned Regional Power Committees for projects spanning multiple states."
+    },
+    {
+      "obligation": "The technical bids shall be\nexamined to ensure that the bids submitted meet minimum eligibility criteria\nset out in the bid documents on all the technical evaluation parameters.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium (if bids do not meet criteria)",
+      "source_text_length": 177,
+      "compliance_type": "Technical Standard",
+      "due_date": "N/A",
+      "affected_entity": "GENCO, Licensee",
+      "short_summary": "Ensure technical bid compliance with set parameters"
+    },
+    {
+      "obligation": "Only\nthe bids that meet all elements of the minimum technical criteria set out in the\nbid documents shall be considered for further evaluation on the transmission\ncharges bids.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Low (as it is a standard requirement)",
+      "source_text_length": 176,
+      "compliance_type": "Reporting",
+      "due_date": "N/A",
+      "affected_entity": "GENCO, Licensee",
+      "short_summary": "Transmission charges bids must meet minimum technical criteria for further evaluation."
+    },
+    {
+      "obligation": "The online initial price bids shall be electronically opened by the\nbid opening committee in the presence of the bid evaluation committee.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium (High if bid opening is delayed or not transparent)",
+      "source_text_length": 138,
+      "compliance_type": "Tariff",
+      "due_date": "N/A",
+      "affected_entity": "DISCOM, GENCO, Licensee, RE Developer, General",
+      "short_summary": "Electronic initiation of online initial price bids by the committee."
+    },
+    {
+      "obligation": "The\nbidder who has quoted the lowest transmission charge as per the evaluation\nprocedure shall be considered for the award.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium (consideration for award implies a process that may have associated risks)",
+      "source_text_length": 123,
+      "compliance_type": "Tariff",
+      "due_date": "N/A",
+      "affected_entity": "Licensee, General",
+      "short_summary": "Bidding entity with lowest transmission charge to be awarded"
+    },
+    {
+      "obligation": "(i) The BPC is required to complete e-reverse bidding after opening of the\ninitial offer within 75 days.",
+      "section": "N/A",
+      "keywords": [
+        "required"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium - High, depending on the proximity to deadline and potential consequences of non-compliance",
+      "source_text_length": 104,
+      "compliance_type": "Reporting",
+      "due_date": "within 75 days from initial bid open date or 'N/A' if already completed",
+      "affected_entity": "BPC (Buyer Power Company)"
+    },
+    {
+      "obligation": "The procurer may give extended time frame\nindicated herein based on the prevailing circumstances, and such alterations\nshall not be construed to be deviation from these guidelines.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Low (assuming no penalty is mentioned)",
+      "source_text_length": 180,
+      "compliance_type": "Reporting",
+      "due_date": "within X days/months or 'N/A' depending on the context provided in full document",
+      "affected_entity": "DISCOM, Licensee",
+      "short_summary": "Extended time frame for reporting may be granted based on circumstances without being considered a deviation from guidelines."
+    },
+    {
+      "obligation": "(j) The TSP shall make an application for the grant of a transmission\nlicence to the Appropriate Commission within five (5) working days from the\ndate of execution of the Share Purchase Agreement for acquisition of the\nSPV.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium (if not filed within the specified timeframe)",
+      "source_text_length": 223,
+      "compliance_type": "Filing",
+      "due_date": "within 5 working days after signing",
+      "affected_entity": "DISCOM, GENCO, Licensee, RE Developer, General",
+      "short_summary": "Filing application for transmission license post-share purchase agreement."
+    },
+    {
+      "obligation": "Order in Petition No. 825/AT/2025\nPage 8(k) The BPC shall make the final result of evaluation of all bids public.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Low (no penalty mentioned)",
+      "source_text_length": 113,
+      "compliance_type": "Reporting",
+      "due_date": "N/A",
+      "affected_entity": "DISCOM, Licensee",
+      "short_summary": "Public disclosure of bid evaluation results required by BPC."
+    },
+    {
+      "obligation": "The\nfinal TSA, along with the certification by the bid evaluation committee, shall be\nforwarded to the Appropriate Commission, for the adoption of tariff discovered\nfrom the quoted annual transmission charges during the e-reverse bidding\nprocess in terms of Section 63 of the Act.",
+      "section": "Section 63",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium (High if not adopted in a timely manner)",
+      "source_text_length": 280,
+      "compliance_type": "Tariff",
+      "due_date": "N/A",
+      "affected_entity": "GENCO, Licensee, RE Developer",
+      "short_summary": "Final TSA and certification must be submitted for tariff adoption."
+    },
+    {
+      "obligation": "Intimation regarding the initiation of the bid process\nwas given to this Commission on 29.1.2025 in accordance with Clause 4.2 of the\nGuidelines dated 10.8.2021.",
+      "section": "Clause 4.2",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium (if there is a deadline for response, otherwise Low)",
+      "source_text_length": 161,
+      "compliance_type": "Reporting",
+      "due_date": "N/A",
+      "affected_entity": "Licensee or General (depending on who initiated the bid process)",
+      "short_summary": "Notification of commencement to Commission as per guideline clause."
+    },
+    {
+      "obligation": "No. of Bidders participated in the e-Reverse None\nAuction (As mentioned in\npara 16 below)\n8.",
+      "section": "para 16",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Low (No immediate penalty mentioned)",
+      "source_text_length": 92,
+      "compliance_type": "Reporting",
+      "due_date": "N/A",
+      "affected_entity": "DISCOM, GENCO, Licensee, RE Developer, General",
+      "short_summary": "Eight entities participated in the e-Reverse None Auction."
+    }
+  ],
+  "preview": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No. 825/AT/2025\nCoram:\nShri Jishnu Barua, Chairperson\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nShri Ravinder Singh Dhillon, Member\nDate of Order: 7th March, 2026\nIn the matter of\nPetition under Section 63 of the Electricity Act, 2003 for the adoption of tariff\ndiscovered through competitive bidding in respect of Transmission Service Provider\nand inter State transmission systems as defined under sub-section (36) of Section 2\nof the Act.\nAnd\nIn the matter of\nAngul Sundargarh Transmission Limited,\nUrjanidhi, 1st Floor, 1, Barakhamba Lane,\nConnaught Place,\nCentral Delhi, New Delhi – 110001. …Petitioner\nVersus\n1. Central Transmission Utility of India Limited,\nPlot No. 2, Sector 29, Gurugram,\nGurgaon-122001, Haryana.\n2. P...",
+  "source_name": "CERC"
+}

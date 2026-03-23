@@ -1,0 +1,46 @@
+{
+  "filename": "89-MP-2026.pdf",
+  "source_type": "text",
+  "text_length": 4476,
+  "obligations_count": 3,
+  "obligations": [
+    {
+      "obligation": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No. 89/MP/2026\nCoram:\nShri Jishnu Barua, Chairperson\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nDate of Order: 2nd March, 2026\nIn the matter of\nPetition under Sections 79(1)(c) and (f) of the Electricity Act, 2003 read with\nReg...",
+      "section": "Regulation 42",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 709,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "In the light of the facts and circumstances mentioned above, it is\nrespectfully prayed that this Hon’ble Commission may graciously be pleased to:\n(a) Admit the present Petition;\n(b) Direct Central Transmission Utility of India Limited to forthwith process\nthe Application dated 14.08.2025 bearing App...",
+      "section": "Regulation 5.2",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 912,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "CTUIL’, allowed Petitioner No. 1 to retain\nand utilise its 300 MW Connectivity at Bikaner-II and further directed CTUIL to process\nthe application made by the Petitioners for installation of additional generation\ncapacity and an Energy Storage System under Regulation 5.2 of the GNA\nRegulations, 2022...",
+      "section": "Regulation 5.2",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 301,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    }
+  ],
+  "preview": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No. 89/MP/2026\nCoram:\nShri Jishnu Barua, Chairperson\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nDate of Order: 2nd March, 2026\nIn the matter of\nPetition under Sections 79(1)(c) and (f) of the Electricity Act, 2003 read with\nRegulation 42 of the Central Electricity Regulatory Commission (Connectivity and\nGeneral Network Access to the inter-State Transmission System) Regulations, 2022\nseeking directions to Central Transmission Utility of India Limited to forthwith process\nthe application made by the Petitioners for installation of additional generation\ncapacity and Energy Storage System under Regulation 5.2 of the GNA Regulations.\nAnd in the matter of\n1. ACME Solar Holdings Limited,\nPlot No. 152, Sector 44, Gurgaon,\nHar...",
+  "source_name": "CERC"
+}

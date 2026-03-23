@@ -1,0 +1,22 @@
+{
+  "filename": "484-mp-2024.pdf",
+  "source_type": "text",
+  "text_length": 5155,
+  "obligations_count": 1,
+  "obligations": [
+    {
+      "obligation": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No. 4 84/MP/2024\nwith IA/98/2024\nCoram:\nShri Jishnu Barua, Chairperson\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nDate of Order: 15th February, 2026\nIn the matter of:\nPetition under Section 79(1)(a) & (f) of the Electricity Act...",
+      "section": "Section 79",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 386,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    }
+  ],
+  "preview": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No. 4 84/MP/2024\nwith IA/98/2024\nCoram:\nShri Jishnu Barua, Chairperson\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nDate of Order: 15th February, 2026\nIn the matter of:\nPetition under Section 79(1)(a) & (f) of the Electricity Act, 2003 read with Regulation\n65(1) of the CERC (Conduct of Business) Regulations, 2023.\nAnd\nIn the matter of:\nPower & Electricity Department,\nGovernment of Mizoram, New Secretariat Complex,\nKawlphetha, Aizwal- 796001 ……Petitioner\nVs.\nNorth Eastern Electric Power Corporation Limited,\nCorporate Office: Brookland Compound\nLower New Colony,\nShillong 793 003, Meghalaya ……Respondent\nParties Present:\nShri Samarth Kashyap, Advocate, PEDM\nShri Alabhya Dhamija, Advocate, PEDM\nShri Anubhav Mishra, Advocate,...",
+  "source_name": "CERC"
+}

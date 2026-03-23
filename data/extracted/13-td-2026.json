@@ -1,0 +1,132 @@
+{
+  "filename": "13-td-2026.pdf",
+  "source_type": "text",
+  "text_length": 9938,
+  "obligations_count": 9,
+  "obligations": [
+    {
+      "obligation": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No. 13/TD/2026\nCoram:\nShri Jishnu Barua, Chairperson\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nShri Ravinder Singh Dhillon, Member\nDate of Order: 28th January, 2026\nIn the matter of\nApplication under Sections 14 and 15 (1) of ...",
+      "section": "Regulation\n15",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 627,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Regulation 9(4) of the\nTrading Licence Regulations 2020 provides as under:\n“(4) The Trading Licensee shall make an appropriate application accompanied by\nprescribed fees for up-gradation of its licence to a higher category or down-gradation\nof its licence to a lower category in order to fulfil the c...",
+      "section": "Regulation 9",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 414,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "Regulation 15(3) of the Trading Licence Regulations 2020 provides as under:\n“15(3) Down gradation of licence:\n(a) The Trading Licensee may file an application to the Commission for down\ngradation of its licence to a lower category at any time:\nProvided that the Trading Licensee shall not be allowed ...",
+      "section": "Regulation 15",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 348,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "(b) The Trading Licensee shall be required to upload the audited special balance sheet\nto support the compliance of New Worth requirement for lower category licence.",
+      "section": "N/A",
+      "keywords": [
+        "shall",
+        "required"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 165,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "(c) While applying for down gradation of licence, the Trading Licensee shall be required\nto pay the licence fee applicable for the category of licence for which the application is\nbeing submitted.”\n8.",
+      "section": "N/A",
+      "keywords": [
+        "shall",
+        "required"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 200,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "On perusal of the\napplication, we observe that the Petitioner, being an existing trading licensee, fulfils all\ntechnical requirements for the grant of a Category ‘V’ inter-State trading licence\nspecified in Regulation 3(2) of the Trading Licence Regulations 2020.",
+      "section": "Regulation 3",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 263,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "As regards the\nnet worth requirements for Category ‘V’, Regulation 3 (3) (a) of the Trading Licence\nRegulations, 2020 provides that a person applying for a Category ‘V’ trading licence\nshould have a net worth of Rs. 2 crore and should have maintained minimum current\nratio and liquidity ratio of 1:1 ...",
+      "section": "Regulation 3",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 371,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The\nlicensee shall remain bound by the terms and conditions contained in the order dated\n21.6.2012 in Petition No. 115/TDL/2012, whereby it was issued with Category ‘I’\ntrading licence under Trading Licence Regulations 2009 and the terms and conditions\nspecified in the Trading Licence Regulations, 2...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 304,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "Let an extract copy of this order be sent to the Central Government (Ministry of\nPower) and the Central Electricity Authority in terms of sub-section (7) of Section 15\nof the Electricity Act, 2003, for their information and record.",
+      "section": "Section 15",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 231,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    }
+  ],
+  "preview": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No. 13/TD/2026\nCoram:\nShri Jishnu Barua, Chairperson\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nShri Ravinder Singh Dhillon, Member\nDate of Order: 28th January, 2026\nIn the matter of\nApplication under Sections 14 and 15 (1) of Electricity Act, 2003 read with Regulation\n15 (3) and Regulation 9 (4) of the Central Electricity Regulatory Commission\n(Procedures, Terms and Conditions for Grant of trading license and other related\nmatters) Regulations, 2020 for down-gradation of inter-State trading licence in\nelectricity from Category ‘I’ to Category ‘V’.\nAnd\nIn the matter of\nStatkraft Markets Private Limited,\n401, 4th Floor, D-1, Salcon Rasvilas Building,\nSaket District Centre, New Delhi – 110017 …Petitioner\nParties Present...",
+  "source_name": "CERC"
+}

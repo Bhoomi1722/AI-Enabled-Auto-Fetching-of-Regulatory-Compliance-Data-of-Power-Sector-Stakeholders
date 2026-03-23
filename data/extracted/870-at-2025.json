@@ -1,0 +1,421 @@
+{
+  "filename": "870-at-2025.pdf",
+  "source_type": "text",
+  "text_length": 35641,
+  "obligations_count": 30,
+  "obligations": [
+    {
+      "obligation": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No. 870/AT/2025\nCoram:\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nDate of Order: 2nd February, 2026\nIn the matter of\nApplication under Section 63 of the Electricity Act, 2003 for the adoption of\nTransmission Charges with respec...",
+      "section": "Section 63",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 474,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "…Respondents\nParties Present:\nShri Vikas Kumar, MRETL\nShri Akshyvat Kislay, CTUIL\nOrder in Petition No. 870/AT/2025\nPage 4ORDER\nThe Petitioner, POWERGRID Mandsaur Augmentation Transmission Limited\n(erstwhile Mandsaur I RE Transmission Limited), has filed the present Petition under\nSection 63 of the ...",
+      "section": "Section 63",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 645,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "Section 63 of the Act provides as under:\n“Section 63: Determination of tariff by bidding process: Notwithstanding\nanything contained in section 62, the Appropriate Commission shall adopt the\ntariff if such tariff has been determined through transparent process of bidding\nin accordance with the guide...",
+      "section": "Section 63",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium (depends on whether the bidding process has been transparent and in accordance with guidelines)",
+      "source_text_length": 383,
+      "compliance_type": "Tariff",
+      "due_date": "N/A",
+      "affected_entity": "DISCOM, GENCO, Licensee, RE Developer, General",
+      "short_summary": "The Appropriate Commission must adopt a tariff determined through an open bid process as per Central Government's guidelines."
+    },
+    {
+      "obligation": "The Ministry of Power, Government of India, has notified the “Tariff based\nCompetitive bidding Guidelines for Transmission Service” and “Guidelines for\nEncouraging Competition in Development of Transmission Projects‟ (hereinafter\nreferred to as “the Guidelines‟) under Section 63 of the Act vide Reso...",
+      "section": "Section 63",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 373,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "(b) For procurement of the transmission services required for any inter-State\ntransmission Project, the Central Government shall notify the CTUIL or any\nCentral Government Organization/ Central Public Sector Undertaking or its\nwholly owned subsidiary (Special Purpose Vehicle) to be the Bid Process\nC...",
+      "section": "N/A",
+      "keywords": [
+        "shall",
+        "required"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium (depends on the timeliness of procurement process)",
+      "source_text_length": 379,
+      "compliance_type": "Procurement",
+      "due_date": "N/A",
+      "affected_entity": "DISCOM, GENCO, Licensee, RE Developer, General",
+      "short_summary": "Central Government to designate BPC for inter-State transmission project bid coordination"
+    },
+    {
+      "obligation": "(c) The BPC shall prepare the bid documents in accordance with the Guidelines\nand obtain approval of the Appropriate Government, or alternatively, the BPC\ncan use the Standard Bid Documents notified by the Ministry of Power.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 224,
+      "compliance_type": "Reporting",
+      "due_date": "N/A",
+      "affected_entity": "Bidders (DISCOM, GENCO)",
+      "short_summary": "Preparation and approval of bid documents as per Guidelines or use of Standard Bid Documents."
+    },
+    {
+      "obligation": "Any\nmaterial deviation from the Standard Bidding Documents shall be made only\nwith the prior approval of the Appropriate Government.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "High (material deviation requires prior approval)",
+      "source_text_length": 132,
+      "compliance_type": "Reporting",
+      "due_date": "N/A",
+      "affected_entity": "GENCO, Licensee, RE Developer",
+      "short_summary": "Material deviations from bidding documents require governmental pre-approval."
+    },
+    {
+      "obligation": "Intimation about\ninitiation of the bidding process shall be sent by the BPC to the Appropriate\nCommission.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Low (No immediate penalty or urgency mentioned)",
+      "source_text_length": 106,
+      "compliance_type": "Reporting",
+      "due_date": "N/A",
+      "affected_entity": "GENCO, Licensee",
+      "short_summary": "Notification of bidding initiation process to Commission by BPC"
+    },
+    {
+      "obligation": "Order in Petition No. 870/AT/2025\nPage 7(d) For the procurement of the transmission services under the guidelines, BPC\nshall adopt a single stage two envelope tender process featuring Request for\nProposal (RfP).",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 211,
+      "compliance_type": "Tariff",
+      "due_date": "N/A",
+      "affected_entity": "BPC, Licensee",
+      "short_summary": "Single-stage two envelope tender process for transmission services procurement"
+    },
+    {
+      "obligation": "The entire bidding process shall be conducted online through\nelectronic medium under e-reverse bidding framework.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 113,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "(e) RfP notice should be published in at least two national newspapers, website\nof the BPC and preferably in trade magazines also, so as to accord it wide\npublicity.",
+      "section": "N/A",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 165,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "The bidding shall necessarily be by way of International Competitive\nBidding (ICB).",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 83,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "For the purpose of issue of RfP, minimum conditions to be met\nby the bidder shall be specified in the RfP.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 106,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "(f) Standard documentation to be provided in the RfP shall include definitions of\nrequirements including brief description of the Project, commissioning\nmilestones to be achieved by the bidders, qualification requirements to be met\nby the bidders including, minimum net worth, etc.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 281,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "with necessary proof of the\nsame, as outlined in the bid documents, Specified target dates/months for\ncommissioning and commercial operations, Standard Transmission Service\nAgreement (TSA), agreement(s) under the Central Electricity Regulatory\nCommission (Sharing of Inter State Transmission Charges ...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 995,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "(h) To ensure competitiveness, the minimum number of qualified bidders shall be\ntwo.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 84,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "For inter-State transmission system, bids shall be opened in the office of\nthe CEA by a bid committee comprising of at least one member from CEA and\none member from BPC.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 169,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "For inter-State transmission system, CEA shall\nconstitute a committee for evaluation of the bids with at least one\nrepresentative from the CEA and not less than two representatives from the\nconcerned Regional Power Committees and one independent member.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 253,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "Further, in case project is inter-regional, there shall be at least one\nrepresentative from every concerned RPC.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 112,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "The technical bids shall be\nexamined to ensure that the bids submitted meet minimum eligibility criteria\nset out in the bid documents on all the technical evaluation parameters.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 177,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "Only\nthe bids that meet all elements of the minimum technical criteria set out in the\nbid documents shall be considered for further evaluation on the transmission\ncharges bids.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 176,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "The online initial price bids shall be electronically opened by the\nbid opening committee in the presence of the bid evaluation committee.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 138,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "The\nbidder who has quoted the lowest transmission charge as per the evaluation\nprocedure shall be considered for the award.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 123,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "Order in Petition No. 870/AT/2025\nPage 9(i) The BPC is required to complete e-reverse bidding after opening of the initial\noffer within 75 days.",
+      "section": "N/A",
+      "keywords": [
+        "required"
+      ],
+      "confidence": "medium",
+      "risk_level": "High",
+      "source_text_length": 144,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "The Procurer may give extended time frame indicated\nherein based on the prevailing circumstances, and such alterations shall not\nbe construed to be deviation from these guidelines.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 180,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "(j) The TSP shall make an application for the grant of a transmission licence to\nthe Appropriate Commission within five (5) working days from the date of\nexecution of the Share Purchase Agreement for acquisition of the SPV.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 223,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "(k) The BPC shall make the final result of evaluation of all bids public.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 73,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "The final\nTSA, along with the certification by the bid evaluation committee, shall be\nforwarded to the Appropriate Commission, for the adoption of tariff discovered\nfrom the quoted annual transmission charges during the e-reverse bidding\nprocess in terms of Section 63 of the Act.",
+      "section": "Section 63",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 280,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "Intimation regarding the initiation of the bid\nprocess was given to this Commission on 19.3.2025 in accordance with Clause 4.2\nof the Guidelines dated 10.8.2021.",
+      "section": "Clause 4.2",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 161,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    },
+    {
+      "obligation": "No. of Bidders participated in the e-Reverse Two\nAuction (As mentioned in\npara 18 below)\n8.",
+      "section": "para 18",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 91,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped)"
+    }
+  ],
+  "preview": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No. 870/AT/2025\nCoram:\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nDate of Order: 2nd February, 2026\nIn the matter of\nApplication under Section 63 of the Electricity Act, 2003 for the adoption of\nTransmission Charges with respect to Transmission System being established by\nPOWERGRID Mandsaur Augmentation Transmission Limited (a 100% wholly owned\nsubsidiary of POWERGRID Corporation of India Limited).\nAnd\nIn the matter of\nPOWERGRID Mandsaur Augmentation Transmission Limited,\n(erstwhile Mandsaur I RE Transmission Limited),\n(A 100% wholly owned subsidiary of Power Grid Corporation of India Limited),\nRegistered office:\nB-9, Qutab Institutional Area, Katwaria Sarai,\nNew Delhi - 110016.\nAddress for correspondence:\nC/o ED (TBC...",
+  "source_name": "CERC"
+}

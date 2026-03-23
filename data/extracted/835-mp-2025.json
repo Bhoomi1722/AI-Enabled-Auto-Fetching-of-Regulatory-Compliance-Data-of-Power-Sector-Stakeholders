@@ -1,0 +1,34 @@
+{
+  "filename": "835-mp-2025.pdf",
+  "source_type": "text",
+  "text_length": 6745,
+  "obligations_count": 2,
+  "obligations": [
+    {
+      "obligation": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No: 835/MP/2025\nCoram:\nShri Jishnu Barua, Chairperson\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nDate of Order: 18th February, 2026\nIn the matter of:\nPetition under Section 79(1)(C) & 79(1)(K) of the Electricity Act, 2003 read ...",
+      "section": "Section 79",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 1025,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Direct CTUIL to take all necessary steps to ensure that no impediment is\ncaused to the Petitioners’ lawful operation of the BESS to be installed by REGS\nas part of its already granted / existing connectivity under Regulation 5.2 of the\nGNA Regulations, 2022, including by way of drawing power from th...",
+      "section": "Regulation 5.2",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 496,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    }
+  ],
+  "preview": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No: 835/MP/2025\nCoram:\nShri Jishnu Barua, Chairperson\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nDate of Order: 18th February, 2026\nIn the matter of:\nPetition under Section 79(1)(C) & 79(1)(K) of the Electricity Act, 2003 read with\nRegulation 65 of the Central Electricity Regulatory Commission (Conduct of Business)\nRegulations, 2023, Regulation 11 & 12 of Central Electricity Regulatory Commission\n(Deviation settlement mechanism and related matters) Regulations, 2024, Regulation\n41 & 42 of the GNA Regulations, 2022 and any other relevant laws seeking inter alia\nthe approval of the metering scheme proposed by the Petitioner in relation to the BESS\nProject being setup pursuant to Regulation 5.2 of the GNA Regulations, 20...",
+  "source_name": "CERC"
+}

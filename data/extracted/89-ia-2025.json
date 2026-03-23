@@ -1,0 +1,406 @@
+{
+  "filename": "89-ia-2025.pdf",
+  "source_type": "text",
+  "text_length": 50050,
+  "obligations_count": 30,
+  "obligations": [
+    {
+      "obligation": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nIA No. 89/2025\nin\nPetition No: 256/MP/2023\nCoram:\nShri Jishnu Barua, Chairperson\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nShri Ravinder Singh Dhillon, Member\nDate of Order: 31st January, 2026\nIn the matter of:\nApplication under Regula...",
+      "section": "Regulation 38",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 473,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The Clarification Order categorically states\nthat all changes in Law events that have occurred prior to the notification of the\nCIL Rules shall be dealt with in accordance with the prevalent dispensation/\nrule position at the time of occurrence of the event.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "High",
+      "source_text_length": 258,
+      "compliance_type": "Legal Precedence",
+      "due_date": "N/A",
+      "affected_entity": "Law Events Entities",
+      "short_summary": "Pre-notification changes must adhere to existing rules at the time of event."
+    },
+    {
+      "obligation": "Given that Change in Law\nclaims are now required to be adjudicated by the Commission, therefore, to\nOrder in IA No. 89/2025 in Petition No. 256/MP/2023 4avoid multiplicity of proceedings and ensure wholistic overview of the\nuncontrollable events that had impacted the Project, the Petitioner has soug...",
+      "section": "N/A",
+      "keywords": [
+        "required"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 378,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "(vii) Further, the application for amendment is barred under the Second\nProviso to Regulation 38 of the Conduct of Business Regulations.",
+      "section": "Regulation 38",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 136,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Even\notherwise, it is barred under First Proviso to Regulation 38 and Proviso to Rule\n17 of Order VI of the Code of Civil Procedure.",
+      "section": "Regulation 38",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 132,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Thus, the\namendment Application filed by the Petitioner should be allowed since the\npresent Application is, in fact, in compliance with the MUML Order issued by\nthe Commission.",
+      "section": "N/A",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 176,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "This is mandatory, as\nis apparent from the use of the word “shall”, in the latter part of Order VI Rule\n17 of the CPC”.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "High",
+      "source_text_length": 119,
+      "compliance_type": "CPC",
+      "due_date": "N/A",
+      "affected_entity": "Order VI Rule 17 applicant(s)",
+      "short_summary": "Mandatory compliance with CPC Order VI Rule 17"
+    },
+    {
+      "obligation": "In its Written\nSubmissions dated 8.3.2025, GUVNL had specifically contended that the\nPetitioner should have amended the Original Petition to bring on record its\nForce Majeure claims.",
+      "section": "N/A",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 182,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "State of Bihar [(2001) 7 SCC 318 (“Anil Rai\nJudgment”)], wherein the Hon’ble Supreme Court stressed on the fact that the\npronouncement of judgments in civil cases should not be permitted go beyond\ntwo months from the date of conclusion of oral hearing.",
+      "section": "N/A",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 252,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Further, the Hon’ble\nSupreme Court held that, if the pronouncement of judgment is delayed beyond\nsix months, either party shall have the right to file an application seeking a\nfresh hearing.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 190,
+      "compliance_type": "Judicial Procedure",
+      "due_date": "within six months from filing or N/A if not applicable",
+      "affected_entity": "Parties to the case",
+      "short_summary": "Delayed judgment allows for a fresh hearing application within six months."
+    },
+    {
+      "obligation": "Invoking Regulation\n65 of the COB Regulations (inherent powers) read with Section 94 of the\nOrder in IA No. 89/2025 in Petition No. 256/MP/2023 10Electricity Act, 2003, the Commission may apply the principles laid down in the\nAnil Rai Judgment to allow the present Application.",
+      "section": "Regulation\n65",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 277,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Regulation 38(2) of the\nCOB Regulations, in any case, does not curtail the Commission’s inherent\npower to permit an amendment to bring subsequent developments on record.",
+      "section": "Regulation 38",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 169,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "(xiii) Regulation 38 of the COB Regulations itself contemplates the\nCommission’s power to allow amendment at any stage where necessary to\ndetermine the real issues in controversy.",
+      "section": "Regulation 38",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 179,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The second proviso to Regulation 38\nof COB Regulations must be read harmoniously with the principle laid down in\nthe Anil Rai Judgment.",
+      "section": "Regulation 38",
+      "keywords": [
+        "must"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 135,
+      "compliance_type": "Regulatory Interpretation",
+      "due_date": "N/A",
+      "affected_entity": "COB Regulations Companies",
+      "short_summary": "Harmonizing second proviso with Anil Rai Judgment principle"
+    },
+    {
+      "obligation": "The Commission may consider the lapse of more than\nsix months since the reservation of the final order, coupled with the regulatory\nchange brought about by the MUML Order, and exercise its inherent powers\nunder Regulation 65 of the COB Regulations, to allow re-hearing and\namendment.",
+      "section": "Regulation 65",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 283,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The IA has been filed under Regulation 38, read with Regulation 26(3)(b) of\nthe Conduct of Business Regulations, 2023.",
+      "section": "Regulation 38",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 118,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Interlocutory Applications\n(3) An interlocutory application shall be filed to seek any of the following\nreliefs:\n….",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium to High depending on the case's complexity and urgency of relief sought",
+      "source_text_length": 115,
+      "compliance_type": "Legal Procedure",
+      "due_date": "N/A",
+      "affected_entity": "Parties involved in litigation or arbitration proceedings",
+      "short_summary": "Application for temporary court orders pending final judgment"
+    },
+    {
+      "obligation": "Amendment of Pleadings\nThe Commission may, at any stage of the proceedings in a petition, allow\nOrder in IA No. 89/2025 in Petition No. 256/MP/2023 13either party to alter or amend its pleadings in such manner and on such\nterms as may be considered appropriate, and all such amendments shall\nbe made ...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium to High depending on the stage of proceedings",
+      "source_text_length": 835,
+      "compliance_type": "Amendments",
+      "due_date": "N/A or within a specified timeframe before final hearing",
+      "affected_entity": "Petitioner(s) and Respondent(s)",
+      "short_summary": "Allowance for amendment in pleadings before final hearing"
+    },
+    {
+      "obligation": "Regulation 26(3)(b) is an enabling provision which provides that the Party\nintending amendment of the averments in Petition or prayers in Petition or both shall\nfile an IA.",
+      "section": "Regulation 26",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 172,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Whereas Regulation 38 is a substantive provision governing the powers of\nthis Commission to allow the amendment of the Pleadings.",
+      "section": "Regulation 38",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 129,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The first proviso stipulates that no application for amendment shall be\nallowed after the commencement of the final hearing of the Petition, unless the\nCommission is of the opinion that, in spite of due diligence, the party could not have\nraised the matter before the commencement of the final hearin...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 302,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The second proviso\ngoes a step further and stipulates that no application for amendment shall be\nentertained after the conclusion of the final hearing and reserving of the Order in the\nPetition.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 194,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The Court may at any stage of the proceedings allow either party to alter or\namend his pleadings in such manner and on such terms as may be just, and all\nsuch amendments shall be made as may be necessary for the purpose of\ndetermining the real questions in controversy between the parties:\nProvided t...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 531,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The proviso to the\nsaid rule stipulates that no application for amendment shall be allowed after the trial\nhas commenced unless the Court concludes that, in spite of due diligence, the party\ncould not have raised the matter before the commencement of the trial.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 261,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The\nprovisions of Regulation 38, except for its second proviso, are in pari materia with the\nabove Rule.",
+      "section": "Regulation 38",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 104,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "This Rule does not contain any express stipulation similar to the second\nproviso to Regulation 38.",
+      "section": "Regulation 38.",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 98,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Assuming that, unlike Regulation 38 of Conduct of Business Regulations,\nOrder VI Rule 17 of CPC permits the Petitioner to move an application seeking\nOrder in IA No. 89/2025 in Petition No. 256/MP/2023 16amendment of the Pleadings even after the conclusion of the final hearing and the\nreservation of...",
+      "section": "Regulation 38",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 327,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "As noted, the APTEL, after examining\nthe scheme of Change in Law Rules, had already expressed, way back in April 2022,\nthat the said Rules do not appear to cover a scenario where the parties are at dispute\nas to whether an event so claimed constitutes a Change in Law event and in such\ncases, the Com...",
+      "section": "N/A",
+      "keywords": [
+        "required"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 368,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Narayanaswamy & Sons,\n[(2009) 10 SCC 84], which include (i) Whether the amendment sought is imperative\nfor the proper adjudication of the case; (ii) Whether the application for amendment is\nbona fide or mala fide; (iii) The amendment should not cause such prejudice to the\nother side which cannot be ...",
+      "section": "N/A",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 757,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "However, when such an application is\nfiled after the commencement of a trial or the final hearing, the ‘due diligence’ test\nassumes greater significance than the above principles as it takes away the court’s\njurisdiction to allow such applications unless this condition precedent is satisfied, viz.,\n...",
+      "section": "N/A",
+      "keywords": [
+        "must"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 443,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    }
+  ],
+  "preview": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nIA No. 89/2025\nin\nPetition No: 256/MP/2023\nCoram:\nShri Jishnu Barua, Chairperson\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nShri Ravinder Singh Dhillon, Member\nDate of Order: 31st January, 2026\nIn the matter of:\nApplication under Regulation 38 read with Regulation 26(3)(b) of the Central\nElectricity Regulatory Commission (Conduct of Business) Regulations, 2023 seeking\namendment of Petition No. 256/MP/2023.\nAnd in the matter of:\nLakadia-Vadodara Transmission Project Limited,\nDLF Cyber Park, Tower-B,\n9th Floor, Udyog Vihar, Phase-III, Sector 20,\nGurugram – 122008\n…Petitioner\nVs.\n1. Adani Wind Energy Kutchh One Limited,\n(Formerly, known as Adani Green Energy MP Limited)\nThrough its Authorised Representative\nAdani House, 4th Floor...",
+  "source_name": "CERC"
+}

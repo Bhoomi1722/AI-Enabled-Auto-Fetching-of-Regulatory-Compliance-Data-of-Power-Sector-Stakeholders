@@ -1,0 +1,402 @@
+{
+  "filename": "556-at-2025.pdf",
+  "source_type": "text",
+  "text_length": 42516,
+  "obligations_count": 30,
+  "obligations": [
+    {
+      "obligation": "याचिका संख्या/Petition No 556/AT/2025\nकोरम/ Coram:\nश्री जिश्न ुबरुआ, अध्यक्ष / Shri Jishnu Barua, Chairperson\nश्री रमेश बाब ूव., सदस्य / Shri Ramesh Babu V., Member\nश्री हरीश ददु ानी, सदस्य / Shri Harish Dudani, Member\nश्री रववन्द्र ससहिं ढिल्लो, सदस्य /Shri Ravinder Singh Dhillon, Member\nआदेश चदनां...",
+      "section": "section 63",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 739,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Indian Renewable Energy Development Agency Limited,\nCorporate office at 3rd Floor, August Kranti Bhawan,\nBhikaji Cama Place, New Delhi – 110066\n2.Uttarakhand Power Corporation Ltd\nVictoria Cross Vijeyta Gabar Singh Urja Bhawan,\nKanwali Road, Balliwala Chowk, Dehradun\nUttarakhand- 248001\n3.Jammu & Ka...",
+      "section": "Section 63",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 1096,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The Petitioners\nhave made the following prayers:\nOrder in Petition No 556/AT/2025 Page 2“(a) Admit the present Petition;\nb) Adopt the usage charges of Rs 2.57/kWh mutually agreed between\nSGEL and procurers with maximum quoted VGF of Rs 44, 72,000/- per\nMW by SGEL for 1000 MW of Solar PV Project of S...",
+      "section": "Section 63",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 704,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "SJVN Limited, a generating company within the meaning of Section 79(1) (a)\nof the Act and SGEL is a wholly owned subsidiary of SJVN Limited, have submitted\nthat on 05.03.2019, the Ministry of New and Renewable Energy (MNRE),\nGovernment of India, notified the CPSU Scheme for setting up the 12,000 MW ...",
+      "section": "Section 79",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 517,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The said scheme was issued\nunder the provisions of Section 63 of the Act for long-term procurement of electricity\nby the ‘Procurers’ from the grid-connected solar PV power projects through\ncompetitive bidding.",
+      "section": "Section 63",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 209,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "SGEL\nexecuted a PUA with Respondent No. 4, Rajasthan Urja Vikas and IT Services\nLimited (‘RUVITL’) for the supply of 500 MW at a usage charge of INR 2.57/kWh.\nThe Rajasthan Electricity Regulatory Commission approved power procurement\nunder Section 86(1)(b) of the Electricity Act,2003, under the PUA ...",
+      "section": "Section 86",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 379,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "In view of the above, the Petitioners have preferred the instant petition under\nSection 63 of the Act, read with the Preamble under Section III of the RfS dated\n15.03.2019 for adoption of usage charges.",
+      "section": "Section 63",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 202,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "We now proceed to consider the prayers of the Petitioners as regards the\nadoption of usage charges for 1000 MW Solar Photovoltaic (PV) Power Stations\n(Tranche-III) in terms of the CPSU Scheme Phase–II issued by the Ministry of New\nand Renewable Energy, Government of India, under Section 63 of the Ac...",
+      "section": "Section 63",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 302,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Determination of tariff by bidding process: Notwithstanding anything\ncontained in Section 62, the Appropriate Commission shall adopt the tariff if such\ntariff has been determined through transparent process of bidding in accordance with\nthe guidelines issued by the Central Government.”\n17.",
+      "section": "Section 62",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 290,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "Thus, in terms of Section 63 of the Act, the Commission is required to adopt\nthe tariff upon being satisfied that the transparent process of bidding is in\naccordance with the guidelines issued by the Government of India under Section\n63 of the Act, and that the guidelines have been followed in the d...",
+      "section": "Section 63",
+      "keywords": [
+        "required"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 328,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "(c) Power produced by the Government Producer can be used for self-use\nor use by Government/ Government entities, either directly or through\nDiscoms on payment of mutually agreed usage charges of not more than\nRs.3.5/unit, which shall be exclusive of any other third party charges like\nwheeling and t...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 483,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "(e) With the objective of covering the cost difference between the domestically\nproduced solar cells and modules and imported solar cells and modules, VGF\nshall be provided under the scheme.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 190,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "Accordingly, we proceed to examine whether the usage charge has been\ndiscovered in terms of the provisions of Section 63 of the Act and whether the\nselection of the successful bidder(s) has been made through a competitive bidding\nprocess as per the provisions of the CPSU Scheme Phase-II.",
+      "section": "Section 63",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 288,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Tr3-SSPD- in India Seventy two 00\n1000 MW-1 thousand only\nIn alignment with the Guidelines of the scheme, the abovementioned project shall\nsupply power solely for either self-use or use by Government/Government entities,\neither directly or through Discoms under the CPSU Ph-II scheme.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 284,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "Further such\nsupply shall be subject to the following terms and conditions as stated in various\ndocuments referred above.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 121,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "Power generated from above Project(s) shall be solely for self-use or use by\nGovernment/Government entities, either directly or through Discoms on\npayment of mutually agreed usages charges of not more than Rs. 2.45/kWh,\nwhich shall be exclusive of any other third-party charges like wheeling and\ntran...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 481,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "Waiver of ISTS\ncharges and losses, for use of ISTS network, shall be available to Projects set-\nup under the CPSU Phase-II Scheme.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 130,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The SPD shall pay to IREDA, Success Charges of Rs. 1 lakh/MW/project+18%\nGST within 30 days from the date of this Letter of Award (LoA) towards\nadministrative overheads, coordination with State Authorities and monitoring of\nProjects' compliance with WTO norms, in line with Clause 12.",
+      "section": "Clause 12.",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "High",
+      "source_text_length": 284,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Performance Bank Guarantee(s) for an amount equal to 50% of total VGF\nsanctioned as per this Letter of Award shall be submitted by the SPD before\ndisbursement of first tranche of VGF, in line with Clause 11.1, Section-III of the\nRfS.",
+      "section": "Clause 11.1",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 233,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The validity of any such PBG being submitted to IREDA shall not be less\nthan 39 months.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 87,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The SPD shall confirm the configuration of the total allocated capacity at the\ntime of disbursement of second tranche of VGF.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 125,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Schedule Commissioning Date (SCD) for commissioning of the full capacity of\nthe Project shall be the date as on 30 months from the date of issuance of LoA.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 155,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The Maximum time period allowed for commissioning of the full Project Capacity\nshall be limited to 36 months from the date of issuance of LoA.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 142,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "In case of delay in commissioning of the Project beyond the SCD until the date\nas on 36 months from the issue date of the LoA/LoI, as part of the penalty for\ndelay in commissioning the amount of VGF sanctioned to be the project shall be\nreduced by 0.15% (zero-point one five percent) of the sanctione...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "High",
+      "source_text_length": 417,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "All disputes arising out of and/ or in connection with the selection of Solar Power\nProjects under the said RfS and execution of project(s) thereto shall be governed\nby laws of India and shall be subject to the jurisdiction of Courts of New Delhi.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 247,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "This LoA is being issued in duplicate and you are requested to kindly\nacknowledge receipt and acceptance of this LoA by sending the duly stamped\nand signed duplicate copy of LoA to IREDA within 07 days from date of this LoA.",
+      "section": "N/A",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 224,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The said\nagreement, dated 10.03.2024, was approved by the Rajasthan\nElectricity Regulatory Commission under Section 86(1)(b) of the\nElectricity Act, 2003, vide order dated 24.07.2024 in Petition No.\nRERC/2231/2024.",
+      "section": "Section 86",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 214,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "However, in the case of Tranche I & II, the usage charge agreed upon\nbetween the parties under the PUAs on the mutually negotiated basis\nwere lower than the prevailing ceiling usage charges of Rs.3.50/kWh\nand accordingly, the Commission after recognizing that the bid process\nhad been conducted with ...",
+      "section": "Section 63",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 487,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "However,\nkeeping in view that in this case, the Petitioner, NHPC, has not sought\nto rely upon the aforesaid MNRE OM or its implications and has prayed\nfor the adoption of usage charges to the extent of Rs. 2.45/kWh – the\nOrder in Petition No 556/AT/2025 Page 15ceiling usage charges prevailing at the...",
+      "section": "Section 63",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 530,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "In the present case, the parties have submitted that the RfS dated 29.01.2021\nwas issued by IREDA under Section 63 of the Electricity Act, 2003, following the\nprinciples of standard bidding guidelines issued by the Ministry of Power and the\nCPSU Scheme for grid- connected Solar PV Power Projects by ...",
+      "section": "Section 63",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 508,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    }
+  ],
+  "preview": "याचिका संख्या/Petition No 556/AT/2025\nकोरम/ Coram:\nश्री जिश्न ुबरुआ, अध्यक्ष / Shri Jishnu Barua, Chairperson\nश्री रमेश बाब ूव., सदस्य / Shri Ramesh Babu V., Member\nश्री हरीश ददु ानी, सदस्य / Shri Harish Dudani, Member\nश्री रववन्द्र ससहिं ढिल्लो, सदस्य /Shri Ravinder Singh Dhillon, Member\nआदेश चदनांक/ Date of Order:- 19th March, 2026\nIn the matter of\nPetition under section 63 of the Electricity Act, 2003, for adoption of usage charges\nfor a 1000 MW Solar Photovoltaic (PV) power station (Tranche-III) connected to the\ninter-state transmission system (ISTS) and selected through a competitive bidding\nprocess under Central Power Sector Undertaking scheme phase-II as per the\nguidelines dated 05.03.2019 issued by the Central Government.\nAnd\nIn the matter of:\n1. SJVN Green Energy Limited\nSJVN Corp...",
+  "source_name": "CERC"
+}

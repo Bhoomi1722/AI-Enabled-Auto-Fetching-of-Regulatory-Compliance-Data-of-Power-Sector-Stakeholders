@@ -1,0 +1,255 @@
+{
+  "filename": "863-mp-2025.pdf",
+  "source_type": "text",
+  "text_length": 20945,
+  "obligations_count": 18,
+  "obligations": [
+    {
+      "obligation": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No. 863/MP/2025\nCoram:\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nShri Ravinder Singh Dhillon, Member\nDate of Order: 14th January, 2026\nIn the matter of\nPetition under Section 17(3) and 17(4) of the Electricity Act, 2003 for cr...",
+      "section": "Section 17",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 496,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Power Finance Corporation Limited,\nUrjanidhi '1', Barakhamba Lane,\nConnaught Place, New Delhi -110001 …Respondents\nParties Present:\nShri Deep Rao, Advocate, ARTL\nMs. Shikha Sood, Advocate, ARTL\nMs. Iqra Khan, Advocate, ARTL\nORDER\nThe Petitioner, Anantapur II REZ Transmission Limited (hereinafter ref...",
+      "section": "Section 14",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 553,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The Petitioner has submitted that pursuant to the terms of the Facility\nAgreement, the secured obligations of the Petitioner shall be secured by the following\nsecurity package:\n5.1 SECURITY FOR RUPEE TERM LOAN\n5.1.1 The Facility together with all Interest, Incidental Charges, Liquidated\ndamages, fur...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 2871,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "as applicable, and including\namendments or modifications to such Project Documents, if any, but excluding\nTransmission License/Transmission Service Agreement for Connectivity with\nCentral Transmission of Utility of India Limited), duly acknowledged and\nconsented to by the relevant counter parties to...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 1645,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "Order in Petition No. 863/MP/2025 Page 5Collateral Security\n(i) pledge of Equity Shares both present and future, held by the Pledgor\naggregating to the Specified Percentage, free from all restrictive covenants,\nlien or other encumbrance under any contract, arrangement or agreement\nincluding but not ...",
+      "section": "Clause 5.1.1",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 990,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "The security specified in this Clause 5.1 is referred to as the \"Security\", which\nshall include any further or additional Security Interest created in terms of\nClauses 5.6, 5.7 and 5.8 of this Agreement.",
+      "section": "Clause 5.1",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 203,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "The Lender agrees that the aforesaid Security Interest listed under Clause\n5.1.1 (i) to Clause 5.1.1 (viii) shall be on a first ranking pari passu basis inter\nse the Lenders.",
+      "section": "Clause\n5.1.1",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 174,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "The Lender agrees that save and except the charge to be created on the DSRA\nunder Clause 5.1.1 (iv) above and assignment under Clause 5.1.l(v), the\naforesaid charges listed under Clause 5.1.1 (i) to 5.1.1 (v) may be extended by\nway of a first ranking pari passu charge for securing all amounts payabl...",
+      "section": "Clause 5.1.1",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 623,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "Additionally, we understand that the Security Trustee has been appointed in\nthe transaction and accordingly all the security shall be created in favour of the\nSecurity Trustee for the benefit of the Lenders.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 207,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Further, bank/ financial\ninstitution issuing letter of credit for payments to Contractors/ subcontractors\nshall be allowed to have an exclusive charge on fixed deposit created by\nBorrower with such bank/ financial institutes for issuance of such letter of\ncredit.”\n5.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 267,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The relevant extract of Article 15.2 is extracted below:\n“15.2. Permitted Charges:\n15.2.1. Neither Party shall create or permit to subsist any encumbrance over all\nor any of its rights and benefits under this Agreement.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 219,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "the Lenders or the Lenders' Representative on their behalf shall have entered\ninto the Financing Agreements and agreed in writing to the provisions of this\nAgreement; and\nii.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 174,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "any encumbrance granted by the TSP in accordance with this Article 15.2.2\nshall contain provisions pursuant to which the Lenders or the Lender’s\nRepresentative on their behalf agrees unconditionally with the TSP to release\nfrom such encumbrances upon payment by the TSP to the Lenders of all\namounts ...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 340,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Sub-sections (3) and (4) of Section 17 of the Act provides as under:\n“17.",
+      "section": "Section 17",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 73,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "(3) No licensee shall any time assign his licence or transfer his utility, or\nany part hereof, by sale, lease, exchange or otherwise without the prior\napproval of the Appropriate Commission.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 190,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "(4) Any agreement relating to any transaction specified in sub-section (1) or\nsub-section (3), unless made with the prior approval of the Appropriate\nCommission, shall be void.”\nAs per the above provisions, a licensee is required to obtain the approval of the\nCommission for assigning its licence or ...",
+      "section": "N/A",
+      "keywords": [
+        "shall",
+        "required"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 499,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "This decision of ours is in accordance with Regulation 8 of the Central Electricity\nRegulatory Commission (Procedure, Terms and Conditions for grant of Transmission\nLicence and other related matters) Regulations, 2024, which reads as under:\n“8.",
+      "section": "Regulation 8",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 244,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Therefore, specific prior approval of the Commission for assigning the licence to the\nnominee of Security Trustee or transfer of any assets to them shall always be needed.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 171,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    }
+  ],
+  "preview": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No. 863/MP/2025\nCoram:\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nShri Ravinder Singh Dhillon, Member\nDate of Order: 14th January, 2026\nIn the matter of\nPetition under Section 17(3) and 17(4) of the Electricity Act, 2003 for creation of security\ninterest over all the movable and immovable assets of the Petitioner in favour of Catalyst\nTrusteeship Limited, Respondent No. 2 for the benefit of the lender, Respondent No. 3.\nAnd\nIn the matter of\nAnantapur II REZ Transmission Limited,\n5th Floor, RMZ Infinity, Plot No 15, Phase IV,\nSector 18, Gurugram – 122015 …Petitioner\nVersus\n1. Central Transmission Utility of India Limited,\nFloors No. 5-10, Tower 1, Plot No. 16,\nIRCON International Tower, Institutional Area,\nSector 32, G...",
+  "source_name": "CERC"
+}

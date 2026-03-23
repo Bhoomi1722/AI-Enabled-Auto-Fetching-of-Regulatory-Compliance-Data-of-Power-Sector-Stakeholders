@@ -1,0 +1,247 @@
+{
+  "filename": "19-ia-2025.pdf",
+  "source_type": "text",
+  "text_length": 36697,
+  "obligations_count": 25,
+  "obligations": [
+    {
+      "obligation": "e) Direct the respondents to compensate the indirect loss incurred by the petitioner on\naccount of purchase of power from other sources to meet the “quantum of power”\nreduced by respondents on account of ISTS losses due to non-compliance of\nRegulation 13(11) of Sharing Regulation 2020.",
+      "section": "Regulation 13",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 286
+    },
+    {
+      "obligation": "These Regulations are required to be\ncomplied with by all statutory bodies and Designated ISTS Customers (DICs).",
+      "section": "N/A",
+      "keywords": [
+        "required"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 112
+    },
+    {
+      "obligation": "As per the NLDC procedure, transmission charges and losses in\nrespect of ISTS lines are required to be calculated on the basis of the LTA / MTOA\nquantum relating to the ISTS network used by a DIC for the drawal of power from the\nCGSs using ISTS lines.",
+      "section": "N/A",
+      "keywords": [
+        "required"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 251
+    },
+    {
+      "obligation": "This quantum of LTA /MTOA is required to be furnished by\nCTUIL to NLDC.",
+      "section": "N/A",
+      "keywords": [
+        "required"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 71
+    },
+    {
+      "obligation": "h) As per the Procedure for Collecting Data and Information for determining Inter-\nState Transmission Charges and Losses, CTUIL is required to furnish the break-up\ndetails of LTA/MTOA for all the generating stations connected to both the ISTS and\nintra-State transmission systems.",
+      "section": "N/A",
+      "keywords": [
+        "required"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 280
+    },
+    {
+      "obligation": "r) The drawal details at every node from Interstate Generating Stations using\nISTS lines and Intra-STS concerning the applicant are required to be brought on record\nby NLDC for the proper adjudication of the issues raised by the applicant in the\naccompanying Petition seeking to exclude the entire qu...",
+      "section": "N/A",
+      "keywords": [
+        "required"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 465
+    },
+    {
+      "obligation": "RoP for the hearing dated 28.04.2025 is as under:\n“Learned counsel for the Petitioner submitted that, despite the directions of the\nCommission vide previous RoPs, the CTUIL did not furnish the data pertaining to a\ndetailed breakup of the LTA/MTOA in respect of all the generating stations connected\nw...",
+      "section": "Regulation 13",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 416
+    },
+    {
+      "obligation": "Components of Transmission Charges\nTransmission charges for DICs shall have the following components:\na.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 104
+    },
+    {
+      "obligation": "(4) The Yearly Transmission Charges for the National Component shall be shared by all\ndrawee DICs and injecting DICs with untied LTA in proportion to their quantum of Long\nTerm Access plus Medium Term Open Access and untied LTA respectively.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 241
+    },
+    {
+      "obligation": "Components and sharing of Regional Component (RC)\n……………\n(2) Yearly Transmission Charges covered under sub-clause (a) of Clause (1) of this\nRegulation shall be shared by drawee DICs of the receiving region and injecting DICs with\nuntied LTA in the receiving region, in proportion to their quantum of L...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 374
+    },
+    {
+      "obligation": "Components and sharing of Transformer Component (TC)\n……………\n(2) Transformer Component for a State shall be borne and shared by the drawee DICs\nlocated in the concerned State in proportion to their Long Term Access plus Medium Term\nOpen Access.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 242
+    },
+    {
+      "obligation": "Components and sharing of AC System Component (ACC)\n………\n(5) Transmission charges under AC-BC shall be shared by all drawee DICs and injecting\nDICs with untied LTA in proportion to their quantum of Long Term Access plus Medium\nTerm Open Access and untied LTA respectively.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 271
+    },
+    {
+      "obligation": "(3) MTC covered under AC-UBC shall be apportioned on transmission lines of the Basic\nNetwork, whose charges have been included in the Yearly Transmission Charges.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 162
+    },
+    {
+      "obligation": "Such\napportionment shall be made on per circuit kilometer basis for each conductor configuration\nat each voltage level as per the methodology specified in Annexure-I of these regulations,\nfor obtaining transmission line-wise transmission charges for each conductor configuration\nat each voltage level...",
+      "section": "N/A",
+      "keywords": [
+        "shall",
+        "required"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 468
+    },
+    {
+      "obligation": "Regulation 13(11) of the Sharing Regulations, 2020 provides as under:\n“(11) Where a generating station is connected to both ISTS and intra-State transmission\nsystem, only ISTS charges and losses shall be applicable on the quantum of Long-\nTerm Access and Medium-Term Open Access corresponding to capa...",
+      "section": "Regulation 13",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 554
+    },
+    {
+      "obligation": "We observe from the recommendation of the Sub-Group formed under SRPC\nSecretariat and the deliberation at SRPC, the methodology adopted by SRPC for\ndetermining the quantum of LTA and MTOA corresponding to the capacity connected to\nthe ISTS for the dual connected generators, mainly lies on the princi...",
+      "section": "N/A",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 611
+    },
+    {
+      "obligation": "The PPA clearly provided that KPTCL shall construct the transmission lines\nfrom Udupi (then Nagarjunasagar) to 220 KV Kemar/Kuvoor and 400 kV Hassan.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 149
+    },
+    {
+      "obligation": "However,\nthe moot question which arises for our consideration is how much capacity of Udupi is to\nbe considered as connected to ISTS under Regulation 13(11) of the 2020 Sharing\nRegulations?",
+      "section": "Regulation 13",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 189
+    },
+    {
+      "obligation": "In this regard, we have perused the principles of the adequacy of the STU system\nrecommended by the sub-group of LTA for consideration under Regulation 13(11) of the\n2020 Sharing Regulations quoted as follows:\n“i) The intra-STU network planned and implemented at the time of commissioning of the\nconc...",
+      "section": "Regulation 13",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 361
+    },
+    {
+      "obligation": "We direct that NLDC shall calculate the quantum of LTA to be exempted for payment\nof ISTS charges towards the LTA quantum of Udupi from the date of effectiveness of the\n2020 Sharing Regulations, based on the above quoted principles.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 232
+    },
+    {
+      "obligation": "Accordingly, the RTA/ RTDA shall be revised by SRPC within a period of 30 days\nthereafter.”\nIn the above order, to calculate the capacity connected with the ISTS, the principles\nsuggested by the sub-group of SRPC have been relied upon.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 235
+    },
+    {
+      "obligation": "It is noted that the\nmethodology to determine the capacity connected to the ISTS for Regulation 13(11) of\nSharing Regulations,2020, nowhere relies on actual drawal data by the State.",
+      "section": "Regulation 13",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 182
+    },
+    {
+      "obligation": "The issue involved in the Petition pertains to the period from 1.11.2020 to 31.10.2023\nto determine the capacity connected to the ISTS for the purpose of Regulation 13(11) of the\nSharing Regulations, 2020.",
+      "section": "Regulation 13",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 205
+    },
+    {
+      "obligation": "Regulation 13(11) of\nthe Sharing Regulations provides that ISTS charges and losses shall apply only to the\nquantum of LTA and MTOA corresponding to the capacity connected to ISTS.",
+      "section": "Regulation 13",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 179
+    },
+    {
+      "obligation": "The\nmethodology for the determination of capacity connected to the ISTS for the purpose of\nRegulation 13(11) of the Sharing Regulations, as recommended by SRPC and considered\nby the Commission in Petition No. 224/MP/2022, has no relevance to the actual drawal by\nthe State from the corresponding gene...",
+      "section": "Regulation 13",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 307
+    }
+  ],
+  "preview": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nIA. No. 19/2025\nin\nPetition No. 319/MP/2022\nCoram:\nShri Jishnu Barua, Chairperson\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nShri Ravinder Singh Dhillon, Member\nDate of Order 02.02.2026\nIn the matter of:\nApplication seeking directions against Grid Controller of India Limited (Grid-India)\n(POSOCO) – NLDC to place on record node-wise drawal details on ISTS and Intra-STS\nfrom ISGS concerning Petitioner\nAnd\nIn the matter of:\n1. Tamil Nadu Power Distribution Corporation Ltd.,\n(Erstwhile TANGEDCO), NPKRR Maaligai,\n144, Anna Salai, Chennai-600 002 ………. Petitioner\nVersus\n1. Grid Controller of India Limited (GRID-INDIA),\n(POWER SYSTEM OPERATION CORPORATION LIMITED (NLDC)),\nB-9 (1st Floor), Qutab Institutional Area,\nKatwaria Sarai, New ...",
+  "source_name": "CERC"
+}

@@ -1,0 +1,167 @@
+{
+  "filename": "857-tl-2025.pdf",
+  "source_type": "text",
+  "text_length": 16423,
+  "obligations_count": 12,
+  "obligations": [
+    {
+      "obligation": "Note:\n• TSP of Davanagere PS shall provide space at Davanagere PS for carrying\nout the above augmentation works.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 112,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "Based on the competitive bidding carried out by the REC Power Development\nand Consultancy Limited (RECPDCL), in its capacity as the Bid Process Coordinator\n(BPC), in accordance with the Guidelines issued by the Ministry of Power, Government\nof India under Section 63 of the Act, Power Grid Corporatio...",
+      "section": "Section 63",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 425,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Considering the material on record, we are prima-facie of the view that\nthe Petitioner satisfies the conditions for the grant of an inter-State transmission\nlicence under Section 15 of the Act, read with the Transmission Licence\nRegulations for construction, operation, and maintenance of the transmi...",
+      "section": "Section 15",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 350,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "We, therefore, direct that a public\nnotice in two daily digital newspapers and on the Commission`s website under\nclause (a) of sub-section (5) of Section 15 of the Act be published to invite\nsuggestions or objections to the grant of a transmission licence aforesaid.",
+      "section": "Section 15",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 266,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The\nobjections or suggestions, if any, shall be filed by any person before the\nCommission by 6.1.2026.”\n4.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 106,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "A public notice under Sub-section (5) of Section 15 of the Act was published in\nall editions of the Indian Express (English) and Dainik Jagran (Hindi) on 31.12.2025.",
+      "section": "Section 15",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 165,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "During the course of the\nhearing, the representative of Petitioner submitted that no objection had been received\nin response to the public notice published by the Commission under sub-section (5) of\nSection 15 of the Act.",
+      "section": "Section 15",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 221,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "As regards the grant of a transmission licence, Clauses (13) and (14) of\nRegulation 5 of the 2024 Transmission Licence Regulations provide as under:\n“(13) The Commission may, after consideration of the further suggestions\nand objections, if any, received in response to the public notice in terms of\n...",
+      "section": "Regulation 5",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 470,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "(14) The Commission shall before granting licence or rejecting the application\nunder the provisions of this Regulation provide an opportunity of hearing to\nthe applicant, CTUIL, the concerned DICs, or the person who has filed\nsuggestions and objections, or any other interested person.”\n8.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 289,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "The grant of the transmission licence to the Petitioner (hereinafter referred to\nas “the licensee”) is subject to the fulfilment of the following conditions throughout the\nperiod of the licence:\n(a) The transmission licence shall, unless revoked earlier, remain in force\nfor a period of 25 years from...",
+      "section": "Regulation 9",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 1409,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "Delay in payment or non-payment of the licence fee or a\npart thereof for a period exceeding sixty days shall be construed as a breach\nof the terms and conditions of the licence;\n(f) The licensee shall comply with the directions of the National Load\nDespatch Centre under Section 26 of the Act, or the...",
+      "section": "Section 26",
+      "keywords": [
+        "shall",
+        "required"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 2856,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    },
+    {
+      "obligation": "CTUIL and the Central Electricity Authority shall monitor the execution of the\nProject and bring to the Commission's notice any lapse on the part of the licensee in\nOrder in Petition No. 857/TL/2025\nPage 10meeting the schedule for further appropriate action in accordance with the provisions\nof the T...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 431,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "LLM unavailable – using fallback"
+    }
+  ],
+  "preview": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No. 857/TL/2025\nCoram:\nShri Jishnu Barua, Chairperson\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nDate of Order: 12th January, 2026\nIn the matter of\nApplication under Sections 14 & 15 of the Electricity Act, 2003 read with the Central\nElectricity Regulatory Commission (Procedure, Terms and Conditions for Grant of\nTransmission License and other related matters) Regulations, 2024 with respect to\nTransmission Licence to Davanagere Power Transmission Limited.\nAnd\nIn the matter of\nDavanagere Power Transmission Limited,\n(Now known as ‘POWERGRID Davanagere Augemetnation Transmission Limited’),\n(A 100% wholly owned subsidiary of Power Grid Corporation of India Limited),\nRegistered office:\nB-9, Qutab Institutional Area, Katwari...",
+  "source_name": "CERC"
+}

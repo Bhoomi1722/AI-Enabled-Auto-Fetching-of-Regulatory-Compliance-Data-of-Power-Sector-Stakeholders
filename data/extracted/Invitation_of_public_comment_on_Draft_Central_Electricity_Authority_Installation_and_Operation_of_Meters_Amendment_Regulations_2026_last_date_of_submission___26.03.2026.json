@@ -1,0 +1,128 @@
+{
+  "filename": "Invitation_of_public_comment_on_Draft_Central_Electricity_Authority_Installation_and_Operation_of_Meters_Amendment_Regulations_2026_last_date_of_submission___26.03.2026.pdf",
+  "source_type": "text",
+  "text_length": 5151,
+  "obligations_count": 9,
+  "obligations": [
+    {
+      "obligation": "Puram, New Delhi-110066\nTelephone -011-26732632, email: celegal-cea@gov.in\nWebsite: www.cea.nic.in\nPUBLIC NOTICE\nIn exercise of powers conferred under Section 177 of the\nElectricity Act, 2003, the Central Electricity Authority (CEA),\nproposes to notify the draft Central Electricity Authority\n(Instal...",
+      "section": "Section 177",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 360,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Puram, New Delhi-110066 by post or through e-mail\n(celegal-cea@gov.in) latest by 26th March, 2026.",
+      "section": "N/A",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 98,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "(Rakesh Kumar)\nSecretary, CEA[To be published in the Gazette of India, Extraordinary, Part III, Section 4]\nGOVERNMENT OF INDIA\nMINISTRY OF POWER\nCENTRAL ELECTRICITY AUTHORITY\nNOTIFICATION\nNew Delhi, the………………,2026\nF No.1/12/CEA/DPM/Regulations/2025 —Whereas the draft regulations proposing to amend t...",
+      "section": "Section 4",
+      "keywords": [
+        "required"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 1601,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "(2) They shall come into force on the date of their publication in the Official Gazette.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 88,
+      "compliance_type": "Legal Regulation",
+      "due_date": "N/A",
+      "affected_entity": "Entities subject to regulations",
+      "short_summary": "Regulations become enforceable upon publication in the Official Gazette."
+    },
+    {
+      "obligation": "In the Central Electricity Authority (Installation and Operation of Meters) Regulations, 2006 (herein after\nreferred to as the said regulations), in sub-regulation (1) of regulation 4, for clause (b) the following shall be\nsubstituted, namely:-\n“(b) All consumers in areas with communication network,...",
+      "section": "regulation 4",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium to High depending on implementation timelines and infrastructure readiness",
+      "source_text_length": 876,
+      "compliance_type": "Electric Meter Regulation",
+      "due_date": "within timelines as provided by Central Government or within X days/months of regulation amendment date (N/A)",
+      "affected_entity": "All consumers in areas with communication network and State Electricity Commissions for prepayment meters",
+      "short_summary": "Substitution of clause (b) mandates installation or upgrade to Smart Meters in areas with communication networks, while allowing State Electricity Commissions discretion for prepayment meters without such network."
+    },
+    {
+      "obligation": "Provided also that all the Advanced Metering Infrastructure shall include the prepayment\nfunctionality and shall be interoperable in accordance with the guidelines issued by the Authority:\nProvided also that the Smart Meter conforming to relevant Indian Standard with accuracy class\nof 1.0/0.5S shall...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 405,
+      "compliance_type": "Advanced Metering Infrastructure",
+      "due_date": "N/A",
+      "affected_entity": "Smart Meters conforming to Indian Standard with accuracy class of 1.0/0.5S",
+      "short_summary": "Mandate for prepayment functionality and interoperability in Smart Meter systems."
+    },
+    {
+      "obligation": "In regulation 7 of the said regulations, in sub-regulation (1), in clause (a), in Table-1 for Sl. No. 4 and\nthe entries relating thereto, the following Sl. Nos.",
+      "section": "regulation 7",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 160,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "and entries relating thereto shall be substituted,\nnamely: -Sl. Stages Main Check Standby Meter\nNo. Meter Meter\n(1) (2) (3) (4) (5)\n“4.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 135,
+      "compliance_type": "Regulatory Compliance",
+      "due_date": "N/A",
+      "affected_entity": "Utility Company XYZ",
+      "short_summary": "Meter replacement and installation procedures updated."
+    },
+    {
+      "obligation": "premises\nRakesh Kumar, Secretary\nCentral Electricity Authority\nNote: The principal regulations were published in the Gazette of India, Extraordinary, Part III, Section 4, vide\nnotification No. 502/70/CEA/DP&D, dated the 22nd March, 2006 and last amended vide notification No. CEA-\nGO-13-15(12)/1/2022...",
+      "section": "Section 4",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 345,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    }
+  ],
+  "preview": "GOVERNMENT OF INDIA\nCENTRAL ELECTRICITY AUTHORITY\nSewa Bhawan (North Wing), Room No. 622, 6th Floor,\nR. K. Puram, New Delhi-110066\nTelephone -011-26732632, email: celegal-cea@gov.in\nWebsite: www.cea.nic.in\nPUBLIC NOTICE\nIn exercise of powers conferred under Section 177 of the\nElectricity Act, 2003, the Central Electricity Authority (CEA),\nproposes to notify the draft Central Electricity Authority\n(Installation and Operation of Meters) Amendment\nRegulations, 2026. The proposed draft regulations are available\non the CEA Website www.cea.nic.in for inviting public\ncomments.\n2. All the Stakeholders and the public are requested to send\ntheir comments on the draft regulations to Chief Engineer\n(Legal), Sewa Bhawan (North Wing), Room No. 622, 6th Floor,\nR. K. Puram, New Delhi-110066 by post or thr...",
+  "source_name": "CEA"
+}

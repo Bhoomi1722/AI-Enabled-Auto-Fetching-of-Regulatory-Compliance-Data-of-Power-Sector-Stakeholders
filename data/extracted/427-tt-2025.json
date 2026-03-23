@@ -1,0 +1,392 @@
+{
+  "filename": "427-tt-2025.pdf",
+  "source_type": "text",
+  "text_length": 81874,
+  "obligations_count": 30,
+  "obligations": [
+    {
+      "obligation": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No. 427/TT/2025\nCoram:\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nDate of Order: 13.01.2026\nIn the matter of:\nPetition for approval under Section 62 read with Section 79(1)(d) of the Electricity Act,\n2003, and under Regulation ...",
+      "section": "Section 62",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 869,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The Petitioner has made the following prayers in the instant Petition:\n“\na) Approve the trued-up Transmission Tariff for 2019-24 block and Transmission Tariff\nfor 2024-29 block for the assets covered under this petition, as per para 15 and 16\nabove.",
+      "section": "para 15",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 249,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "c) Allow the petitioner to recover the shortfall or refund the excess Annual Fixed\nCharges, on account of Return on Equity due to change in applicable Minimum\nAlternate/Corporate Income Tax rate as per the Income Tax Act, 1961 (as amended\nfrom time to time) of the respective financial year directly ...",
+      "section": "para 15",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 471,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "e) Allow the petitioner to bill and recover RLDC fees & charges and Licensee fee\nseparately from the respondents in terms of Regulation 94 (3) and (4) Central\nElectricity Regulatory Commission (Terms and Conditions of Tariff) Regulations,\n2024.",
+      "section": "Regulation 94",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 244,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "g) Allow the petitioner to file a separate petition before Hon’ble Commission for claiming\nthe overall security expenses and consequential IOWC on that security expenses as\nmentioned at para 22 above.",
+      "section": "para 22",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 200,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "h) Allow the petitioner to file a separate petition before Hon’ble Commission for claiming\nthe overall insurance expenses and consequential IOWC on that insurance\nexpenses as mentioned at para 22 above.",
+      "section": "para 22",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 202,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "i) Allow the petitioner to file a separate petition before Hon’ble Commission for claiming\nthe overall capital spares as per actual as mentioned at Para 22 above.",
+      "section": "Para 22",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 162,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "j) Allow the petitioner to claim expenses of CTUIL borne by POWERGRID through a\nseparate petition as mentioned at para 23 above.",
+      "section": "para 23",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 128,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "imposed by any\nstatutory/Govt./municipal authorities shall be allowed to be recovered from the\nbeneficiaries.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "High",
+      "source_text_length": 109,
+      "compliance_type": "Legal Recovery",
+      "due_date": "N/A",
+      "affected_entity": "Beneficiaries of a financial transaction or service",
+      "short_summary": "Recovering funds from beneficiaries due to statutory, governmental, or municipal authority directives."
+    },
+    {
+      "obligation": "The Petitioner has served a copy of the Petition on the Respondents and the\nnotices regarding the filing of this Petition have been published in the newspapers in\naccordance with Section 64 of the Electricity Act, 2003 (hereinafter referred to as “the\nAct”).",
+      "section": "Section 64",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 258,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The capital cost of the transmission project has been calculated in accordance\nwith Regulation 19(1) and 19(3) of the 2019 Tariff Regulations.",
+      "section": "Regulation 19",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 142,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The capital cost of ₹132682.46 lakh as on 31.3.2019 was approved by the\nCommission vide order dated 10.1.2022 in Petition No. 710/TT/2020 and accordingly\nthe same is being considered as the opening capital cost as on 1.4.2019 for the purpose\nof truing-up of the transmission tariff for the 2019-24 pe...",
+      "section": "Regulation 19",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 375,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The details of the debt-equity ratio considered and allowed under Regulation 18\nof the 2019 Tariff Regulations for computation of tariff for the Combined Assets during\nthe 2019-24 tariff period are as follows:\nCapital Cost Capital Cost\nFunding as on 1.4.2019 (in %) as on 31.3.2024 (in %)\n(₹ in lakh)...",
+      "section": "Regulation 18",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 487,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The Weighted Average\nRate of Depreciation (WAROD) has been worked out for the Combined Assets for the\n2019-24 tariff period as per the rates of depreciation specified in Regulation 33 of the\n2019 Tariff Regulations and is given in Annexure-1 to this order.",
+      "section": "Regulation 33",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 256,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The Interest on Loan (IoL) has\nbeen calculated based on the actual interest rate submitted by the Petitioner in\naccordance with Regulation 32 of the 2019 Tariff Regulations.",
+      "section": "Regulation 32",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 173,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "We note that the entities covered under the MAT regime are paying income\ntax as per the MAT rates notified for the respective financial years under the Income\nTax Act, 1961 (hereinafter referred to as ‘the IT Act, 1961’), which is levied on the book\nprofit of the entity computed as per Section 115 J...",
+      "section": "Section 115",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 322,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Section 115 JB\n(2) of the IT Act, 1961, defines book profit as the net profit in the Statement of Profit and\nLoss prepared in accordance with Schedule-III of the Companies Act, 2013, subject to\nsome additions and deductions as mentioned in the IT Act, 1961.",
+      "section": "Section 115",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "High",
+      "source_text_length": 257,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Since the Petitioner\nhas been paying the MAT rates of the respective financial years, the notified MAT rates\nfor the respective financial years shall be considered as an effective tax rate for the\npurpose of grossing up the Return on Equity (RoE) for truing-up of the tariff for the 2019-\n24 tariff p...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 364,
+      "compliance_type": "Tariff Rate Adjustment",
+      "due_date": "N/A",
+      "affected_entity": "Petitioner Company",
+      "short_summary": "MAT rates for financial years considered effective for RoE grossing up under new tariff regulations."
+    },
+    {
+      "obligation": "The interest\nimposed on any additional income tax demand as per the Assessment Order of the\nIncome Tax Authorities shall be considered on the actual payment.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "High",
+      "source_text_length": 157,
+      "compliance_type": "Tax Payment",
+      "due_date": "N/A",
+      "affected_entity": "Individual or Entity with Additional Income Tax Demand",
+      "short_summary": "Interest on unpaid taxes is due upon actual payment."
+    },
+    {
+      "obligation": "However, the\npenalty (for default on the part of the Assessee), if any, imposed shall not be taken into\naccount for the purpose of grossing up the rate of RoE.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "High",
+      "source_text_length": 159,
+      "compliance_type": "Tax Regulation",
+      "due_date": "2023-12-31 or within six months from assessment date",
+      "affected_entity": "Assessee with defaulted tax payment",
+      "short_summary": "Tax penalty excluded when calculating Return on Equity (RoE)"
+    },
+    {
+      "obligation": "Any under-recovery or over-\nrecovery of the grossed-up rates on the RoE after truing-up shall be recovered from or\nPage 13 of 42\nOrder in Petition No. 427/TT/2025refunded to the beneficiaries or the long-term customers, as the case may be, on a\nyear-to-year basis.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 264,
+      "compliance_type": "Financial Adjustment",
+      "due_date": "N/A",
+      "affected_entity": "Beneficiaries and Long-term Customers",
+      "short_summary": "Recovery of grossed-up rates discrepancies on ROE to be refunded yearly."
+    },
+    {
+      "obligation": "The IWC has been worked out in accordance with Regulation 34 of the 2019\nTariff Regulations.",
+      "section": "Regulation 34",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 92,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Regulation 19 of the 2024 Tariff Regulations provides as follows:\n“19.",
+      "section": "Regulation 19",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 70,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Capital Cost: (1) The Capital cost of the generating station or the transmission\nsystem, as the case may be, as determined by the Commission after prudence checks\nPage 18 of 42\nOrder in Petition No. 427/TT/2025in accordance with these regulations shall form the basis for the determination of tariff\n...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "High",
+      "source_text_length": 330,
+      "compliance_type": "Capital Cost",
+      "due_date": "N/A",
+      "affected_entity": "Generating Station or Transmission System",
+      "short_summary": "Determination of tariff based on prudently checked capital cost."
+    },
+    {
+      "obligation": "(2) The Capital Cost of a new project shall include the following:\n(a) The expenditure incurred or projected to be incurred up to the date of\ncommercial operation of the project;\n(b) Interest during construction and financing charges, on the loans (i) being\nequal to 70% of the funds deployed and, in...",
+      "section": "Regulation 6",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 2724,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "(i) Expenditure on account of change in law and force majeure events;\n(4) & (5) ………\n(6) The following shall be excluded from the capital cost of the existing and new projects:\n(a) The assets forming part of the project but not in use, as declared in the tariff\npetition;\n(b) De-capitalised Assets aft...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 851,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The capital cost has been\ndealt with in line with Regulation 19(3)(a) of the 2024 Tariff Regulations.",
+      "section": "Regulation 19",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 101,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Additional Capitalisation within the original scope and up to the cut-off date\n(1) The additional capital expenditure in respect of a new project or an existing\nproject incurred or projected to be incurred, on the following counts within the original\nscope of work, after the date of commercial opera...",
+      "section": "Regulation 23",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 1492,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Provided that in case of any replacement of the assets, the additional capitalization\nshall be worked out after adjusting the gross fixed assets and cumulative depreciation of\nthe assets replaced on account of de-capitalization.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 228,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "(2) The generating company or the transmission licensee, as the case may be shall\nsubmit the details of works asset wise/work wise included in the original scope of work\nalong with estimates of expenditure, liabilities recognized to be payable at a future date\nand the works deferred for execution.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 298,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    }
+  ],
+  "preview": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No. 427/TT/2025\nCoram:\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nDate of Order: 13.01.2026\nIn the matter of:\nPetition for approval under Section 62 read with Section 79(1)(d) of the Electricity Act,\n2003, and under Regulation 15(1)(a) and Regulation 23 of the Central Electricity\nRegulatory Commission (Conduct of Business) Regulations, 2023, for truing up of the\ntransmission tariff for the 2019-24 period under the Central Electricity Regulatory\nCommission (Terms and Conditions of Tariff) Regulations, 2019, and for determination\nof the transmission tariff for the 2024-29 period under the Central Electricity Regulatory\nCommission (Terms and Conditions of Tariff) Regulations, 2024, for the Combined\nAssets for “765 kV Sys...",
+  "source_name": "CERC"
+}

@@ -1,0 +1,294 @@
+{
+  "filename": "424-mp-2025.pdf",
+  "source_type": "text",
+  "text_length": 36903,
+  "obligations_count": 23,
+  "obligations": [
+    {
+      "obligation": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No. 424/MP/2025\nCoram:\nShri Jishnu Barua, Chairperson\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nShri Ravinder Singh Dhillon, Member\nDate of Order: 12th March, 2026\nIn the matter of:\nPetition under Section 79 (1) (a) & (k) read...",
+      "section": "Section 79",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 650,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "(“Petitioner”/ “NTPC”), has filed the present Petition\nunder Section 79 (1) (a) & (k) read with Section 62 of the Electricity Act, 2003 (“the\nAct”), seeking expenditure towards procurement and capitalization of wagons for\nKahalgaon Super Thermal Power Station, Stage-I (840 MW) (“Kahalgaon-I”) locate...",
+      "section": "Section 79",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 324,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The Petitioner has made the following prayers:\nOrder in Petition No.424/MP/2025 Page 2 of 20a) Allow the expenditure of Rs. 454.49 lakh incurred towards 10 wagons for Kahalgaon\nStage-I for the financial year 2014-15 under Regulation 14(3)(x) of the 2014 Tariff\nRegulations;\nb) Revise the tariff of Ka...",
+      "section": "Regulation 14",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 436,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The Petitioner is a Government Company within the meaning of the\nCompanies Act, 1956 and a ‘Generating Company’ as defined under Section 2(28) of\nthe Electricity Act, 2003 (the Act).",
+      "section": "Section 2",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "High",
+      "source_text_length": 182,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Subsequently, the Petitioner filed Petition No. 294/GT/2020 dated 30.10.2019\nfor truing-up of 2014-19 tariff under Regulation 8(1) of the 2014 Tariff Regulations.",
+      "section": "Regulation 8",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 162,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "In\nits additional submissions dated 10.5.2022 in the said Petition, the Petitioner claimed\nRs. 454.49 lakh towards procurement of 10 wagons under Regulation 14(3)(x) of the\n2014 Tariff Regulations.",
+      "section": "Regulation 14",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 197,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Accordingly, since the issue of wagon capitalization was pending adjudication\nbefore the APTEL, the Commission, vide order dated 19.5.2024 in Petition No.\n294/GT/2020 (read with corrigendum dated 15.6.2024), deferred consideration of the\nclaim while granting liberty to the Petitioner to approach the...",
+      "section": "Regulation 14",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 700,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Order in Petition No.424/MP/2025 Page 4 of 20(b) Regulation 14(3)(x) of the 2014 Tariff Regulations provides for capitalization of\nexpenditure necessitated on account of modifications in the fuel receiving\nsystem arising due to circumstances not within the control of the generating\nstation.",
+      "section": "Regulation 14",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 291,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "This expenditure is, therefore, fully justified under the\nprovisions of Regulation 14(3)(x) of the 2014 Tariff Regulations.",
+      "section": "Regulation 14",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 123,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The principles laid down in the APTEL’s judgment\nmust therefore be applied to the present case.",
+      "section": "N/A",
+      "keywords": [
+        "must"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 95,
+      "compliance_type": "Judicial Precedent",
+      "due_date": "N/A",
+      "affected_entity": "Present Case Entity Name",
+      "short_summary": "Application of APTEL's judgment principles to current case"
+    },
+    {
+      "obligation": "The\nPetitioner must still satisfy Regulation 14(3)(x) of the 2014 Tariff Regulations\nthrough a station-specific prudence check on necessity and control-beyond\ncircumstances.",
+      "section": "Regulation 14",
+      "keywords": [
+        "must"
+      ],
+      "confidence": "high",
+      "risk_level": "High",
+      "source_text_length": 173,
+      "compliance_type": "Regulatory Adherence",
+      "due_date": "N/A",
+      "affected_entity": "Petitioner's Operations",
+      "short_summary": "Station-specific prudence check required for Regulation compliance."
+    },
+    {
+      "obligation": "(b) Regulation 14(3)(x) of the 2014 Tariff Regulations permits additional\ncapitalization only where the same is necessitated on account of\nmodifications in the fuel receiving system arising from non-materialisation of\ncoal linkage or other circumstances not within the control of the generating\nstati...",
+      "section": "Regulation 14",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 303,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "(d) Further, the Petitioner must demonstrate proper decapitalization of old and\nunserviceable wagons through detailed accounting records, so as to avoid\ndouble-counting of assets and impermissible duplication of cost recovery.",
+      "section": "N/A",
+      "keywords": [
+        "must"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium to High depending on current asset management practices and historical compliance record",
+      "source_text_length": 226,
+      "compliance_type": "Asset Management",
+      "due_date": "2023-12-31 or within six months from the date of filing petition, N/A for ongoing processes",
+      "affected_entity": "Petitioner's Company Name",
+      "short_summary": "Ensure accurate decapitalization of old wagons by maintaining detailed accounting records."
+    },
+    {
+      "obligation": "While wagons may be essential to the operation of the generating station,\ntheir characterisation as non-minor assets does not, by itself, entitle the\nPetitioner to capitalization, such claims must still withstand the prudence\ncheck and can only be admitted upon clear demonstration of exceptional\ncir...",
+      "section": "Regulation 14",
+      "keywords": [
+        "must"
+      ],
+      "confidence": "high",
+      "risk_level": "High",
+      "source_text_length": 381,
+      "compliance_type": "Asset Capitalization",
+      "due_date": "N/A",
+      "affected_entity": "Generating Station Wagons",
+      "short_summary": "Wagon capitalization requires exceptional circumstances under Tariff Regulations."
+    },
+    {
+      "obligation": "The subsequent APTEL judgment\ndated 22.11.2024 in the said Appeal has conclusively upheld capitalization\nof wagons under Regulation 14(3)(x) of the 2014 Tariff Regulations.",
+      "section": "Regulation 14",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 172,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Hence, the present\nPetition squarely falls within the protective ambit of the Commission’s order\nand Regulation 14(3)(x) of the 2014 Tariff Regulations.",
+      "section": "Regulation 14",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 152,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Regulation 14(3)(x) of\nthe 2014 Tariff Regulations does not restrict additional capitalization only to\nsituations of complete failure of linkage.",
+      "section": "Regulation 14",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 145,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "(f) BSPHCL’s reliance on the bare wording of Regulation 14(3)(x) of the\n2014 Tariff Regulations to argue that NTPC has not proved uncontrollable\nexigencies ignores the binding precedent of the Hon’ble Supreme Court and\nthe APTEL.",
+      "section": "Regulation 14",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 229,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "In view of these facts, the\nrequirement of prudence check under Regulation 14(3)(x) of the 2014 Tariff\nRegulations stands duly met.",
+      "section": "Regulation 14",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 131,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "NTPC has\ncategorically clarified in its Petition that the wagons are capital assets of\nsignificant operational importance and not minor assets under the proviso to\nRegulation 14(3)(x) of the 2014 Tariff Regulations.",
+      "section": "Regulation 14",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 215,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The\nexpenditure of Rs. 454.49 lakh towards procurement of 10 wagons for\nKahalgaon STPS-I, necessitated due to operational exigencies and\nreplacement of unserviceable wagons, fully satisfies the requirements of\nRegulation 14(3)(x) of the 2014 Tariff Regulation.",
+      "section": "Regulation 14",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 260,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The issue for our\nconsideration is whether the additional capital expenditure of Rs. 454.49 lakh incurred\nby the Petitioner towards the procurement of 10 railway wagons for Kahalgaon STPS\nStage-I during FY 2014-15 is admissible under Regulation 14(3)(x) of the 2014 Tariff\nRegulations.",
+      "section": "Regulation 14",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 285,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "In view of the decision of the APTEL`s judgment dated 22.11.2024 and in terms\nof Regulation 14(3)(x) of the 2014 Tariff Regulations, the additional capital expenditure\nof Rs. 454.49 lakh incurred towards procurement of 10 railway wagons for Kahalgaon\nSTPS Stage-I in FY 2014-15 is admissible.",
+      "section": "Regulation 14",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 292,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    }
+  ],
+  "preview": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No. 424/MP/2025\nCoram:\nShri Jishnu Barua, Chairperson\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nShri Ravinder Singh Dhillon, Member\nDate of Order: 12th March, 2026\nIn the matter of:\nPetition under Section 79 (1) (a) & (k) read with Section 62 of the Electricity Act, 2003\nread with Chapter-V of the CERC (Conduct of Business) Regulations, 1999 & 2023\nand Chapter-3, Regulation 8 of the CERC (Terms and Conditions of Tariff)\nRegulations, 2014 for allowing expenditure towards procurement and capitalization of\nwagons for Kahalgaon Super Thermal Power Station, Stage-I (840 MW).\nAnd\nIn the matter of:\nNTPC Limited\nNTPC Bhawan, Core-7, Scope Complex,\n7, Institutional Area, Lodhi Road\nNew Delhi-110 003 ………Petitioner\nVs\n1. Bihar ...",
+  "source_name": "CERC"
+}

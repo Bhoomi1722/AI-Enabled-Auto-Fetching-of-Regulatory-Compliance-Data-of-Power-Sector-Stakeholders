@@ -1,0 +1,131 @@
+{
+  "filename": "14-td-2026.pdf",
+  "source_type": "text",
+  "text_length": 9969,
+  "obligations_count": 9,
+  "obligations": [
+    {
+      "obligation": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No. 14/TD/2026\nCoram:\nShri Jishnu Barua, Chairperson\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nShri Ravinder Singh Dhillon, Member\nDate of Order: 28th January, 2026\nIn the matter of\nApplication under Section 14 and Section 15(...",
+      "section": "Section 14",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 635,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "Regulation 9(4) of the\nTrading Licence Regulations 2020 provides as under:\n“(4) The Trading Licensee shall make an appropriate application accompanied by\nprescribed fees for up-gradation of its licence to a higher category or down-gradation\nOrder in Petition No. 14/TD/2026 Page 2of its licence to a ...",
+      "section": "Regulation 9",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 453,
+      "compliance_type": "License Upgradation/Downgrading",
+      "due_date": "N/A",
+      "affected_entity": "Trading Licensee",
+      "short_summary": "Application for licence category change required to meet regulatory conditions."
+    },
+    {
+      "obligation": "Regulation 15(1) of the Trading Licence Regulations 2020 provides as under:\n“15(1) Upgradation of licence:\n(a) The Trading Licensee may at any time during a particular year apply for a\nhigher category licence on the basis of the volume proposed to be traded in a particular\nYear.",
+      "section": "Regulation 15",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 279,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "(b) The Trading Licensee shall file an application before the Commission for\nupgradation of its licence to a higher category as soon as he expects the trading\nvolume to exceed the trading volume limit specified for the Trading Licensee’s existing\ncategory.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 256,
+      "compliance_type": "License Upgrade",
+      "due_date": "N/A",
+      "affected_entity": "Trading Licensee",
+      "short_summary": "Application for license upgrade required upon exceeding trading volume limits."
+    },
+    {
+      "obligation": "(c) The Trading Licensee shall be granted an opportunity of being heard by the\nCommission before taking a decision on the application\n(d) The Trading Licensee shall be required to submit the audited special balance sheet\nto support the compliance of Net Worth requirement for higher category licence.",
+      "section": "N/A",
+      "keywords": [
+        "shall",
+        "required"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 300,
+      "compliance_type": "License Application",
+      "due_date": "N/A",
+      "affected_entity": "Trading Licensee",
+      "short_summary": "Opportunity to be heard before decision; Submission of audited balance sheet required."
+    },
+    {
+      "obligation": "(e) The Trading Licensee shall pay licence fee applicable to the higher category licence\nif in a particular Year the licence has been upgraded:\nProvided that in case a Trading Licensee has already paid licence fee applicable for\nits existing lower category licence in a particular year, then the Trad...",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "Medium",
+      "source_text_length": 466,
+      "compliance_type": "Financial Compliance",
+      "due_date": "N/A",
+      "affected_entity": "Trading Licensee",
+      "short_summary": "Pay higher category licence fee if upgraded, otherwise pay difference."
+    },
+    {
+      "obligation": "As regards the\nnet worth requirements for Category ‘IV”, Regulation 3 (3) (a) of the Trading Licence\nRegulations, 2020 provides that a person applying for a Category ‘IV’ trading licence\nshould have a net worth of Rs. 10 crore and should have maintained minimum current\nratio and liquidity ratio of 1...",
+      "section": "Regulation 3",
+      "keywords": [
+        "should"
+      ],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 374,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    },
+    {
+      "obligation": "The\nlicensee shall remain bound by the terms and conditions contained in the order dated\n23.10.2023 in Petition No. 257/TD/2023, whereby it was issued with Category ‘V’\ntrading licence under Trading Licence Regulations, 2020.",
+      "section": "N/A",
+      "keywords": [
+        "shall"
+      ],
+      "confidence": "high",
+      "risk_level": "High",
+      "source_text_length": 225,
+      "compliance_type": "Trading License Compliance",
+      "due_date": "N/A",
+      "affected_entity": "Licensee of Petition No. 257/TD/2023",
+      "short_summary": "Must adhere to Category ‘V’ trading license terms and conditions."
+    },
+    {
+      "obligation": "Let an extract copy of this order be sent to the Central Government (Ministry of\nPower) and the Central Electricity Authority in terms of sub-section (7) of Section 15\nof the Electricity Act, 2003, for their information and record.",
+      "section": "Section 15",
+      "keywords": [],
+      "confidence": "medium",
+      "risk_level": "Medium",
+      "source_text_length": 231,
+      "compliance_type": "Unknown",
+      "due_date": "N/A",
+      "affected_entity": "General",
+      "short_summary": "Basic rule-based detection (LLM skipped for speed)"
+    }
+  ],
+  "preview": "CENTRAL ELECTRICITY REGULATORY COMMISSION\nNEW DELHI\nPetition No. 14/TD/2026\nCoram:\nShri Jishnu Barua, Chairperson\nShri Ramesh Babu V., Member\nShri Harish Dudani, Member\nShri Ravinder Singh Dhillon, Member\nDate of Order: 28th January, 2026\nIn the matter of\nApplication under Section 14 and Section 15(1) of the Electricity Act, 2003 read with\nRegulation 15 (1) and Regulation 9 (4) of the Central Electricity Regulatory\nCommission (Procedure, Terms and Conditions for grant of Trading license and other\nrelated matters) Regulations, 2020 for Up-Gradation of Inter-State trading license in\nelectricity from Category ‘V’ to Category ‘IV’.\nAnd\nIn the matter of\nElsa Consultancy,\nNo. 2461, 4th Main, 2nd ‘A’ Cross,\nHAL, 3rd Stage, BDA Layout,\nBangalore – 560017 …Petitioner\nParties Present:\nShri Tabrez Ma...",
+  "source_name": "CERC"
+}
